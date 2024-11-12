@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Clinic Registration Form</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: white;
+            color: darkgrey;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .container {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 90%;
+            max-width: 400px;
+        }
+        .container h2 {
+            color: green;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .container label {
+            display: block;
+            margin-bottom: 5px;
+        }
+        .container input[type="text"],
+        .container input[type="email"],
+        .container input[type="tel"] {
+            width: 95%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        .container input[type="checkbox"] {
+            margin-top: 20px;
+            margin-right: 5px;
+            padding: 8px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            width: 1.2em;
+            height: 1.2em;
+        }
+        .container button {
+            background-color: green;
+            color: white;
+            padding: 10px;
+            margin: 20px 0;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            width: 100%;
+        }
+        .container button:disabled {
+            background-color: lightgrey;
+            color: darkgrey;
+            cursor: not-allowed;
+        }
+        .container a {
+            color: green;
+            text-decoration: none;
+        }
+    </style>
+    <script>
+        const sessionID = Math.random().toString(36).substring(2);
+        let numberOfFieldsPreviouslyFilled = 0;
+        var termsViewed = false;
+
+        function saveProgress() {
+            const clinicName = document.getElementById('clinicName').value;
+            const email = document.getElementById('email').value;
+            const phoneNumber = document.getElementById('phoneNumber').value;
+            const address = document.getElementById('address').value;
+            const licenseNumber = document.getElementById('licenseNumber').value;
+            const termsAccepted = document.getElementById('terms').checked;
+
+            fetch('https://script.google.com/macros/s/AKfycbzN6pC1dULoEaX92ty29-DXv4lK2_-Cgg4aZiqtoJvg5pPRV22oJdTgokPzbhZ_RTQAHQ/exec', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    sessionID,
+                    clinicName,
+                    email,
+                    phoneNumber,
+                    address,
+                    licenseNumber,
+                    termsViewed,
+                    termsAccepted
+                }),
+                mode: 'no-cors'
+            });
+        }
+
+        function checkFormCompletion() {
+            const clinicName = document.getElementById('clinicName').value;
+            const email = document.getElementById('email').value;
+            const phoneNumber = document.getElementById('phoneNumber').value;
+            const address = document.getElementById('address').value;
+            const licenseNumber = document.getElementById('licenseNumber').value;
+            const termsAccepted = document.getElementById('terms').checked;
+            const submitButton = document.getElementById('submitButton');
+
+            const allFieldsFilled = clinicName && email && phoneNumber && address && licenseNumber && termsAccepted;
+            submitButton.disabled = !allFieldsFilled;
+
+            var numberOfFieldsFilled = [clinicName, email, phoneNumber, address, licenseNumber, termsAccepted].filter(Boolean).length;
+            console.log(numberOfFieldsFilled);
+            
+            
+            // don't save data on every keystroke
+            if (numberOfFieldsFilled != numberOfFieldsPreviouslyFilled) {
+                saveProgress();
+                numberOfFieldsPreviouslyFilled = numberOfFieldsFilled;
+            }
+        }
+
+        function setTermsViewed() {
+            termsViewed = true;
+            console.log('terms viewed: ' + termsViewed);
+            saveProgress();
+        }
+
+        function submitForm() {
+            const clinicName = document.getElementById('clinicName').value;
+            const email = document.getElementById('email').value;
+            const phoneNumber = document.getElementById('phoneNumber').value;
+            const address = document.getElementById('address').value;
+            const licenseNumber = document.getElementById('licenseNumber').value;
+            const termsAccepted = document.getElementById('terms').checked;
+            const submitButton = document.getElementById('submitButton');
+
+            console.log('registering clinic');
+            
+            
+            fetch('https://script.google.com/macros/s/AKfycby3fjsxSfwosIXQJ31QThIyISQ52Xjc8U3takcztiMVdOCGmZwnmgboEC5EArCijK5c8w/exec', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({
+                    sessionID,
+                    clinicName,
+                    email,
+                    phoneNumber,
+                    address,
+                    licenseNumber,
+                    termsViewed,
+                    termsAccepted
+                }),
+                mode: 'no-cors'
+            }).then(() => {
+                console.log('clinic registered');
+                document.getElementsByClassName('container')[0].innerHTML = '<h2>Thank you for registering your clinic. We will get back to you soon.</h2>';
+            });
+        }
+    </script>
+</head>
+<body>
+    <div class="container">
+        <h2>Clinic Registration</h2>
+        <!-- <form> -->
+            <label for="clinicName">Clinic Name</label>
+            <input type="text" id="clinicName" name="clinicName" oninput="checkFormCompletion()" required>
+
+            <label for="email">Email</label>
+            <input type="email" id="email" name="email" oninput="checkFormCompletion()" required>
+
+            <label for="phoneNumber">Phone Number</label>
+            <input type="tel" id="phoneNumber" name="phoneNumber" oninput="checkFormCompletion()" required>
+
+            <label for="address">Address</label>
+            <input type="text" id="address" name="address" oninput="checkFormCompletion()" required>
+
+            <label for="licenseNumber">License Number</label>
+            <input type="text" id="licenseNumber" name="licenseNumber" oninput="checkFormCompletion()" required>
+
+            <label>
+                <input type="checkbox" id="terms" name="terms" oninput="checkFormCompletion()" required>
+                I have read and understood and accept the 
+                <a href="https://jaksa76.github.io/global-dentist.com/terms-and-conditions/terms-and-conditions-20241104.html" target="_blank" onclick="setTermsViewed()">Terms and Conditions</a>
+            </label>
+
+            <button id="submitButton" value="Submit" disabled onclick="submitForm()">Register</button>
+        <!-- </form> -->
+    </div>
+</body>
+</html>

@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,6 +17,7 @@
             align-items: center;
             height: 100vh;
         }
+
         .container {
             background-color: #f9f9f9;
             padding: 20px;
@@ -24,15 +26,18 @@
             width: 90%;
             max-width: 400px;
         }
+
         .container h2 {
             color: green;
             margin-bottom: 20px;
             text-align: center;
         }
+
         .container label {
             display: block;
             margin-bottom: 5px;
         }
+
         .container input[type="text"],
         .container input[type="email"],
         .container input[type="tel"] {
@@ -42,6 +47,11 @@
             border: 1px solid #ccc;
             border-radius: 4px;
         }
+
+        ::placeholder {
+            color: lightgrey;
+        }
+
         .container input[type="checkbox"] {
             margin-top: 20px;
             margin-right: 5px;
@@ -51,6 +61,7 @@
             width: 1.2em;
             height: 1.2em;
         }
+
         .container button {
             background-color: green;
             color: white;
@@ -61,104 +72,95 @@
             cursor: pointer;
             width: 100%;
         }
+
         .container button:disabled {
             background-color: lightgrey;
             color: darkgrey;
             cursor: not-allowed;
         }
+
+        .container .loader {
+            border: 4px solid #f3f3f3;
+            border-top: 4px solid green;
+            border-radius: 50%;
+            width: 20px;
+            height: 20px;
+            animation: spin 2s linear infinite;
+            margin: 0 auto;
+        }
+
         .container a {
             color: green;
             text-decoration: none;
         }
+
+        @keyframes spin {
+            0% {
+                transform: rotate(0deg);
+            }
+
+            100% {
+                transform: rotate(360deg);
+            }
+        }
     </style>
     <script>
+        const SESSION_URL = 'https://script.google.com/macros/s/AKfycbx5AyO7g5zlJ2RfQ0vOo_6A8Y6mUR1DAnsb26bvietaglu0ipm-mLYcwSReKMCQIATO5g/exec';
+        const REGISTRATION_URL = 'https://script.google.com/macros/s/AKfycbzdNPPQtvFY-fTQH5wYClkn2TdbIPSudIQKkFjJTH71vCDJbE1VjteNuP6dootzbsZiNA/exec';
         const sessionID = Math.random().toString(36).substring(2);
         let numberOfFieldsPreviouslyFilled = 0;
         var termsViewed = false;
 
-        function saveProgress() {
+        function getRegistrationData() {
             const clinicName = document.getElementById('clinicName').value;
             const email = document.getElementById('email').value;
             const phoneNumber = document.getElementById('phoneNumber').value;
             const address = document.getElementById('address').value;
             const licenseNumber = document.getElementById('licenseNumber').value;
             const termsAccepted = document.getElementById('terms').checked;
+            return { sessionID, clinicName, email, phoneNumber, address, licenseNumber, termsViewed, termsAccepted };
+        }
 
-            fetch('https://script.google.com/macros/s/AKfycbzN6pC1dULoEaX92ty29-DXv4lK2_-Cgg4aZiqtoJvg5pPRV22oJdTgokPzbhZ_RTQAHQ/exec', {
+        function getNumberOfFieldsFilled(data) {
+            with (data) {
+                return [clinicName, email, phoneNumber, address, licenseNumber, termsAccepted].filter(Boolean).length;
+            }
+        }
+
+        function saveProgress(data) {
+            fetch(SESSION_URL, {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    sessionID,
-                    clinicName,
-                    email,
-                    phoneNumber,
-                    address,
-                    licenseNumber,
-                    termsViewed,
-                    termsAccepted
-                }),
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(data),
                 mode: 'no-cors'
             });
         }
 
         function checkFormCompletion() {
-            const clinicName = document.getElementById('clinicName').value;
-            const email = document.getElementById('email').value;
-            const phoneNumber = document.getElementById('phoneNumber').value;
-            const address = document.getElementById('address').value;
-            const licenseNumber = document.getElementById('licenseNumber').value;
-            const termsAccepted = document.getElementById('terms').checked;
-            const submitButton = document.getElementById('submitButton');
+            const registrationData = getRegistrationData();
+            const numberOfFieldsFilled = getNumberOfFieldsFilled(registrationData);
+            submitButton.disabled = numberOfFieldsFilled < 6;
 
-            const allFieldsFilled = clinicName && email && phoneNumber && address && licenseNumber && termsAccepted;
-            submitButton.disabled = !allFieldsFilled;
-
-            var numberOfFieldsFilled = [clinicName, email, phoneNumber, address, licenseNumber, termsAccepted].filter(Boolean).length;
-            console.log(numberOfFieldsFilled);
-            
-            
             // don't save data on every keystroke
             if (numberOfFieldsFilled != numberOfFieldsPreviouslyFilled) {
-                saveProgress();
+                saveProgress(registrationData);
                 numberOfFieldsPreviouslyFilled = numberOfFieldsFilled;
             }
         }
 
         function setTermsViewed() {
             termsViewed = true;
-            console.log('terms viewed: ' + termsViewed);
             saveProgress();
         }
 
         function submitForm() {
-            const clinicName = document.getElementById('clinicName').value;
-            const email = document.getElementById('email').value;
-            const phoneNumber = document.getElementById('phoneNumber').value;
-            const address = document.getElementById('address').value;
-            const licenseNumber = document.getElementById('licenseNumber').value;
-            const termsAccepted = document.getElementById('terms').checked;
-            const submitButton = document.getElementById('submitButton');
+            submitButton.innerHTML = '<div class="loader"></div>';
+            submitButton.disabled = true;
 
-            console.log('registering clinic');
-            
-            
-            fetch('https://script.google.com/macros/s/AKfycbxNUmMV3cXQWQ_ppkiKufR4Bml_AcX7wJSXVej613jnFGreUNFdNODvcoc-ASpoF1qEhQ/exec', {
+            fetch(REGISTRATION_URL, {
                 method: 'POST',
-                headers: {
-                    'Content-Type': 'application/json'
-                },
-                body: JSON.stringify({
-                    sessionID,
-                    clinicName,
-                    email,
-                    phoneNumber,
-                    address,
-                    licenseNumber,
-                    termsViewed,
-                    termsAccepted
-                }),
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify(getRegistrationData()),
                 mode: 'no-cors'
             }).then(() => {
                 console.log('clinic registered');
@@ -167,33 +169,36 @@
         }
     </script>
 </head>
+
 <body>
     <div class="container">
         <h2>Clinic Registration</h2>
         <!-- <form> -->
-            <label for="clinicName">Clinic Name</label>
-            <input type="text" id="clinicName" name="clinicName" oninput="checkFormCompletion()" required>
+        <label for="clinicName">Clinic Name</label>
+        <input type="text" id="clinicName" name="clinicName" oninput="checkFormCompletion()" required placeholder="Smile Dental">
 
-            <label for="email">Email</label>
-            <input type="email" id="email" name="email" oninput="checkFormCompletion()" required>
+        <label for="email">Email</label>
+        <input type="email" id="email" name="email" oninput="checkFormCompletion()" required placeholder="info@smile.com">
 
-            <label for="phoneNumber">Phone Number</label>
-            <input type="tel" id="phoneNumber" name="phoneNumber" oninput="checkFormCompletion()" required>
+        <label for="phoneNumber">Phone Number</label>
+        <input type="tel" id="phoneNumber" name="phoneNumber" oninput="checkFormCompletion()" required placeholder="+44 123 456 7890">
 
-            <label for="address">Address</label>
-            <input type="text" id="address" name="address" oninput="checkFormCompletion()" required>
+        <label for="address">Address</label>
+        <input type="text" id="address" name="address" oninput="checkFormCompletion()" required placeholder="42 Brown Street, W1D7AB, London, United Kingdom">
 
-            <label for="licenseNumber">License Number</label>
-            <input type="text" id="licenseNumber" name="licenseNumber" oninput="checkFormCompletion()" required>
+        <label for="licenseNumber">License Number</label>
+        <input type="text" id="licenseNumber" name="licenseNumber" oninput="checkFormCompletion()" required placeholder="AZ3598793">
 
-            <label>
-                <input type="checkbox" id="terms" name="terms" oninput="checkFormCompletion()" required>
-                I have read and understood and accept the 
-                <a href="https://jaksa76.github.io/global-dentist.com/terms-and-conditions/terms-and-conditions-20241104.html" target="_blank" onclick="setTermsViewed()">Terms and Conditions</a>
-            </label>
+        <label>
+            <input type="checkbox" id="terms" name="terms" oninput="checkFormCompletion()" required>
+            I have read and understood and accept the
+            <a href="https://jaksa76.github.io/global-dentist.com/terms-and-conditions/terms-and-conditions-20241104.html"
+                target="_blank" onclick="setTermsViewed()">Terms and Conditions</a>
+        </label>
 
-            <button id="submitButton" value="Submit" disabled onclick="submitForm()">Register</button>
+        <button id="submitButton" value="Submit" disabled onclick="submitForm()">Register</button>
         <!-- </form> -->
     </div>
 </body>
+
 </html>

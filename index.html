@@ -1,36 +1,70 @@
 <!doctype html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <link rel="icon" type="image/png" href="images/logo.png" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Global Dentist</title>
-    <script>
-      // Pre-Initialize Google Tag Manager by disabling all tracking. This will be updated by the Cookie Consent component.
-      window.dataLayer = window.dataLayer || [];
-      function gtag() { dataLayer.push(arguments); }
-      gtag('consent', 'default', {
-        'ad_user_data': 'denied',
-        'ad_personalization': 'denied',
-        'ad_storage': 'denied',
-        'analytics_storage': 'denied',
-        'wait_for_update': 500,
-      });
-      dataLayer.push({'gtm.start': new Date().getTime(), 'event': 'gtm.js'});
-    </script>
-    <script type="module" crossorigin src="/assets/index-DgQONb8L.js"></script>
-    <link rel="stylesheet" crossorigin href="/assets/index-BsbaoT8e.css">
-  </head>
-  <body>
-    <script>
-      // Load Tag Manager script.
-      var gtmScript = document.createElement('script');
-      gtmScript.async = true;
-      gtmScript.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-M9DQXBD8';
 
-      var firstScript = document.getElementsByTagName('script')[0];
-      firstScript.parentNode.insertBefore(gtmScript, firstScript);
-    </script>
-    <div id="app"></div>
-  </body>
+<head>
+  <meta charset="UTF-8" />
+  <link rel="icon" type="image/png" href="images/logo.png" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Global Dentist</title>
+  <script>
+    // Pre-Initialize Google Tag Manager by disabling all tracking. This will be updated by the Cookie Consent component.
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag('consent', 'default', {
+      'ad_user_data': 'denied',
+      'ad_personalization': 'denied',
+      'ad_storage': 'denied',
+      'analytics_storage': 'denied',
+      'wait_for_update': 500,
+    });
+    dataLayer.push({ 'gtm.start': new Date().getTime(), 'event': 'gtm.js' });
+    window.addEventListener('cookiesAccepted', function (event) {
+      gtag('consent', 'update', {
+        ad_user_data: 'granted',
+        ad_personalization: 'granted',
+        ad_storage: 'granted',
+        analytics_storage: 'granted'
+      });
+    });
+  </script>
+  <script type="module" crossorigin src="/assets/index-DI_QDocO.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/index-COnXvSYd.css">
+</head>
+
+<body>
+  <!-- Meta Pixel Code -->
+  <script>
+    !function (f, b, e, v, n, t, s) {
+      if (f.fbq) return; n = f.fbq = function () {
+        n.callMethod ?
+        n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+      };
+      if (!f._fbq) f._fbq = n; n.push = n; n.loaded = !0; n.version = '2.0';
+      n.queue = []; t = b.createElement(e); t.async = !0;
+      t.src = v; s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s)
+    }(window, document, 'script',
+      'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('consent', 'revoke');
+    fbq('init', '1066439801900556');
+    fbq('track', 'PageView');
+    window.addEventListener('cookiesAccepted', function (event) {
+      fbq('consent', 'grant');
+    });
+  </script>
+  <noscript><img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=1066439801900556&ev=PageView&noscript=1" /></noscript>
+  <!-- End Meta Pixel Code -->
+  <script>
+    // Load Tag Manager script.
+    var gtmScript = document.createElement('script');
+    gtmScript.async = true;
+    gtmScript.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-M9DQXBD8';
+
+    var firstScript = document.getElementsByTagName('script')[0];
+    firstScript.parentNode.insertBefore(gtmScript, firstScript);
+  </script>
+  <div id="app"></div>
+</body>
+
 </html>

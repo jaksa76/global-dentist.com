@@ -1,0 +1,46 @@
+{
+  "info": {
+    "name": "Radiance Dental Hospital",
+    "description": "It's time to smile!",
+    "longDescription": "It's time to smile!",
+    "email": "info@radiance.al",
+    "phone": "+355685666617"
+  },
+  "images": [
+    {
+      "id": "1735307832499-3e59gqha9",
+      "filename": "1735307831967-DSC00743.jpg",
+      "originalname": "DSC00743.jpg"
+    },
+    {
+      "id": "1735307849699-00pvjlrxe",
+      "filename": "1735307848701-DSC00747.jpg",
+      "originalname": "DSC00747.jpg"
+    },
+    {
+      "id": "1735308103496-1xm94edrf",
+      "filename": "1735308102911-DSC00754.jpg",
+      "originalname": "DSC00754.jpg"
+    },
+    {
+      "id": "1735308116488-gh1mn7pw7",
+      "filename": "1735308116115-DSC00756.jpg",
+      "originalname": "DSC00756.jpg"
+    },
+    {
+      "id": "1735308129485-24atr8yyz",
+      "filename": "1735308128872-DSC00892.jpg",
+      "originalname": "DSC00892.jpg"
+    },
+    {
+      "id": "1735308145697-7a4ije3rx",
+      "filename": "1735308145211-DSC00906.jpg",
+      "originalname": "DSC00906.jpg"
+    },
+    {
+      "id": "1735308179001-fjzy40e6a",
+      "filename": "1735308178425-DSC00908.jpg",
+      "originalname": "DSC00908.jpg"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "info": {
+    "name": "Omnidental",
+    "email": "omnidental.me@gmail.com",
+    "phone": "+38267624395",
+    "description": "Advanced dental care"
+  },
+  "images": [
+    {
+      "id": "1735139963597-4jwzi06hn",
+      "filename": "1735139963443-Ordinacija Daca1.jpg",
+      "originalname": "Ordinacija Daca1.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzQ0My1PcmRpbmFjaWphIERhY2ExLmpwZzp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1735139963598-gxnpnjxbq",
+      "filename": "1735139963495-Ordinacija Daca187.jpg",
+      "originalname": "Ordinacija Daca187.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzQ5NS1PcmRpbmFjaWphIERhY2ExODcuanBnOnlvdXItc2VjcmV0LWtleS1oZXJl"
+    },
+    {
+      "id": "1735139963598-nekwwdhsl",
+      "filename": "1735139963504-Ordinacija Daca215.jpg",
+      "originalname": "Ordinacija Daca215.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzUwNC1PcmRpbmFjaWphIERhY2EyMTUuanBnOnlvdXItc2VjcmV0LWtleS1oZXJl"
+    },
+    {
+      "id": "1735139963598-vomd3s087",
+      "filename": "1735139963587-Ordinacija Daca263.jpg",
+      "originalname": "Ordinacija Daca263.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzU4Ny1PcmRpbmFjaWphIERhY2EyNjMuanBnOnlvdXItc2VjcmV0LWtleS1oZXJl"
+    },
+    {
+      "id": "1735139963598-uf58j06vz",
+      "filename": "1735139963591-Ordinacija Daca305.jpg",
+      "originalname": "Ordinacija Daca305.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzU5MS1PcmRpbmFjaWphIERhY2EzMDUuanBnOnlvdXItc2VjcmV0LWtleS1oZXJl"
+    },
+    {
+      "id": "1735139963598-tosgr62qd",
+      "filename": "1735139963592-Ordinacija Daca324.jpg",
+      "originalname": "Ordinacija Daca324.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzU5Mi1PcmRpbmFjaWphIERhY2EzMjQuanBnOnlvdXItc2VjcmV0LWtleS1oZXJl"
+    },
+    {
+      "id": "1735139963597-3nq0lubn7",
+      "filename": "1735139963484-Ordinacija Daca67.jpg",
+      "originalname": "Ordinacija Daca67.jpg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDAxLW9tbmlkZW50YWw6MTczNTEzOTk2MzQ4NC1PcmRpbmFjaWphIERhY2E2Ny5qcGc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    }
+  ]
+}

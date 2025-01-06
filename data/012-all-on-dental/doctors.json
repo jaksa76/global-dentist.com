@@ -1,0 +1,34 @@
+{
+  "doctors": [
+    {
+      "id": "1735548058945-owjrqm921",
+      "name": "Abdulkadir Coşkuner",
+      "title": "DT - DDS",
+      "licenseNumber": "111111111111",
+      "biography": "TRAINING AND SPECIALITIES\r\n\r\nMarmara University – Prosthesis Applications – 1994\r\nMarmara University – Measurement Techniques –1996\r\nDentsem – All-on-four Prosthesis Applications – 2000\r\nIvoclar Vivadent – Cementation techniques - 2001\r\nDentsem – Implant-mounted prosthesis conventional\r\nimpression techniques – 2004\r\nMarmara University – Laminate applications – 2006\r\nNobel Biocare – All on four prosthetic applications -2008\r\n3M – Aesthetic Applications in the Front Area – 2011\r\nIvoclar Vivadent – Laminate applications – 2013\r\nIvoclar Vivadent - Anterior and Posterior Direct Aesthetic Resin\r\nRestorations - 2016\r\nDentsem - Implant-Top prosthesis digital impression techniques\r\n– 2017\r\nDentsem – Laminate applications from planning to cementation\r\n- 2018\r\nDentsem – Aesthetic Applications in the Anterior Region with\r\nComposite Resins – 2019\r\nIvoclar Vivadent – Laminate applications – 2019\r\nIvoclar Vivadent - Anterior and Posterior Direct Aesthetic Resin\r\nRestorations - 2021",
+      "yearsActive": 36,
+      "specialties": [
+        "Implants",
+        "Crowns",
+        "Veneers"
+      ],
+      "image": "1735548058933-DT â DDS Abdulkadir CoÅkuner.png",
+      "createdAt": "2024-12-30T08:40:58.945Z"
+    },
+    {
+      "id": "1735548247583-fxtszmb31",
+      "name": "Ahmet Sinan Cem Çepeloğlu",
+      "title": "MD - DDS",
+      "licenseNumber": "2222222222222",
+      "biography": "TRAINING AND SPECIALITIES\r\n\r\nOral Implantology Society – Implant Prosthesis – 1993\r\nMIS Implant Türkiye – Implant applications – 1995\r\nStraumann Türkiye – Implant Surgery Applications – 2007\r\nDentsem – Sinus Lifting and Bone Augmentation – 2008\r\nVesta – Implant Top Prostheses – 2008\r\nBego Implant Türkiye – Implant Surgery Applications - 2010\r\nFotona - Applied Hard and Soft Tissue Laser Training – 2010\r\nVesta – Current applications in the treatment of\r\nperiimplantitis – 2011\r\nVesta – All-on-four Surgery – 2011\r\nVesta – All-on-four Prosthesis Applications – 2011\r\nStraumann Türkiye – Advanced Implant Surgery Practices –\r\n2013\r\nDentsem – Sinus lifting in all aspects – 2013\r\nAdvanced Implant – Implant-Top prosthesis conventional\r\nimpression techniques – 2014\r\nAdvanced Implant - Implant-Top prosthesis digital\r\nimpression techniques – 2014\r\nDentsem – Laminate applications from planning to\r\ncementation - 2015\r\nOral Implantology Society - Use of Grafts in Bone Defects -\r\n2016\r\nOral Implantology Association – Sinus Lifting - 2016\r\nDentsem – Aesthetic Applications in the Front Area with\r\nComposite Resins – 2017\r\nIvoclar Vivadent – Laminate applications – 2019\r\nNobel Biocare Türkiye – Zygomatic Implant Application –\r\n2019\r\nGC Türkiye - Anterior and Posterior Direct Aesthetic Resin\r\nRestorations - 2019",
+      "yearsActive": 37,
+      "specialties": [
+        "Implants",
+        "Crowns",
+        "Veneers"
+      ],
+      "image": "1735548247569-MD â DDS Ahmet Sinan Cem ÃepeloÄlu.png",
+      "createdAt": "2024-12-30T08:44:07.583Z"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "id": "1735311606942-evfezdqnb",
+      "description": "1",
+      "beforeImage": null,
+      "afterImage": "1735311606940-WhatsApp Image 2024-11-23 at 12.17.08 (2).jpeg",
+      "createdAt": "2024-12-27T15:00:06.942Z"
+    },
+    {
+      "id": "1735311616845-gbvorhgtb",
+      "description": "2",
+      "beforeImage": null,
+      "afterImage": "1735311616831-WhatsApp Image 2024-11-23 at 12.17.09.jpeg",
+      "createdAt": "2024-12-27T15:00:16.845Z"
+    },
+    {
+      "id": "1735311627765-45swm5a4n",
+      "description": "3",
+      "beforeImage": null,
+      "afterImage": "1735311627764-WhatsApp Image 2024-11-23 at 12.17.08.jpeg",
+      "createdAt": "2024-12-27T15:00:27.765Z"
+    },
+    {
+      "id": "1735311658669-0clpglh52",
+      "description": "4",
+      "beforeImage": null,
+      "afterImage": "1735311658664-WhatsApp Image 2024-11-23 at 12.17.08 (1).jpeg",
+      "createdAt": "2024-12-27T15:00:58.669Z"
+    }
+  ]
+}

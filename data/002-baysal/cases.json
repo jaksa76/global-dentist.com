@@ -1,0 +1,60 @@
+{
+  "cases": [
+    {
+      "id": "1735306960965-qw8tixogv",
+      "description": "AT",
+      "beforeImage": "1735306960944-AT 1.JPG",
+      "afterImage": "1735306960962-AT 2.JPG",
+      "createdAt": "2024-12-27T13:42:40.965Z"
+    },
+    {
+      "id": "1735306999345-lvo37o3yk",
+      "description": "HR",
+      "beforeImage": "1735306999291-HR 1.JPG",
+      "afterImage": "1735306999295-HR 2.JPG",
+      "createdAt": "2024-12-27T13:43:19.345Z"
+    },
+    {
+      "id": "1735307053886-1yd3hxkon",
+      "description": "HR 3/4",
+      "beforeImage": "1735307053797-HR 3.JPG",
+      "afterImage": "1735307053814-HR 4.JPG",
+      "createdAt": "2024-12-27T13:44:13.886Z"
+    },
+    {
+      "id": "1735307226196-a99qtso95",
+      "description": "IM",
+      "beforeImage": "1735307226153-IM 1.JPG",
+      "afterImage": "1735307226173-IM 3.JPG",
+      "createdAt": "2024-12-27T13:47:06.196Z"
+    },
+    {
+      "id": "1735307293102-fpvgzshwn",
+      "description": "KD",
+      "beforeImage": "1735307293051-KD 1.JPG",
+      "afterImage": "1735307293089-KD 2.JPG",
+      "createdAt": "2024-12-27T13:48:13.102Z"
+    },
+    {
+      "id": "1735307352626-muknhno5j",
+      "description": "SL",
+      "beforeImage": "1735307352556-SL 2.JPG",
+      "afterImage": "1735307352619-SL 4,1.JPG",
+      "createdAt": "2024-12-27T13:49:12.626Z"
+    },
+    {
+      "id": "1735307377141-zv6urrxbp",
+      "description": "TB",
+      "beforeImage": "1735307377095-TB 1.JPG",
+      "afterImage": "1735307377130-TB 2.JPG",
+      "createdAt": "2024-12-27T13:49:37.141Z"
+    },
+    {
+      "id": "1735307412517-ge52mk2ki",
+      "description": "TB 3/4",
+      "beforeImage": "1735307412459-TB 3.JPG",
+      "afterImage": "1735307412497-TB 4.JPG",
+      "createdAt": "2024-12-27T13:50:12.517Z"
+    }
+  ]
+}

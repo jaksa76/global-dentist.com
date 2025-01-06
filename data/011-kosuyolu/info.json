@@ -1,0 +1,43 @@
+{
+  "info": {
+    "name": "Koşuyolu Park",
+    "description": "Your Healthy Smile is Our Priority",
+    "longDescription": "Your Healthy Smile is Our Priority",
+    "email": "kosuyolupark@gmail.com",
+    "phone": "+90 505 845 54 53",
+    "town": "Istanbul",
+    "country": "Turkey"
+  },
+  "images": [
+    {
+      "id": "1735311578136-76mr447wl",
+      "filename": "1735311578066-WhatsApp Image 2024-11-23 at 12.57.30.jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.30.jpeg"
+    },
+    {
+      "id": "1735311578136-y1ahtaivw",
+      "filename": "1735311578090-WhatsApp Image 2024-11-23 at 12.57.28.jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.28.jpeg"
+    },
+    {
+      "id": "1735311578136-f8lkgtw4a",
+      "filename": "1735311578105-WhatsApp Image 2024-11-23 at 12.57.29.jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.29.jpeg"
+    },
+    {
+      "id": "1735311578136-pef7ibts8",
+      "filename": "1735311578121-WhatsApp Image 2024-11-23 at 12.57.29 (1).jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.29 (1).jpeg"
+    },
+    {
+      "id": "1735311578136-0fammkz4c",
+      "filename": "1735311578131-WhatsApp Image 2024-11-23 at 12.57.29 (2).jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.29 (2).jpeg"
+    },
+    {
+      "id": "1735311578136-m29irqdk9",
+      "filename": "1735311578133-WhatsApp Image 2024-11-23 at 12.57.29 (3).jpeg",
+      "originalname": "WhatsApp Image 2024-11-23 at 12.57.29 (3).jpeg"
+    }
+  ]
+}

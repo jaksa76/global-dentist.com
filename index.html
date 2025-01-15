@@ -14,10 +14,20 @@
   <meta property="og:image" content="https://global-dentist.com/images/logo.png" />
 
   <title>Global Dentist</title>
+
+  <!-- Google Analytics -->
   <script>
     // Pre-Initialize Google Tag Manager by disabling all tracking. This will be updated by the Cookie Consent component.
     window.dataLayer = window.dataLayer || [];
     function gtag() { dataLayer.push(arguments); }
+    
+    // Configure Google Analytics for A/B testing
+    gtag('config', 'G-X34PQK1G4L', {
+        'custom_map': {
+            'dimension1': 'ab_variant'
+        }
+    });
+    
     gtag('consent', 'default', {
       'ad_user_data': 'denied',
       'ad_personalization': 'denied',
@@ -35,6 +45,7 @@
       });
     });
   </script>
+
   <!-- Hotjar Tracking Code for https://global-dentist.com -->
   <script>
     (function(h,o,t,j,a,r){
@@ -46,7 +57,7 @@
         a.appendChild(r);
     })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
   </script>
-  <script type="module" crossorigin src="/assets/index-B2mZQ67M.js"></script>
+  <script type="module" crossorigin src="/assets/index-ZbUo2G-L.js"></script>
   <link rel="stylesheet" crossorigin href="/assets/index-DwmEm3z3.css">
 </head>
 

@@ -116,14 +116,14 @@
             const email = document.getElementById('email').value;
             const phoneNumber = document.getElementById('phoneNumber').value;
             const address = document.getElementById('address').value;
-            const licenseNumber = document.getElementById('licenseNumber').value;
+            const licenseNumber = 'NA';
             const termsAccepted = document.getElementById('terms').checked;
             return { sessionID, clinicName, email, phoneNumber, address, licenseNumber, termsViewed, termsAccepted };
         }
 
         function getNumberOfFieldsFilled(data) {
             with (data) {
-                return [clinicName, email, phoneNumber, address, licenseNumber, termsAccepted].filter(Boolean).length;
+                return [clinicName, email, phoneNumber, address, termsAccepted].filter(Boolean).length;
             }
         }
 
@@ -139,7 +139,7 @@
         function checkFormCompletion() {
             const registrationData = getRegistrationData();
             const numberOfFieldsFilled = getNumberOfFieldsFilled(registrationData);
-            submitButton.disabled = numberOfFieldsFilled < 6;
+            submitButton.disabled = numberOfFieldsFilled < 5;
 
             // don't save data on every keystroke
             if (numberOfFieldsFilled != numberOfFieldsPreviouslyFilled) {
@@ -185,9 +185,6 @@
 
         <label for="address">Address</label>
         <input type="text" id="address" name="address" oninput="checkFormCompletion()" required placeholder="42 Brown Street, W1D7AB, London, United Kingdom">
-
-        <label for="licenseNumber">License Number</label>
-        <input type="text" id="licenseNumber" name="licenseNumber" oninput="checkFormCompletion()" required placeholder="AZ3598793">
 
         <label>
             <input type="checkbox" id="terms" name="terms" oninput="checkFormCompletion()" required>

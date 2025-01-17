@@ -1,0 +1,17 @@
+{
+  "doctors": [
+    {
+      "id": "1737138324130-gl5h6sk66",
+      "name": "Dr Danijela Vuckovic",
+      "title": "Doctor of Dentistry",
+      "licenseNumber": "030",
+      "biography": "Dr Danijela Vuckovic is a prominent dentist with almost 20 years of experience. She continuously improves her education and skills by attending international dental conferences and is in constant touch with current trends in dentistry. She is fluent in English and communicates in Italian. She is renowned for her gentle approach to patients and spa like atmosphere in her dental practice. That is why her records include patients from every town in Montenegro.",
+      "yearsActive": 17,
+      "specialties": [
+        "General dentistry"
+      ],
+      "image": "1735139963587-DrDaca.jpg",
+      "createdAt": "2025-01-17T18:25:24.130Z"
+    }
+  ]
+}

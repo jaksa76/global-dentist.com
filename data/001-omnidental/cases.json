@@ -1,0 +1,53 @@
+{
+  "cases": [
+    {
+      "id": "1737136279421-74olj0gsm",
+      "description": "Zirconia ceramics on first upper incisors with gums repositioning ",
+      "beforeImage": null,
+      "afterImage": "1737136279265-1000017012.jpg",
+      "createdAt": "2025-01-17T17:51:19.421Z"
+    },
+    {
+      "id": "1737136373817-l0n5lnne0",
+      "description": "Zirconia ceramics",
+      "beforeImage": null,
+      "afterImage": "1737136373779-1000015451.jpg",
+      "createdAt": "2025-01-17T17:52:53.817Z"
+    },
+    {
+      "id": "1737136568594-rhulpzxsr",
+      "description": "Zirconia ceramics",
+      "beforeImage": "1737136568506-1000028864.jpg",
+      "afterImage": "1737136568552-1000028860.jpg",
+      "createdAt": "2025-01-17T17:56:08.594Z"
+    },
+    {
+      "id": "1737136908108-7phqz7vi8",
+      "description": "Ceramic crowns",
+      "beforeImage": "1737136908043-20240603_095150.jpg",
+      "afterImage": "1737136908095-20240603_095133.jpg",
+      "createdAt": "2025-01-17T18:01:48.108Z"
+    },
+    {
+      "id": "1737136985485-ag2lwheeb",
+      "description": "Ceramic crowns",
+      "beforeImage": "1737136985325-20240808_165609.jpg",
+      "afterImage": "1737136985417-20240808_165500.jpg",
+      "createdAt": "2025-01-17T18:03:05.485Z"
+    },
+    {
+      "id": "1737137071589-yaikgovbd",
+      "description": "Ceramic crowns",
+      "beforeImage": "1737137071411-20240624_141633.jpg",
+      "afterImage": "1737137071501-20240624_141510.jpg",
+      "createdAt": "2025-01-17T18:04:31.589Z"
+    },
+    {
+      "id": "1737137262200-uoejy25x9",
+      "description": "Ceramic crowns",
+      "beforeImage": "1737137262032-1000024286.jpg",
+      "afterImage": "1737137262189-1000028893.jpg",
+      "createdAt": "2025-01-17T18:07:42.200Z"
+    }
+  ]
+}

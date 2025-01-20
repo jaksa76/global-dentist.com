@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /contact
+Allow: /faq
+Allow: /terms-and-conditions
+Allow: /classic
+Allow: /wizard
+Allow: /clinic/*
+Disallow: /admin/
+Disallow: /private/
+
+# Sitemap
+Sitemap: https://global-dentist.com/sitemap.xml
+
+# Crawl-delay
+Crawl-delay: 10

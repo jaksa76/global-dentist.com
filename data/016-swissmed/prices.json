@@ -1,0 +1,45 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants - Neodent",
+      "price": 500
+    },
+    {
+      "service": "Dental Implants - Implant Swiss",
+      "price": 400
+    },
+    {
+      "service": "Dental Implants - Straumann Roxolid",
+      "price": 1000
+    },
+    {
+      "service": "Dental Implants - Straumann SLActive",
+      "price": 1200
+    },
+    {
+      "service": "Zirconium Crown",
+      "price": 190
+    },
+    {
+      "service": "Laminate Veneer - Emax",
+      "price": 300
+    },
+    {
+      "service": "Teeth Whitening (Bleaching)",
+      "price": 300
+    },
+    {
+      "service": "Bonding",
+      "price": 150
+    },
+    {
+      "service": "Teeth Cleaning (Scaling) ",
+      "price": 100
+    },
+    {
+      "service": "Total Prosthesis - One Jaw",
+      "price": 1000
+    }
+  ],
+  "currency": "EUR"
+}

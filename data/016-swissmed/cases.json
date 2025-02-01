@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "1738333703618-b2d45ltbr",
+      "description": "Before & After Treatment",
+      "beforeImage": "1738333703536-Before.jpeg",
+      "afterImage": "1738333703594-After.jpeg",
+      "createdAt": "2025-01-31T14:28:23.618Z"
+    },
+    {
+      "id": "1738334877078-ewn0ekoth",
+      "description": "Before % After Treatment 2",
+      "beforeImage": "1738334876940-BeforeF.jpeg",
+      "afterImage": "1738334877049-AfterF.jpeg",
+      "createdAt": "2025-01-31T14:47:57.078Z"
+    }
+  ]
+}

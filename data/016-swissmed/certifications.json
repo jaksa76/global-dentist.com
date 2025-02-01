@@ -1,0 +1,16 @@
+{
+  "certifications": [
+    {
+      "id": "1738403160141-vfwuaplpv",
+      "name": "Clinic Certification",
+      "image": "1738403159979-Ruhsat.png",
+      "createdAt": "2025-02-01T09:46:00.141Z"
+    },
+    {
+      "id": "1738403320937-m6h5uo42f",
+      "name": "International Health Tourism Authorization Certificate",
+      "image": "1738403320820-International_Health_Tourism_Certfication.png",
+      "createdAt": "2025-02-01T09:48:40.937Z"
+    }
+  ]
+}

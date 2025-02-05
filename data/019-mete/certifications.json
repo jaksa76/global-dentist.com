@@ -1,0 +1,22 @@
+{
+  "certifications": [
+    {
+      "id": "1738743973334-vngxuqun7",
+      "name": "Warranty Certificate ",
+      "image": "1738743973192-EnglishMete_Dental_clinic_certificate.png",
+      "createdAt": "2025-02-05T08:26:13.334Z"
+    },
+    {
+      "id": "1738745348502-kkq50xxuv",
+      "name": "Implant passport Sample",
+      "image": "1738745348435-meggen_t.jpeg",
+      "createdAt": "2025-02-05T08:49:08.502Z"
+    },
+    {
+      "id": "1738745365794-iq6e2srvi",
+      "name": "Implant passport ",
+      "image": "1738745365753-I__mplant_certificate_Megegann__2.jpg",
+      "createdAt": "2025-02-05T08:49:25.794Z"
+    }
+  ]
+}

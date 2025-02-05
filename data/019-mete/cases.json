@@ -1,0 +1,53 @@
+{
+  "cases": [
+    {
+      "id": "1738746142110-0igq8v5zn",
+      "description": "BEFOER AND AFTER ",
+      "beforeImage": "1738746142101-befoer_roel.JPG",
+      "afterImage": "1738746142104-after_roel.JPG",
+      "createdAt": "2025-02-05T09:02:22.110Z"
+    },
+    {
+      "id": "1738746634621-26vqa3lfg",
+      "description": "Full mouth Implant and crowns",
+      "beforeImage": "1738746634610-2b.jpeg",
+      "afterImage": "1738746634616-2a.jpeg",
+      "createdAt": "2025-02-05T09:10:34.621Z"
+    },
+    {
+      "id": "1738746684414-ze7vkfmp2",
+      "description": "New smile with Zirconium crowns",
+      "beforeImage": "1738746684401-1b.jpeg",
+      "afterImage": "1738746684404-1a.jpeg",
+      "createdAt": "2025-02-05T09:11:24.414Z"
+    },
+    {
+      "id": "1738746793716-278c2o3x0",
+      "description": "Small adjustments for a Better smile.",
+      "beforeImage": "1738746793674-3b.jpeg",
+      "afterImage": "1738746793704-3a.jpeg",
+      "createdAt": "2025-02-05T09:13:13.716Z"
+    },
+    {
+      "id": "1738746881303-vun56ipmz",
+      "description": "Transforming smiles with simple bonding enhancements.",
+      "beforeImage": "1738746881290-4_b.jpeg",
+      "afterImage": "1738746881293-3_af.jpeg",
+      "createdAt": "2025-02-05T09:14:41.303Z"
+    },
+    {
+      "id": "1738747230174-3xt6dvyox",
+      "description": "A Complete Smile Makeover with crowns ",
+      "beforeImage": "1738747230169-5b.JPG",
+      "afterImage": "1738747230170-5a.JPG",
+      "createdAt": "2025-02-05T09:20:30.174Z"
+    },
+    {
+      "id": "1738747254726-64knpgitz",
+      "description": "Full Mouth Restoration with Implants – A Complete Smile Makeover.",
+      "beforeImage": "1738747254722-6_im_b.JPG",
+      "afterImage": "1738747254723-6_im_a.JPG",
+      "createdAt": "2025-02-05T09:20:54.726Z"
+    }
+  ]
+}

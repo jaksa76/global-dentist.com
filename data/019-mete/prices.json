@@ -1,0 +1,49 @@
+{
+  "prices": [
+    {
+      "service": "Teeth Whitening",
+      "price": 250
+    },
+    {
+      "service": "Invisalign",
+      "price": 3000
+    },
+    {
+      "service": "Braces",
+      "price": 2000
+    },
+    {
+      "service": "Root Canal",
+      "price": 100
+    },
+    {
+      "service": "Extractions",
+      "price": 40
+    },
+    {
+      "service": "Hollywood Smile starting from €2,750 to €3,000 (for 24-28 zirconium crowns).",
+      "price": 2750
+    },
+    {
+      "service": "Implant prices vary by brand, starting from €200 to €850.",
+      "price": 200
+    },
+    {
+      "service": "With full mouth treatments like a Hollywood Smile or others, root canals are provided free of charge.",
+      "price": 0
+    },
+    {
+      "service": "Zirconium crowns per unit.",
+      "price": 120
+    },
+    {
+      "service": "Porcelain crowns per unit.",
+      "price": 90
+    },
+    {
+      "service": "fillings ",
+      "price": 70
+    }
+  ],
+  "currency": "EUR"
+}

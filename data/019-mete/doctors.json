@@ -1,0 +1,133 @@
+{
+  "doctors": [
+    {
+      "id": "1738748434761-jp9knnzuz",
+      "name": "Drs Selin Banu Taş Kılıç",
+      "title": "Responsible Manager",
+      "licenseNumber": "1001",
+      "biography": "Dr. Selin Banu Taş Kılıç, a highly skilled dentist and Mesul Müdür (Responsible Manager), has dedicated her career to providing exceptional dental care. Born in Antalya in 1991, Dr. Kılıç completed her high school education at the esteemed Cağaloğlu Anadolu Lisesi in Istanbul and earned her dentistry degree from Marmara University’s Faculty of Dentistry in 2015.\r\n\r\nAfter gaining two years of professional experience working in various clinics in Istanbul, Dr. Kılıç established her own clinic in Bahçelievler in 2017. Continuing her pursuit of excellence, she co-founded Özel Mete Ağız ve Diş Sağlığı Polikliniği with her husband in 2024, where she continues to treat patients.\r\n\r\nDr. Kılıç specializes in aesthetic dentistry and smile design, focusing on zirconium and e.max crowns, laminate veneers, and fixed prosthetics over implants. Additionally, she has a strong interest in health tourism and regularly attends congresses and training programs to further enhance her skills. Her dedication to innovation and quality has earned her numerous certifications and expertise in delivering modern, patient-centered dental care.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [],
+      "languages": [
+        "Turkish"
+      ],
+      "image": "1738748434740-sel__n.webp",
+      "createdAt": "2025-02-05T09:40:34.762Z"
+    },
+    {
+      "id": "1738748578559-t6sfqs9go",
+      "name": " İrfan Kılıç",
+      "title": "Dr  & Co-partner ",
+      "licenseNumber": "20002",
+      "biography": "Dr. İrfan Kılıç is a dedicated dental professional who graduated from Marmara University in 2014. Following his graduation, he expanded his expertise through various specialized training programs in cosmetic dentistry, basic implantology, advanced surgical procedures, fixed prosthetics on implants, and health tourism. After gaining valuable experience working in private clinics for two years, he married Dr. Selin Banu Taş Kılıç in 2016.\r\n\r\nIn 2017, Dr. Kılıç and his wife took over an existing dental practice in Bahçelievler Yenibosna, which had been operating for three years prior to their involvement. Together, they continue to offer patient care on designated days.\r\n\r\n As a father of one, Dr. Kılıç upholds high ethical standards in his practice, ensuring that his patients receive care grounded in integrity and professionalism. His commitment to ongoing education and patient-centered care reflects his passion for dentistry and his dedication to improving the lives of those he serves.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Aesthetic Dentistry",
+        "Smile Design",
+        "Zirconium Crowns",
+        "Endodontics",
+        "& Hospital management"
+      ],
+      "languages": [
+        "Turkish and English"
+      ],
+      "image": "1738748578526-Ifran.jpg",
+      "createdAt": "2025-02-05T09:42:58.559Z"
+    },
+    {
+      "id": "1738748720983-ayfohdt9s",
+      "name": "Dr Yusuf Efe",
+      "title": "Hollywood smile specialist ",
+      "licenseNumber": "3000",
+      "biography": "Dr. Yusuf Efe, an accomplished dentist, was born in Erzincan in 1998. He completed his high school education at Erzincan Fen Lisesi in 2016 and graduated from Selçuk University’s Faculty of Dentistry in 2021.\r\n\r\nAfter earning his degree, Dr. Efe pursued certifications and specialized in advanced dental procedures, including smile design, laminate veneers, zirconium restorations, and implant treatments. His dedication to excellence is further demonstrated by his experience working in prestigious private clinics in Izmit and Istanbul, where he gained extensive expertise in routine and specialized dental care.\r\n\r\nWith additional experience in health tourism, Dr. Efe now serves patients at Özel Mete Ağız ve Diş Sağlığı Polikliniği, delivering high-quality, patient-centered dental care using the latest techniques and innovations in the field.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Aesthetic Dentistry",
+        "Smile Design",
+        "Zirconium Crowns",
+        "& Endodontics"
+      ],
+      "languages": [
+        "Turkish & English"
+      ],
+      "image": "1738748720968-Yusuf.jpg",
+      "createdAt": "2025-02-05T09:45:20.983Z"
+    },
+    {
+      "id": "1738748966892-fq0vly8w5",
+      "name": " Dr Muhammed Ay",
+      "title": "Dentist ",
+      "licenseNumber": "4000",
+      "biography": "Dr. Muhammed Ay, a promising young dentist, was born in Istanbul in 2000. He completed his high school education at the reputable Samiha Ayverdi Anadolu Lisesi in Istanbul and graduated from Trakya University’s Faculty of Dentistry in 2023.\r\n\r\nDr. Ay has focused his professional development on aesthetic dentistry, smile design, zirconium crowns, endodontics, and health tourism. He has participated in various training programs to further his expertise in these fields and earned multiple certifications.\r\n\r\nAfter gaining experience working in several clinics across Istanbul, Dr. Ay now provides exceptional dental care at Özel Mete Ağız ve Diş Sağlığı Polikliniği, where he continues to offer high-quality, patient-centered dental treatments.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Dentistry",
+        "Zirconium Crowns",
+        "& Endodontics"
+      ],
+      "languages": [
+        "Turkish"
+      ],
+      "image": "1738748966891-dis-muhammed-ay-metedis-1.jpg",
+      "createdAt": "2025-02-05T09:49:26.892Z"
+    },
+    {
+      "id": "1738749064108-i77h671ri",
+      "name": "Dr Ecem SALMAZ",
+      "title": "Pediatric Dentistry Specialist",
+      "licenseNumber": "5000",
+      "biography": "Dr. Ecem Salmaz, a dedicated pediatric dentist, was born in Izmir in 1998. She completed her high school education at Izmir Kız Lisesi and graduated from Istanbul Aydın University in 2022. The same year, she was accepted into the doctoral program in Pedodontics (Pediatric Dentistry) at Istanbul Aydın University.\r\n\r\nAn active contributor to academia, Dr. Salmaz has published numerous articles in prominent journals. She specializes in pediatric dentistry, focusing on providing compassionate and expert care for children. Dr. Salmaz continuously hones her skills by participating in various congresses and training courses.\r\n\r\nCurrently, she serves patients at Özel Mete Ağız ve Diş Sağlığı Polikliniği, combining her academic expertise with clinical excellence to ensure the best outcomes for her young patients.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Expert Care for Children",
+        "Academic Excellence in Pedodontics"
+      ],
+      "languages": [
+        "Turkish & English"
+      ],
+      "image": "1738749064079-ecee.JPG",
+      "createdAt": "2025-02-05T09:51:04.108Z"
+    },
+    {
+      "id": "1738749600253-thlofuc62",
+      "name": "Dr Ünal Öğüncü",
+      "title": "Periodontology, & Prosthetic Dentistry",
+      "licenseNumber": "6000",
+      "biography": "Dr. Ünal Öğüncü, a highly skilled and versatile dentist, was born in Antakya in 1989. He completed his high school education at the prestigious Selim Nevzat Şahin Anadolu Lisesi in Hatay and graduated from Marmara University’s Faculty of Dentistry in 2014.\r\n\r\nSpecializing in periodontology (gum treatments), implantology, prosthetic dentistry, smile design, endodontics, and conservative dentistry, Dr. Öğüncü has earned numerous certifications by attending several congresses and training programs. His deep commitment to dental excellence is reflected in his diverse skill set and continual pursuit of knowledge.\r\n\r\nAfter gaining significant experience working in various clinics in Istanbul, Dr. Öğüncü now provides high-quality dental care at Özel Mete Ağız ve Diş Sağlığı Polikliniği, where he continues to deliver exceptional services to his patients.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Expert in Periodontology",
+        "& Prosthetic Dentistry"
+      ],
+      "languages": [
+        "Turkish & Englsih"
+      ],
+      "image": "1738749600251-Unal.webp",
+      "createdAt": "2025-02-05T10:00:00.253Z"
+    },
+    {
+      "id": "1738750061192-dfsozu6s1",
+      "name": "Dr Süleyman Buğrahan KAZAK",
+      "title": "Orthodontics Specialist",
+      "licenseNumber": "70001",
+      "biography": "Dr. Süleyman Buğrahan KAZAK is a leading orthodontist in Istanbul, born in 1991. After completing his primary education at Gökkuşağı College and secondary education at Adnan Menderes Anatolian High School, he graduated from the Faculty of Dentistry at Bezmi-alem Vakıf University in 2017. Passionate about orthodontics, Dr. KAZAK continued his expertise by pursuing a doctorate at Biruni University, specializing in advanced orthodontic techniques, and completed his education in 2022. \r\n\r\nThat same year, he founded Esistanbul Oral and Dental Health Polyclinic, where he offers cutting-edge orthodontic treatments, including Invisalign. With a focus on transparent plate orthodontics, Dr. KAZAK combines innovation and precision to provide personalized, comfortable solutions for his patients. Married and a father of one, he is committed to transforming smiles with excellence and care.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Expert in Transparent Plate  or Metal Orthodontics",
+        "&  Invisalign Provider"
+      ],
+      "languages": [
+        "Turkish & Englsih"
+      ],
+      "image": "1738750061180-suleyman-bugrahan-kazak-gorsel.jpg",
+      "createdAt": "2025-02-05T10:07:41.192Z"
+    }
+  ]
+}

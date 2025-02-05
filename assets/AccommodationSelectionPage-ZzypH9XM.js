@@ -1,1 +1,0 @@
-import{j as a,o as r,U as n,w as s,p as e,n as c,B as u}from"./index-0j4hI6hW.js";const l={__name:"AccommodationSelectionPage",setup(p){const o=a();return(i,t)=>(r(),n(e(u),{type:"primary",strong:"",onClick:t[0]||(t[0]=m=>e(o).back())},{default:s(()=>[c("Ok")]),_:1}))}};export{l as default};

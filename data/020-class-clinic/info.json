@@ -1,0 +1,96 @@
+{
+  "info": {
+    "name": "Class Clinic",
+    "email": "merve.aksu@classhair.net",
+    "phone": "0501 702 11 00",
+    "address": "Beşyol Mahallesi, Çimen Sokak, Bina No: 21, 34295 Küçükçekmece/İSTANBUL",
+    "description": "\nWe provide professional service in oral and dental health treatment with our expert physician staff.",
+    "longDescription": "In our polyclinic established in Istanbul, we provide services with expert doctors and experienced staff. We have always adopted the vision of satisfaction-guaranteed service with our physicians who are experts in many fields such as hair transplantation, dentistry and medical aesthetics."
+  },
+  "images": [
+    {
+      "id": "1738755956016-57qolohyq",
+      "filename": "1738755956006-WhatsApp_Image_2025-01-28_at_16.44.41__1_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.41 (1).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDA2LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDFfXzFfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-c8op9ho07",
+      "filename": "1738755955935-WhatsApp_Image_2025-01-28_at_16.44.40.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.40.jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1OTM1LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDAuanBlZzp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1738755956016-mp3sxosho",
+      "filename": "1738755955918-WhatsApp_Image_2025-01-28_at_16.44.40__1_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.40 (1).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1OTE4LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDBfXzFfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-hha3khcgz",
+      "filename": "1738755956012-WhatsApp_Image_2025-01-28_at_16.44.42__1_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.42 (1).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDEyLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDJfXzFfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-pg2lcbfk0",
+      "filename": "1738755956013-WhatsApp_Image_2025-01-28_at_16.44.42.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.42.jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDEzLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDIuanBlZzp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1738755956016-awpurswq9",
+      "filename": "1738755956009-WhatsApp_Image_2025-01-28_at_16.44.41__2_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.41 (2).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDA5LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDFfXzJfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-huzldu2v2",
+      "filename": "1738755956010-WhatsApp_Image_2025-01-28_at_16.44.41__3_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.41 (3).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDEwLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDFfXzNfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-mzanyilat",
+      "filename": "1738755956011-WhatsApp_Image_2025-01-28_at_16.44.41__4_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.41 (4).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDExLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDFfXzRfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-9dy0nel7m",
+      "filename": "1738755956011-WhatsApp_Image_2025-01-28_at_16.44.41.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.41.jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU2MDExLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDEuanBlZzp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1738755956016-559xfal7b",
+      "filename": "1738755955928-WhatsApp_Image_2025-01-28_at_16.44.40__2_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.40 (2).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1OTI4LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDBfXzJfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-fcb4xqplj",
+      "filename": "1738755955737-WhatsApp_Image_2025-01-28_at_16.44.39__1_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.39 (1).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1NzM3LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuMzlfXzFfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-x2fnfw9sy",
+      "filename": "1738755955872-WhatsApp_Image_2025-01-28_at_16.44.39__2_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.39 (2).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1ODcyLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuMzlfXzJfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1738755956016-9ku2jnscx",
+      "filename": "1738755955909-WhatsApp_Image_2025-01-28_at_16.44.39.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.39.jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1OTA5LVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuMzkuanBlZzp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1738755956016-gyopo03yj",
+      "filename": "1738755955932-WhatsApp_Image_2025-01-28_at_16.44.40__3_.jpeg",
+      "originalname": "WhatsApp Image 2025-01-28 at 16.44.40 (3).jpeg",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDIwLWNsYXNzLWNsaW5pYzoxNzM4NzU1OTU1OTMyLVdoYXRzQXBwX0ltYWdlXzIwMjUtMDEtMjhfYXRfMTYuNDQuNDBfXzNfLmpwZWc6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    }
+  ]
+}

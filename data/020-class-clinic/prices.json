@@ -1,0 +1,45 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants",
+      "price": 210
+    },
+    {
+      "service": "Crowns",
+      "price": 120
+    },
+    {
+      "service": "Veneers",
+      "price": 220
+    },
+    {
+      "service": "Hollywood Smile",
+      "price": 3360
+    },
+    {
+      "service": "Bridges",
+      "price": 280
+    },
+    {
+      "service": "Dentures",
+      "price": 625
+    },
+    {
+      "service": "Teeth Whitening",
+      "price": 150
+    },
+    {
+      "service": "Root Canal",
+      "price": 85
+    },
+    {
+      "service": "Extractions",
+      "price": 40
+    },
+    {
+      "service": "Deep Cleaning",
+      "price": 200
+    }
+  ],
+  "currency": "EUR"
+}

@@ -1,0 +1,41 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants",
+      "price": 400
+    },
+    {
+      "service": "Crowns",
+      "price": 80
+    },
+    {
+      "service": "Veneers",
+      "price": 200
+    },
+    {
+      "service": "Teeth Whitening",
+      "price": 200
+    },
+    {
+      "service": "Root Canal",
+      "price": 60
+    },
+    {
+      "service": "Extractions",
+      "price": 35
+    },
+    {
+      "service": "Deep Cleaning",
+      "price": 180
+    },
+    {
+      "service": "Dental Botox",
+      "price": 200
+    },
+    {
+      "service": "Curettage",
+      "price": 150
+    }
+  ],
+  "currency": "EUR"
+}

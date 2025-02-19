@@ -1,0 +1,40 @@
+{
+  "certifications": [
+    {
+      "id": "1739895252316-dztr8wt0e",
+      "name": "Master in Laser ",
+      "image": "1739895252074-IMG_6663.jpeg",
+      "createdAt": "2025-02-18T16:14:12.316Z"
+    },
+    {
+      "id": "1739895287155-7a4e5b9mf",
+      "name": "Master in Aesthetic and restorative Dentistry",
+      "image": "1739895287030-IMG_6667.jpeg",
+      "createdAt": "2025-02-18T16:14:47.155Z"
+    },
+    {
+      "id": "1739895329288-qmc6lgpa6",
+      "name": "Implantology ",
+      "image": "1739895329033-image.jpg",
+      "createdAt": "2025-02-18T16:15:29.288Z"
+    },
+    {
+      "id": "1739895370517-jzek3fev9",
+      "name": "Clinical Dentisry",
+      "image": "1739895370413-image.jpg",
+      "createdAt": "2025-02-18T16:16:10.517Z"
+    },
+    {
+      "id": "1739895419314-w1hnnwtlg",
+      "name": "Go",
+      "image": "1739895419140-image.jpg",
+      "createdAt": "2025-02-18T16:16:59.314Z"
+    },
+    {
+      "id": "1739895530397-nwymo4j6q",
+      "name": "KKSHM national congress",
+      "image": "1739895530227-image.jpg",
+      "createdAt": "2025-02-18T16:18:50.397Z"
+    }
+  ]
+}

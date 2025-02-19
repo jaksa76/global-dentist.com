@@ -1,0 +1,57 @@
+{
+  "prices": [
+    {
+      "service": "Zirconia",
+      "price": 199
+    },
+    {
+      "service": "Veneers",
+      "price": 349
+    },
+    {
+      "service": "E Max crown",
+      "price": 299
+    },
+    {
+      "service": "Dentures ",
+      "price": 399
+    },
+    {
+      "service": "Teeth Whitening",
+      "price": 149
+    },
+    {
+      "service": "Invisalign",
+      "price": 1499
+    },
+    {
+      "service": "Braces",
+      "price": 1199
+    },
+    {
+      "service": "Root Canal",
+      "price": 70
+    },
+    {
+      "service": "Extractions",
+      "price": 49
+    },
+    {
+      "service": "Deep Cleaning",
+      "price": 49
+    },
+    {
+      "service": "Dio Implants (korean)",
+      "price": 350
+    },
+    {
+      "service": "Swiss implant(Switzerland)",
+      "price": 500
+    },
+    {
+      "service": "Straumann (Switzerland)",
+      "price": 1200
+    }
+  ],
+  "currency": "EUR"
+}

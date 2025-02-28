@@ -1,11 +1,68 @@
 {
-	"info": {
-		"name": "Dr Popovic Dental Polyclinic",
-			"description": "Thank you for your confidence",
-			"longDescription": "Thank you for your confidence",
-			"email": "info@drpopovic.com",
-			"phone": "+381601111000",
-			"town": "Belgrade",
-			"country": "Serbia"
-	}
+  "info": {
+    "name": "Dr Popovic Dental Polyclinic",
+    "description": "Welcome to Dr Popovic Dental Clinic in Belgrade\n- From routine checkups to advanced procedures, our expert team is dedicated to improving your oral health and overall well-being",
+    "longDescription": "As one of the first private dental practices in Serbia, we offer a wide range of specialist doctors in various fields of dentistry. This enables us to provide a diverse array of services, primarily focused on improving our patients' quality of life, particularly through oral surgery and implantology, as well as prosthodontics, periodontics, orthodontics, and paediatric dentistry, among other fields.\n\nWe are the only dental practice in Serbia accredited by TEMOS International GmbH and holders of the Diplomatic Council certificate. Additionally, we are certified in accordance with the requirements of ISO 9001:2015.\n\nApart from our clients from Serbia, more and more clients from all over the world are using our dental services. The increase in their numbers is easily explained by Belgrade being a popular tourist destination, and when you combine that with top-quality dental services provided with empathy and care for our patients, you get a winning combination! Many satisfied clients can agree with this since many of them are coming to Belgrade even after the treatment.\n\nWe invite you to enjoy all the qualities of our services and become a part of our family tradition!\n",
+    "email": "info@drpopovic.com",
+    "phone": "+381601111000",
+    "town": "Belgrade",
+    "country": "Serbia",
+    "address": "Bregalnicka 6a, Belgrade, Serbia"
+  },
+  "images": [
+    {
+      "id": "1740746362430-ndhqfu25f",
+      "filename": "1740746362415-DSC00391-scaled.webp",
+      "originalname": "DSC00391-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQxNS1EU0MwMDM5MS1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-8fu94z7y5",
+      "filename": "1740746362409-DSC00092-scaled.webp",
+      "originalname": "DSC00092-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQwOS1EU0MwMDA5Mi1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-b0h66e6lf",
+      "filename": "1740746362398-4.webp",
+      "originalname": "4.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjM5OC00LndlYnA6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1740746362430-l6itn7mef",
+      "filename": "1740746362409-5.webp",
+      "originalname": "5.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQwOS01LndlYnA6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    },
+    {
+      "id": "1740746362430-fz53vljs2",
+      "filename": "1740746362418-DSC00442-scaled.webp",
+      "originalname": "DSC00442-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQxOC1EU0MwMDQ0Mi1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-fu8pli8oo",
+      "filename": "1740746362419-DSC05187-scaled.webp",
+      "originalname": "DSC05187-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQxOS1EU0MwNTE4Ny1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-wp5w6nqiz",
+      "filename": "1740746362419-DSC05301-scaled.webp",
+      "originalname": "DSC05301-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQxOS1EU0MwNTMwMS1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-76gcatl9q",
+      "filename": "1740746362426-DSC07907-scaled.webp",
+      "originalname": "DSC07907-scaled.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQyNi1EU0MwNzkwNy1zY2FsZWQud2VicDp5b3VyLXNlY3JldC1rZXktaGVyZQ=="
+    },
+    {
+      "id": "1740746362430-ri06smn7a",
+      "filename": "1740746362418-DSC04024-1.webp",
+      "originalname": "DSC04024-1.webp",
+      "url": "https://global-dentist-clinic-mgt-backend.onrender.com/api/v1/images/MDA3LXBvcG92aWM6MTc0MDc0NjM2MjQxOC1EU0MwNDAyNC0xLndlYnA6eW91ci1zZWNyZXQta2V5LWhlcmU="
+    }
+  ]
 }

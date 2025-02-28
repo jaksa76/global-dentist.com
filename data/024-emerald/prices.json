@@ -1,0 +1,21 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants",
+      "price": 400
+    },
+    {
+      "service": "Crowns",
+      "price": 200
+    },
+    {
+      "service": "Teeth Whitening",
+      "price": 100
+    },
+    {
+      "service": "Deep Cleaning",
+      "price": 30
+    }
+  ],
+  "currency": "EUR"
+}

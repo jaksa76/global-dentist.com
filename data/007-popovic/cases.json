@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "1740748424865-siu73bqh8",
+      "description": "New smile :)",
+      "beforeImage": "1740748424781-Pre-i-posle-10.jpg",
+      "afterImage": "1740748424849-Pre-i-posle-11.jpg",
+      "createdAt": "2025-02-28T13:13:44.865Z"
+    },
+    {
+      "id": "1740748462340-79vfx7l7v",
+      "description": "New smile :)",
+      "beforeImage": "1740748462259-Pre-i-posle-12.jpg",
+      "afterImage": "1740748462290-Pre-i-posle-13.jpg",
+      "createdAt": "2025-02-28T13:14:22.340Z"
+    }
+  ]
+}

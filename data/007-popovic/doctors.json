@@ -1,0 +1,22 @@
+{
+  "doctors": [
+    {
+      "id": "1740746719371-vq98wiobb",
+      "name": "Nemanja Popovic",
+      "title": "Dr. sci. med.",
+      "licenseNumber": "123456",
+      "biography": "\r\nDr. Nemanja Popovic graduated from the University of Dentistry in Belgrade in 2005.\r\n\r\nHe obtained a Master’s degree in oral surgery and implantology in 2011 with the topic “Possibilities of immediate loading of Straumann implants implanted by bone condensation technique in the posterior maxilla”.\r\n\r\nIn 2013, he obtained a Specialist Oral Surgeon degree from the same University and is currently a dental sciences PhD candidate.\r\n\r\nIn 2016, he obtained the title of Specialist for Regeneration in Dental Implantology and Periodontology, under a program led by professors from University Charité, Berlin.\r\n\r\nHe continuously participates in numerous seminars and congresses related to various areas of dental services, materials, and innovations in order to provide the highest possible quality of service to his patients.\r\n",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [
+        "Oral Surgery and Implantology Specialist"
+      ],
+      "languages": [
+        "English",
+        "French"
+      ],
+      "image": "1740746719365-dr-Nemanja-Popovic.webp",
+      "createdAt": "2025-02-28T12:45:19.372Z"
+    }
+  ]
+}

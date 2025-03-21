@@ -1,0 +1,1 @@
+const e=[{id:"dentalImplants",image:"/images/icons/implant.png",fixedAmount:!1},{id:"crowns",image:"/images/icons/crown.png",fixedAmount:!1},{id:"veneers",image:"/images/icons/veneer.png",fixedAmount:!1},{id:"hollywoodSmile",image:"/images/icons/smile.png",fixedAmount:!0}];export{e as T};

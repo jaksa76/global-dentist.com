@@ -1,5 +1,6 @@
 {
-  "name": "Hotel Ravi",
-  "city": "Istanbul",
-  "country": "Turkey"
+    "name": "Hotel Ravi",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "facilities": []
 }

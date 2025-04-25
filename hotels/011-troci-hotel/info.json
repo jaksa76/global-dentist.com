@@ -1,5 +1,6 @@
 {
-  "name": "Troci Hotel",
-  "city": "Tirana",
-  "country": "Albania"
+    "name": "Troci Hotel",
+    "city": "Tirana",
+    "country": "Albania",
+    "facilities": []
 }

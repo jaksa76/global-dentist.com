@@ -1,5 +1,6 @@
 {
-  "name": "La Bohème Hotel",
-  "city": "Belgrade",
-  "country": "Serbia"
+    "name": "La Bohème Hotel",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "facilities": []
 }

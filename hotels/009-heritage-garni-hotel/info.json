@@ -1,5 +1,6 @@
 {
-  "name": "Heritage Garni Hotel",
-  "city": "Belgrade",
-  "country": "Serbia"
+    "name": "Heritage Garni Hotel",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "facilities": []
 }

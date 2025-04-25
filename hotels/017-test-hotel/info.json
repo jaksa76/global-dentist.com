@@ -1,5 +1,13 @@
 {
   "name": "La Bohème Hotel",
   "city": "Belgrade",
-  "country": "Serbia"
+  "country": "Serbia",
+  "facilities": [
+    "fitness",
+    "shuttle",
+    "spa",
+    "restaurant",
+    "free wifi",
+    "private parking"
+  ]
 }

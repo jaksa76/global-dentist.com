@@ -1,5 +1,6 @@
 {
-  "name": "Hilton Garden Inn Tirana",
-  "city": "Tirana",
-  "country": "Albania"
+    "name": "Hilton Garden Inn Tirana",
+    "city": "Tirana",
+    "country": "Albania",
+    "facilities": []
 }

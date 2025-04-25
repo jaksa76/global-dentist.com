@@ -1,5 +1,6 @@
 {
-  "name": "Sultanahmet Inn Hotel",
-  "city": "Istanbul",
-  "country": "Turkey"
+    "name": "Sultanahmet Inn Hotel",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "facilities": []
 }

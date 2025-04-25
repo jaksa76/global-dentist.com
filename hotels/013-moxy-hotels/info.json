@@ -1,5 +1,6 @@
 {
-  "name": "Moxy Hotels",
-  "city": "Belgrade",
-  "country": "Serbia"
+    "name": "Moxy Hotels",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "facilities": []
 }

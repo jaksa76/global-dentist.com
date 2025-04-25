@@ -1,5 +1,6 @@
 {
-  "name": "Destiny Hotel & Spa",
-  "town": "Tirana",
-  "country": "Albania"
+    "name": "Destiny Hotel & Spa",
+    "town": "Tirana",
+    "country": "Albania",
+    "facilities": []
 }

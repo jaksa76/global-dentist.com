@@ -1,5 +1,6 @@
 {
-  "name": "Hotel Inn Istanbul City",
-  "city": "Istanbul",
-  "country": "Turkey"
+    "name": "Hotel Inn Istanbul City",
+    "city": "Istanbul",
+    "country": "Turkey",
+    "facilities": []
 }

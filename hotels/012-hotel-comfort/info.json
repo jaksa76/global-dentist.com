@@ -1,5 +1,6 @@
 {
-  "name": "Hotel Comfort",
-  "city": "Tirana",
-  "country": "Albania"
+    "name": "Hotel Comfort",
+    "city": "Tirana",
+    "country": "Albania",
+    "facilities": []
 }

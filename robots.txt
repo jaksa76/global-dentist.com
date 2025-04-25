@@ -1,12 +1,23 @@
 User-agent: *
 Allow: /
+Allow: /simple
+Allow: /wizard
+Allow: /leaflet
+Allow: /editor
+Allow: /editor/treatments
+Allow: /editor/clinics
+Allow: /editor/dates
+Allow: /editor/accommodation
+Allow: /chat
+Allow: /clinic/*
+Allow: /hotel/*
+Allow: /request-offers
+Allow: /terms-and-conditions
 Allow: /about
 Allow: /contact
 Allow: /faq
-Allow: /terms-and-conditions
-Allow: /classic
-Allow: /wizard
-Allow: /clinic/*
+Allow: /dental-tourism
+Allow: /what-we-do
 Disallow: /admin/
 Disallow: /private/
 

@@ -1,0 +1,41 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants",
+      "price": 900
+    },
+    {
+      "service": "Veneers",
+      "price": 400
+    },
+    {
+      "service": "Teeth Whitening",
+      "price": 300
+    },
+    {
+      "service": "Invisalign",
+      "price": 2200
+    },
+    {
+      "service": "Braces",
+      "price": 2400
+    },
+    {
+      "service": "Root Canal",
+      "price": 100
+    },
+    {
+      "service": "Deep Cleaning",
+      "price": 100
+    },
+    {
+      "service": "ALL ON SIX method",
+      "price": 10000
+    },
+    {
+      "service": "ALLon FOUR method",
+      "price": 8000
+    }
+  ],
+  "currency": "EUR"
+}

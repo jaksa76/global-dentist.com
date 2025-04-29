@@ -1,0 +1,37 @@
+{
+  "info": {
+    "name": "Dental Center Repic",
+    "email": "spejda@gmail.com",
+    "phone": "00385 992139906",
+    "address": "Put Dragulina 62 f\n21220 Trogir\nCroatia",
+    "description": "Latest dental equipment and highly educated dental staff.",
+    "longDescription": "Highly educated staff (dental specialists holding PhDs in their respective fields), an interdisciplinary approach and pleasant atmosphere makes the Dental Centre Repić the right choice for you. We guarantee a professional approach, high quality service and the use of the most modern materials. We want you to feel comfortable at our clinic, and our knowledge, expertise and experience ensures that you are the best hands."
+  },
+  "images": [
+    {
+      "id": "1745849448634-ifs17pg9i",
+      "filename": "1745849448633-dr_slavica_repic.jpg",
+      "originalname": "dr_slavica_repic.jpg"
+    },
+    {
+      "id": "1745849454476-0k5wopq7r",
+      "filename": "1745849454454-Dario_Repic.jpg",
+      "originalname": "Dario Repic.jpg"
+    },
+    {
+      "id": "1745849594342-q7w0ahtjy",
+      "filename": "1745849594011-DCR_-_Final-34.jpg",
+      "originalname": "DCR - Final-34.jpg"
+    },
+    {
+      "id": "1745849872547-ttq96dues",
+      "filename": "1745849872303-DCR_-_Final-30.jpg",
+      "originalname": "DCR - Final-30.jpg"
+    },
+    {
+      "id": "1745864203590-x12oqdb7g",
+      "filename": "1745864203458-Dental_team.jpg",
+      "originalname": "Dental team.jpg"
+    }
+  ]
+}

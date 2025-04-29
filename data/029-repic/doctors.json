@@ -1,0 +1,64 @@
+{
+  "doctors": [
+    {
+      "id": "1745848436990-fxv6cga3b",
+      "name": "Dario Repić",
+      "title": "Doctor of dental medicine, DMD, Phd, specialist in endodontic and restaurative dentistry",
+      "licenseNumber": "4785126841232",
+      "biography": "Received doctorate from the Faculty of Dental Medicine, University of Zagreb\r\nwith the dissertation entitled: Determination of the bone regeneration potential of mouse embryonic stem cells and bone marrow mesenchymal stem cells.\r\n2009-2013\r\nSpecialisation in Endodontics and restorative dental medicine\r\n2010 - 2011\r\nScholarship for the University of Connecticut Health Center, School of Dentistry, USA\r\n2009 -\r\nSenior researcher, Study of Dental Medicine, School of Medicine, University of Split.\r\n2006 - 2015\r\nPrivate dental clinic, Dr.Dario Repić, DDM, Marina, Trogir\r\n2004 - 2005\r\nInternship, Split-Dalmatia County Health Clinic\r\n1997 - 2004\r\nGraduated with honours from the Faculty of Dental Medicine, University of Zagreb\r\n1993 - 1997\r\nTrogir General Gymnasium secondary school",
+      "yearsActive": null,
+      "activeSince": 2005,
+      "specialties": [
+        "endodontic and restaurative dentistry",
+        "implantology",
+        "dental surgery"
+      ],
+      "languages": [
+        "Engligh",
+        "Germany"
+      ],
+      "image": "1745848436974-Dario_Repic.jpg",
+      "createdAt": "2025-04-28T13:53:56.990Z"
+    },
+    {
+      "id": "1745848656136-kz8u23fd2",
+      "name": "Slavica Pejda Repić",
+      "title": "Doctor of dental medicine, specialist in ortodontist",
+      "licenseNumber": "78541266854",
+      "biography": "Specialisation in orthodontics, Zagreb\r\n2013.\r\nReceived doctorate from the Faculty of Dental Medicine, University of Zagreb, with the doctoral dissertation entitled\r\nUse of clinical periodontological indices and the bacterial flora of subgingival plaque in conventional and self-ligation braces.\r\n2010 - 2011\r\nScholarship, University of Connecticut Health Center, School of Dentistry, USA\r\n2009 - 2015\r\nResearcher, Department of Orthodontics, School of Medicine, University of Split\r\n2008- 2009\r\nJunior researcher, Department of Oral Medicine, Faculty of Dental Medicine, University of Zagreb\r\n2006 - 2007\r\nInternship, Dental clinic, Zagreb\r\n2000 - 2006\r\nGraduated with honours, Faculty of Dental Medicine, University of Zagreb\r\n1996 - 2000\r\nSisters of Mercy Women's General Gymnasium secondary school",
+      "yearsActive": null,
+      "activeSince": 2006,
+      "specialties": [
+        "Orthodontics"
+      ],
+      "languages": [
+        "English",
+        "Germany"
+      ],
+      "image": "1745848656135-dr_slavica_repic.jpg",
+      "createdAt": "2025-04-28T13:57:36.136Z"
+    },
+    {
+      "id": "1745848982578-981xbga0v",
+      "name": "Magdalena Županović",
+      "title": "Doctor of dental medicine, specilist in facial aesthetics",
+      "licenseNumber": "24/0091-2020",
+      "biography": "Facial Aesthetic Academy courses, Zagreb 2021-2024 Teaching assistant, Department of Proshodontics, Faculty of Dental Medicine, University of Split 2019-2020 , Dental clinic, Split 2014 - 2020 Graduated with honours, Faculty of Dental Medicine, University of Split 2010 - 2014 Marko Marulić General Gymnasium secondary school",
+      "yearsActive": null,
+      "activeSince": 2020,
+      "specialties": [
+        "facial aesthetics",
+        "prosthodontics",
+        "veneers",
+        "dental aesthetics"
+      ],
+      "languages": [
+        "English",
+        "Italian",
+        "German"
+      ],
+      "image": "1745862034217-b3134da7-3224-4ec4-b02e-b0131d11351c.jpg",
+      "createdAt": "2025-04-28T14:03:02.578Z"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "images": [
-    "thumbnail_Zira  dan h_Panorama2.jpg",
-    "zira lobby.jpg",
-    "zira restaurant.jpg",
-    "ZIRA room.jpg",
-    "ZIRA terrace.jpg"
+    { "filename": "thumbnail_Zira  dan h_Panorama2.jpg" },
+    { "filename": "zira lobby.jpg" },
+    { "filename": "zira restaurant.jpg" },
+    { "filename": "ZIRA room.jpg" },
+    { "filename": "ZIRA terrace.jpg" }
   ]
 }

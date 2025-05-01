@@ -1,13 +1,15 @@
 {
-  "name": "La Bohème Hotel",
-  "city": "Belgrade",
-  "country": "Serbia",
-  "facilities": [
-    "fitness",
-    "shuttle",
-    "spa",
-    "restaurant",
-    "free wifi",
-    "private parking"
-  ]
+  "info": {
+    "name": "La Bohème Hotel",
+    "city": "Belgrade",
+    "country": "Serbia",
+    "facilities": [
+      "fitness",
+      "shuttle",
+      "spa",
+      "restaurant",
+      "free wifi",
+      "private parking"
+    ]
+  }
 }

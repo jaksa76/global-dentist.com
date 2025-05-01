@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Grand Ünal Hotel",
     "city": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 0
+  }
 }

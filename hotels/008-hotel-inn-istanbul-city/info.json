@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Hotel Inn Istanbul City",
     "city": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 5
+  }
 }

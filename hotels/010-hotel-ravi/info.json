@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Hotel Ravi",
     "city": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 3
+  }
 }

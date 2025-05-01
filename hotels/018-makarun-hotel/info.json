@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Makarun Heritage",
     "city": "Split",
     "country": "Croatia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

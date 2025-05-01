@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Deluxe Hotel Tirana",
     "city": "Tirana",
     "country": "Albania",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

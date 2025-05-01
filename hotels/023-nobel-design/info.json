@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Nobel Design",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

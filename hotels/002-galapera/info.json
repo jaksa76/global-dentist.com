@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Galapera Hotel",
     "town": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 2
+  }
 }

@@ -1,135 +1,157 @@
 {
-    "rooms": [
+  "rooms": [
+    {
+      "name": "Standard Double Room",
+      "facilities": [
+        "Free WiFi",
+        "Air Conditioning",
+        "Private Bathroom",
+        "Flat-screen TV"
+      ],
+      "size": 18,
+      "offers": [
         {
-            "name": "Standard Double Room",
-            "facilities": [
-                "Free WiFi",
-                "Air Conditioning",
-                "Private Bathroom",
-                "Flat-screen TV"
-            ],
-            "size": 18,
-            "offers": [
-                {
-                    "guests": 2,
-                    "included": [
-                        "Buffet breakfast",
-                        "Free cancellation",
-                        "No prepayment"
-                    ],
-                    "price": {
-                        "value": 100,
-                        "currency": "EUR"
-                    }
-                },
-                {
-                    "guests": 3,
-                    "included": [
-                        "Buffet breakfast",
-                        "Free cancellation",
-                        "Free airport transfer"
-                    ],
-                    "price": {
-                        "value": 135,
-                        "currency": "EUR"
-                    }
-                },
-                {
-                    "guests": 1,
-                    "included": [
-                        "Buffet breakfast",
-                        "Free wifi",
-                        "City tour included"
-                    ],
-                    "price": {
-                        "value": 80,
-                        "currency": "EUR"
-                    }
-                }
-            ]
+          "guests": 2,
+          "included": [
+            "Buffet breakfast",
+            "Free cancellation",
+            "No prepayment"
+          ],
+          "price": {
+            "value": 100,
+            "currency": "EUR"
+          }
         },
         {
-            "name": "Superior Double Room",
-            "facilities": [
-                "Free WiFi",
-                "Air Conditioning",
-                "Private Bathroom",
-                "Flat-screen TV",
-                "Minibar",
-                "City View"
-            ],
-            "size": 22,
-            "offers": [
-                {
-                    "guests": 2,
-                    "included": [
-                        "Buffet breakfast",
-                        "Free cancellation",
-                        "Free minibar refill",
-                        "Evening dinner"
-                    ],
-                    "price": {
-                        "value": 150,
-                        "currency": "EUR"
-                    }
-                },
-                {
-                    "guests": 4,
-                    "included": [
-                        "All inclusive",
-                        "Free cancellation",
-                        "Airport shuttle",
-                        "Spa access"
-                    ],
-                    "price": {
-                        "value": 220,
-                        "currency": "EUR"
-                    }
-                }
-            ]
+          "guests": 3,
+          "included": [
+            "Buffet breakfast",
+            "Free cancellation",
+            "Free airport transfer"
+          ],
+          "price": {
+            "value": 135,
+            "currency": "EUR"
+          }
         },
         {
-            "name": "Deluxe Suite",
-            "facilities": [
-                "Free WiFi",
-                "Air Conditioning",
-                "Private Bathroom",
-                "Living Area",
-                "Flat-screen TV",
-                "Minibar",
-                "Balcony"
-            ],
-            "size": 35,
-            "offers": [
-                {
-                    "guests": 2,
-                    "included": [
-                        "Luxury breakfast",
-                        "Free cancellation",
-                        "Spa access",
-                        "Evening cocktails",
-                        "Late checkout"
-                    ],
-                    "price": {
-                        "value": 200,
-                        "currency": "EUR"
-                    }
-                },
-                {
-                    "guests": 3,
-                    "included": [
-                        "All inclusive",
-                        "Free cancellation",
-                        "Airport limousine service",
-                        "Private balcony dinner",
-                        "Spa treatment"
-                    ],
-                    "price": {
-                        "value": 250,
-                        "currency": "EUR"
-                    }
-                }
-            ]
+          "guests": 1,
+          "included": ["Buffet breakfast", "Free wifi", "City tour included"],
+          "price": {
+            "value": 80,
+            "currency": "EUR"
+          }
         }
-    ]
+      ],
+      "images": [
+        {
+          "id": "1745827861794-kzrmwrg3s",
+          "filename": "1745827861791-Screenshot_2025-04-11_at_18.36.05.png",
+          "originalname": "Screenshot 2025-04-11 at 18.36.05.png"
+        },
+        {
+          "id": "1745827861794-kzrmwrg3s",
+          "filename": "1745827861791-Screenshot_2025-04-11_at_18.36.05.png",
+          "originalname": "Screenshot 2025-04-11 at 18.36.05.png"
+        }
+      ]
+    },
+    {
+      "name": "Superior Double Room",
+      "facilities": [
+        "Free WiFi",
+        "Air Conditioning",
+        "Private Bathroom",
+        "Flat-screen TV",
+        "Minibar",
+        "City View"
+      ],
+      "size": 22,
+      "offers": [
+        {
+          "guests": 2,
+          "included": [
+            "Buffet breakfast",
+            "Free cancellation",
+            "Free minibar refill",
+            "Evening dinner"
+          ],
+          "price": {
+            "value": 150,
+            "currency": "EUR"
+          }
+        },
+        {
+          "guests": 4,
+          "included": [
+            "All inclusive",
+            "Free cancellation",
+            "Airport shuttle",
+            "Spa access"
+          ],
+          "price": {
+            "value": 220,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "1745827861794-kzrmwrg3s",
+          "filename": "1745827861791-Screenshot_2025-04-11_at_18.36.05.png",
+          "originalname": "Screenshot 2025-04-11 at 18.36.05.png"
+        }
+      ]
+    },
+    {
+      "name": "Deluxe Suite",
+      "facilities": [
+        "Free WiFi",
+        "Air Conditioning",
+        "Private Bathroom",
+        "Living Area",
+        "Flat-screen TV",
+        "Minibar",
+        "Balcony"
+      ],
+      "size": 35,
+      "offers": [
+        {
+          "guests": 2,
+          "included": [
+            "Luxury breakfast",
+            "Free cancellation",
+            "Spa access",
+            "Evening cocktails",
+            "Late checkout"
+          ],
+          "price": {
+            "value": 200,
+            "currency": "EUR"
+          }
+        },
+        {
+          "guests": 3,
+          "included": [
+            "All inclusive",
+            "Free cancellation",
+            "Airport limousine service",
+            "Private balcony dinner",
+            "Spa treatment"
+          ],
+          "price": {
+            "value": 250,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "images": [
+        {
+          "id": "1745827861794-kzrmwrg3s",
+          "filename": "1745827861791-Screenshot_2025-04-11_at_18.36.05.png",
+          "originalname": "Screenshot 2025-04-11 at 18.36.05.png"
+        }
+      ]
+    }
+  ]
 }

@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Hilton Garden Inn Tirana",
     "city": "Tirana",
     "country": "Albania",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

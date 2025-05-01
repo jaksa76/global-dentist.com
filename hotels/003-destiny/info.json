@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Destiny Hotel & Spa",
     "town": "Tirana",
     "country": "Albania",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

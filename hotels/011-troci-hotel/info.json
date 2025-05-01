@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Troci Hotel",
     "city": "Tirana",
     "country": "Albania",
-    "facilities": []
+    "facilities": [],
+    "starRating": 5
+  }
 }

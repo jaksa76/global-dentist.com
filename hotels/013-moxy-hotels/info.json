@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Moxy Hotels",
     "city": "Belgrade",
     "country": "Serbia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 3
+  }
 }

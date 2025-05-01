@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Sultanahmet Inn Hotel",
     "city": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 3
+  }
 }

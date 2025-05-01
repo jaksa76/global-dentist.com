@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Nobel Zira",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

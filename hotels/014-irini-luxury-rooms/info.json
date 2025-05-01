@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Irini Luxury Rooms",
     "city": "Split",
     "country": "Croatia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

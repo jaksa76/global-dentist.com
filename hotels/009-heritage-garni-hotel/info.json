@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Heritage Garni Hotel",
     "city": "Belgrade",
     "country": "Serbia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

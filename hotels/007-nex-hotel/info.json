@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Nex Hotel",
     "city": "Istanbul",
     "country": "Turkey",
-    "facilities": []
+    "facilities": [],
+    "starRating": 4
+  }
 }

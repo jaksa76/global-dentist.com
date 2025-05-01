@@ -1,6 +1,9 @@
 {
+  "info": {
     "name": "Putnik Inn Belgrade",
     "city": "Belgrade",
     "country": "Serbia",
-    "facilities": []
+    "facilities": [],
+    "starRating": 3
+  }
 }

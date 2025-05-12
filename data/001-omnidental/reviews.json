@@ -1,0 +1,47 @@
+{
+  "place_info": {
+    "title": "Omnidental",
+    "address": "2 Jelene Anzujske, Bar 85000, Montenegro",
+    "rating": 5,
+    "reviews": 6,
+    "type": "Dental clinic"
+  },
+  "reviews": [
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNmeklhVUhREAE",
+      "name": "LOVE",
+      "score": 5.0,
+      "comment": "Our family have such a wonderful experience with the young beautiful doctor Danijela, who is very professional, she has excellent people skills and a very kind heart. She’s been truly a blessing to our family. My case wasn’t easy, but Danijela has done outstanding job and gave me a new life with my great new look. I love my beautiful white smile that I have now!\nThank you so much for being so great!\nHappy Holidays! We wish your practice to prosper and flourish for years to come!"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNIdWNLT25BRRAB",
+      "name": "Jaksa Vuckovic",
+      "score": 5.0,
+      "comment": "Such a kind and caring doctor that I married her."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNEc2VLSWp3RRAB",
+      "name": "Gabi Hörold-Langenhan",
+      "score": 5.0,
+      "comment": "Very modern, small practice with an English-speaking, young doctor. I had lost an inlay, which she put back in for me without any problem. 👍"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ3M09qckt3EAE",
+      "name": "Danijela Markovic",
+      "score": 5.0,
+      "comment": "A very pleasant, dedicated and thorough doctor. All recommendations!"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTUNZektTbnNBRRAB",
+      "name": "Jinjon Kart",
+      "score": 5.0,
+      "comment": "Very good dentist"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM5NC1mdlNREAE",
+      "name": "Ilija Erkić",
+      "score": 5.0,
+      "comment": ""
+    }
+  ]
+}

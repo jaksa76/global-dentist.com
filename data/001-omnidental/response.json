@@ -1,0 +1,281 @@
+[
+  {
+    "position": 1,
+    "title": "Omnidental",
+    "place_id": "ChIJNyvgJdZzThMRHMKtcvw2gvo",
+    "data_id": "0x134e73d625e02b37:0xfa8236fc72adc21c",
+    "data_cid": "18051050714338017820",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x134e73d625e02b37%3A0xfa8236fc72adc21c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x134e73d625e02b37%3A0xfa8236fc72adc21c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 42.094235999999995,
+      "longitude": 19.0988713
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJNyvgJdZzThMRHMKtcvw2gvo",
+    "provider_id": "/g/11vt7lvy2t",
+    "rating": 5,
+    "reviews": 6,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "2 Jelene Anzujske, Bar 85000, Montenegro",
+    "open_state": "Open ⋅ Closes 3 PM",
+    "hours": "Open ⋅ Closes 3 PM",
+    "operating_hours": {
+      "monday": "8 AM–3 PM",
+      "tuesday": "2–8 PM",
+      "wednesday": "2–8 PM",
+      "thursday": "8 AM–3 PM",
+      "friday": "8 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+382 67 624 395",
+    "website": "https://omnidental.me/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPliiC_p7PK1vs2XkHDvTS_kMjk-ySRG5iHZoGf=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/dAZJT3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQkJOZ6RxfYB7gbVhWbBSR7eFSFhIcn-2bla1bGRzkbprpEZXvnmZbbmhsoZthaaSbrZuXDwCy1CGC"
+  },
+  {
+    "position": 2,
+    "title": "Omni Dental-Belltown Seattle",
+    "place_id": "ChIJj9ARYVIVkFQR1-hBpHMS048",
+    "data_id": "0x549015526111d08f:0x8fd31273a441e8d7",
+    "data_cid": "10363647455395965143",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x549015526111d08f%3A0x8fd31273a441e8d7&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x549015526111d08f%3A0x8fd31273a441e8d7&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 47.6132729,
+      "longitude": -122.3450862
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJj9ARYVIVkFQR1-hBpHMS048",
+    "provider_id": "/g/11h1fzyy1q",
+    "rating": 4.9,
+    "reviews": 434,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "2207 2nd Ave, Seattle, WA 98121",
+    "open_state": "Closed ⋅ Opens 7:30 AM",
+    "hours": "Closed ⋅ Opens 7:30 AM",
+    "operating_hours": {
+      "monday": "7:30 AM–4 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "7:30 AM–4 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "7:30 AM–4 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(206) 258-8988",
+    "website": "https://www.omnidentalseattle.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMfha4PHXsUhAQtDteFqDd_Jk8hwXzVU_NBi-k5=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fuwWSnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngm5aRaBLgEVEcmuEYWOJSkupW6JIS75VtkVEeURUWGu_nlKmbbWpbbmhsoZthaaSbrZuXDwC3mSGd"
+  },
+  {
+    "position": 3,
+    "title": "Omnident fogászat",
+    "place_id": "ChIJ9xFFCGvdQUcRCbDto0TYY9o",
+    "data_id": "0x4741dd6b084511f7:0xda63d844a3edb009",
+    "data_cid": "15736659312282284041",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4741dd6b084511f7%3A0xda63d844a3edb009&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4741dd6b084511f7%3A0xda63d844a3edb009&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 47.4755063,
+      "longitude": 19.0417179
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9xFFCGvdQUcRCbDto0TYY9o",
+    "provider_id": "/g/11f637t7m9",
+    "rating": 5,
+    "reviews": 57,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "Budapest Kosztolányi Dezső tér 12. fszt. 3, 1114, Hungary",
+    "open_state": "Open ⋅ Closes 9 PM",
+    "hours": "Open ⋅ Closes 9 PM",
+    "operating_hours": {
+      "monday": "8 AM–9 PM",
+      "tuesday": "8 AM–9 PM",
+      "wednesday": "8 AM–9 PM",
+      "thursday": "8 AM–9 PM",
+      "friday": "8 AM–9 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+36 30 390 5859",
+    "website": "https://www.omnidental.hu/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "unsupported_extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPLQOIWDCCtAcZsGC0pTDy_P-7KT7pIDxjyUP8=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xStKJXicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4BPo7xnu4uxc4pgcVezubFAQ4lIZH6Br7h1iXuDpUpFVGRpgYVtuaGyum2FppJutm5cPAHHbIGA"
+  },
+  {
+    "position": 4,
+    "title": "Omni Dental McMurray",
+    "place_id": "ChIJ1U89xABWNIgRyhryfK_5ZCM",
+    "data_id": "0x88345600c43d4fd5:0x2364f9af7cf21aca",
+    "data_cid": "2550437821109377738",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x88345600c43d4fd5%3A0x2364f9af7cf21aca&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x88345600c43d4fd5%3A0x2364f9af7cf21aca&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.2931066,
+      "longitude": -80.1025068
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ1U89xABWNIgRyhryfK_5ZCM",
+    "provider_id": "/g/1tp8_ptk",
+    "rating": 4.9,
+    "reviews": 1287,
+    "type": "Dentist",
+    "types": [
+      "Dentist",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Orthodontist",
+      "Periodontist",
+      "Teeth whitening service"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "orthodontist",
+      "periodontist",
+      "teeth_whitening_service"
+    ],
+    "address": "3035 Washington Rd Ste 3, McMurray, PA 15317",
+    "open_state": "Closed ⋅ Opens 11 AM",
+    "hours": "Closed ⋅ Opens 11 AM",
+    "operating_hours": {
+      "monday": "11 AM–7 PM",
+      "tuesday": "7 AM–3 PM",
+      "wednesday": "7 AM–7 PM",
+      "thursday": "8 AM–4 PM",
+      "friday": "8 AM–3 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "(724) 538-7200",
+    "website": "https://omnidentalpgh.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOoX53kQM9KF_7lXOtexaos-wtupcOkzhbk9wHZ=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/e-CSm3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngnx9hapwd6Gvp7RZvnhPhX5JakZhfrFteUlqQ7J9dlZGUbVnuEWVbbmhkpJthaaSbrZuXDwC7UCIg"
+  }
+]

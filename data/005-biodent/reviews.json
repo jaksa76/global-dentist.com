@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Dentisti in Albania-Biodent",
+    "address": "nr 4, Rruga Ilo Mitkë Qafzezi, Tiranë 1001, Albania",
+    "rating": 5,
+    "reviews": 864,
+    "type": "Dental clinic"
+  },
+  "reviews": [
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTUNBN2VtX3JBRRAB",
+      "name": "Artan Kapexhiu",
+      "score": 5.0,
+      "comment": "Thank you, Biodent Clinic! You have done a wonderful job with my teeth. I appreciate everything, from the reception’s warm welcome to the professional work of the clinic’s doctors.\n\nI thought getting implants would be very difficult, but you made it so easy and restored my confidence.\n\nOnce again, a big thank you to the entire team who worked with me."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNYd2RfZHJRRRAB",
+      "name": "John Bevilacqua",
+      "score": 5.0,
+      "comment": "BioDent is a state of the art dentistry! They use advanced treatments and do supreme work.I met people from Italy and the UK who come here for fine cosmetic work. My wife recently had outstanding work done here on her teeth and they look like a million bucks! I saw them constantly cleaning all the equipment and the waiting area was immaculate. I can’t say enough about them. The staff are friendly and know their craft!"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTURJZ3NyY0t3EAE",
+      "name": "Truth Lover",
+      "score": 5.0,
+      "comment": "We visited this dentist while visiting Tatiana from the UK. Wowsers! Great care and support for tourists, felt in safe hands and care provided was excellent. Sidi at reception explained all the process, the prices were good. The work was of high quality and good hygiene  standards. We had our young daughters with us and they took care of them while were getting treatment done. Special mention for Kristine! we will definitely visit you again for any dental needs and I am grateful to all your team for excellent support. Thank you!\nPatel and family 👌🌹"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNfNklxdXJBRRAB",
+      "name": "Flaimida Sinani",
+      "score": 5.0,
+      "comment": "If you're looking for the best dental care in town, Biodent is a top choice. The staff is professional, friendly, and highly skilled, offering a wide range of services from routine checkups to advanced treatments. The clinic is equipped with the latest technology, ensuring efficient and comfortable procedures. Patients consistently report excellent experiences, with minimal wait times and clear communication throughout. Whether for cosmetic dentistry or general care, this hospital sets a high standard in dental health. Highly recommended for anyone seeking quality care."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTUNvM3VIYm1RRRAB",
+      "name": "Ian Pinot",
+      "score": 5.0,
+      "comment": "Doctor Lori worked very carefully and honestly explained all the procedure and results. Very happy with the service of all the staff as well. Professional work, Thank you!"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR2LUtXcU9nEAE",
+      "name": "Micaela",
+      "score": 5.0,
+      "comment": "i’ve been at the Clinic to get a Composite Veneer, and by far it was the best experience that I have ever had at a dentist. The doctor spoke italian perfectly , and was very kind and sweet , the clinic is modern and amazing. She fixed in less than an hour one of my biggest insecurities. Will be back to do more !"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNYNHVlYWVBEAE",
+      "name": "Celjeta Cela",
+      "score": 5.0,
+      "comment": "The most amazing services offered! The excellent treatment begins since entering at the reception until you are finished, and it is the best feeling considering people are “scared” from going to the dentist. I will always return as a happy customer! Thank you to the team, great job 😊"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTURJM2ZPX3V3RRAB",
+      "name": "Damilola Lawal",
+      "score": 5.0,
+      "comment": "I had a wonderful time with doctor Roel.He made it so soothing and relaxing,i highly recommend this place.I will definitely come back here if possible 😀.The staff are so nice too"
+    }
+  ]
+}

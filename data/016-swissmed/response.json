@@ -1,0 +1,135 @@
+[
+  {
+    "position": 1,
+    "title": "Swissmed Group",
+    "place_id": "ChIJx7TTUfTHyhQR8i-9kzpKXAg",
+    "data_id": "0x14cac7f451d3b4c7:0x85c4a3a93bd2ff2",
+    "data_cid": "602438065608011762",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cac7f451d3b4c7%3A0x85c4a3a93bd2ff2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cac7f451d3b4c7%3A0x85c4a3a93bd2ff2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.982327999999995,
+      "longitude": 29.114153599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJx7TTUfTHyhQR8i-9kzpKXAg",
+    "provider_id": "/g/11p702kcbb",
+    "rating": 4.8,
+    "reviews": 201,
+    "type": "Wellness center",
+    "types": [
+      "Wellness center"
+    ],
+    "type_id": "wellness_center",
+    "type_ids": [
+      "wellness_center"
+    ],
+    "address": "Küçükbakkalköy, Fırın Cd. No:29, 34750 Ataşehir/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "10 AM–6 PM",
+      "tuesday": "10 AM–6 PM",
+      "wednesday": "10 AM–6 PM",
+      "thursday": "10 AM–6 PM",
+      "friday": "10 AM–6 PM",
+      "saturday": "10 AM–4:30 PM",
+      "sunday": "Closed"
+    },
+    "website": "http://www.swissmed.com.tr/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"All the staff at Swissmed made my time with them enjoyable and comfortable.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMzll87WWIFk-ZCUrNnLK0lYVmqFDN0BNJ8j2L9=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/6YUqpXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngW5WTY2EeHu7plq0b5Rxa5Jfn422QExmWW-jm4mfg5OdlkWXkY2lbbmhsoZthaaSbrZuXDwCYciB8"
+  },
+  {
+    "position": 2,
+    "title": "Swissmed Beauty",
+    "place_id": "ChIJJdGhLlPHyhQR8aKQp1QT604",
+    "data_id": "0x14cac7532ea1d125:0x4eeb1354a790a2f1",
+    "data_cid": "5686660208794837745",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cac7532ea1d125%3A0x4eeb1354a790a2f1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cac7532ea1d125%3A0x4eeb1354a790a2f1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.982327999999995,
+      "longitude": 29.114153599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJJdGhLlPHyhQR8aKQp1QT604",
+    "provider_id": "/g/11pcrqx1fh",
+    "type": "Beauty salon",
+    "types": [
+      "Beauty salon"
+    ],
+    "type_id": "beauty_salon",
+    "type_ids": [
+      "beauty_salon"
+    ],
+    "address": "Küçükbakkalköy, Fırın Cd. No:29, 34750 Ataşehir/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "9 AM–6 PM",
+      "sunday": "Closed"
+    },
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN99bLeeRaFUBg6sl4oPnRu0IMnuXxmMYfK2Gw=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/A4GKw3icuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngZ2mZ5JOaGpToFuqUblacY5IfkBdUauDpm1caUZHrG5nmbeRebltuaGyhm2FppJutm5cPAIbTIRY"
+  },
+  {
+    "position": 3,
+    "title": "SwissmedDental",
+    "place_id": "ChIJiUuQBsXHyhQRIVIUXCuVRd0",
+    "data_id": "0x14cac7c506904b89:0xdd45952b5c145221",
+    "data_cid": "15944314069236077089",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cac7c506904b89%3A0xdd45952b5c145221&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cac7c506904b89%3A0xdd45952b5c145221&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.982327999999995,
+      "longitude": 29.114153599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJiUuQBsXHyhQRIVIUXCuVRd0",
+    "provider_id": "/g/11gj0thtlj",
+    "rating": 4.2,
+    "reviews": 48,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Küçükbakkalköy, Fırın Cd. No:29, 34750 Ataşehir/İstanbul, Türkiye",
+    "open_state": "Permanently closed",
+    "hours": "Permanently closed",
+    "phone": "+90 216 411 33 44",
+    "website": "http://www.swissmeddental.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqCm-zS5WEDY9MJnkpbNouMSW45naXXPxDJmCiLd9XAfKwIqOuKgXGpTX2t4CS0AhmuIk1v4Br2zg87iAO8d2G44l6Ojp54XLT19KxTRF-XVzqEKdR18_5hnQWYK0C5lHMV17tf=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/HL7kW3icBcFRkoIgAADQE5FiUNJMHy61bZFrpZP0tVNq0KqAgdV4vw6xt9n3_t7SOWNnntfI8UhoLZqqt9W90MpVyo0K3XrCWFBYYL2IEolUR1swpDhfLk4k3qjaXL51H6c5wurM-e612LT0ti0Jj67sue6Sngm-MhkPHKKpH8m2X9fwgT7uwSDC6S1KwjJYIdRMkl-DEd9mkLBXdvgE_Dh0S1YeYPiDpdrnJ-ZT3HzFRzh11_kTTsZAkgDUQOl_YcZCdQ"
+  }
+]

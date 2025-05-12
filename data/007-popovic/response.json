@@ -1,0 +1,144 @@
+[
+  {
+    "position": 1,
+    "title": "Dental Clinic \"Dr Popović\"",
+    "place_id": "ChIJ9RtjM39wWkcRYVKCInRnyTI",
+    "data_id": "0x475a707f33631bf5:0x32c9677422825261",
+    "data_cid": "3659569920708072033",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x475a707f33631bf5%3A0x32c9677422825261&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x475a707f33631bf5%3A0x32c9677422825261&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 44.7973601,
+      "longitude": 20.4913571
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9RtjM39wWkcRYVKCInRnyTI",
+    "provider_id": "/g/11_p_dw6x",
+    "rating": 4.7,
+    "reviews": 98,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "Bregalnička 6, Beograd 11000, Serbia",
+    "open_state": "Open ⋅ Closes 5 PM",
+    "hours": "Open ⋅ Closes 5 PM",
+    "operating_hours": {
+      "monday": "10 AM–5 PM",
+      "tuesday": "10 AM–5 PM",
+      "wednesday": "10 AM–5 PM",
+      "thursday": "10 AM–5 PM",
+      "friday": "10 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+381 60 1111000",
+    "website": "http://www.drpopovic.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"They considered all my wishes, and my teeth look now natural and beautiful.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPY6Uy07idrDHiMb3mu9421DCyTB1hG7BbVfZIF=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/yaSgdHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQEGkWWmlgnplS5OKR6ZtknFtqaWJk6OJcGeJkmOFu7pQUlhbl6WZbbmhmrJthaaSbrZuXDwCMXiBO"
+  },
+  {
+    "position": 2,
+    "title": "Dr Nikola Popovic",
+    "place_id": "ChIJHwfFEbR6WkcRYTbMy8mKTXY",
+    "data_id": "0x475a7ab411c5071f:0x764d8ac9cbcc3661",
+    "data_cid": "8524622268994434657",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x475a7ab411c5071f%3A0x764d8ac9cbcc3661&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x475a7ab411c5071f%3A0x764d8ac9cbcc3661&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 44.821525799999996,
+      "longitude": 20.4671214
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHwfFEbR6WkcRYTbMy8mKTXY",
+    "provider_id": "/g/11_sn33t5",
+    "rating": 5,
+    "reviews": 9,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "Dositejeva 42, Beograd, Serbia",
+    "open_state": "Open ⋅ Closes 5 PM",
+    "hours": "Open ⋅ Closes 5 PM",
+    "operating_hours": {
+      "monday": "9 AM–5 PM",
+      "tuesday": "9 AM–5 PM",
+      "wednesday": "9 AM–5 PM",
+      "thursday": "9 AM–5 PM",
+      "friday": "9 AM–5 PM",
+      "saturday": "Closed",
+      "sunday": "Closed"
+    },
+    "phone": "+381 64 1214944",
+    "website": "https://drnikolapopovic.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Wonderful experience, very professional!\"",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=E_7-j_3yOgsD77ZMNGxrJQ&cb_client=search.gws-prod.gps&w=80&h=92&yaw=156.04506&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OxA4RXicHc1RCsIgGADg2_g2ddW2CqSXIggqeu1lOGdqOBX9m9ttula3KbrA933eGiCkLSEJopQwGpmDmaRNReBYea-s5MEkLPxAxpKAfg2d48buAnfe9OzQNsWzXc5XlfZNcz9fjlM83ZDoWmGNdMCS5FForPJPjL7HKiSU2ZoizTYLNPPMyqrGdFXRGgUDQjOK_svDj6yk9AtUUzkc"
+  },
+  {
+    "position": 3,
+    "title": "Ordinacija Dr Popovic",
+    "place_id": "ChIJddoJwCrqhyERAZQUqJ3hYrw",
+    "data_id": "0x2187ea2ac009da75:0xbc62e19da8149401",
+    "data_cid": "13574660294094132225",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x2187ea2ac009da75%3A0xbc62e19da8149401&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x2187ea2ac009da75%3A0xbc62e19da8149401&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 44.210778499999996,
+      "longitude": 20.9104991
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJddoJwCrqhyERAZQUqJ3hYrw",
+    "provider_id": "/g/11rzbdkhd8",
+    "rating": 5,
+    "reviews": 1,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Service establishment"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "establishment_service"
+    ],
+    "phone": "+381 60 1111011",
+    "user_review": "\"I traveled thousands of kilometers from England, hoping to have an implant.\""
+  }
+]

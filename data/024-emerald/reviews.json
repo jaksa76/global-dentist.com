@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Emerald Dental Clinic",
+    "address": "Rose Ave, Nairobi, Kenya",
+    "rating": 4.8,
+    "reviews": 99,
+    "type": "Private hospital"
+  },
+  "reviews": [
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURfM0xQVlFnEAE",
+      "name": "Evans Onyango",
+      "score": 5.0,
+      "comment": "Dr. Sonali is amazing. Very professional, patient and always checking to make sure you’re comfortable and not feeling unbearable pain. It was a wonderful experience. For a minute I forgot I was at the Dentist and thought I was in a hotel."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURfM0l1RnJ3RRAB",
+      "name": "Kui Ochieng",
+      "score": 5.0,
+      "comment": "Dr. Thakkar is such a wonderful doctor and is soo calming throughout the entire experience. She explains everything very clearly and covers all the basis. I have found my dentist 💯"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURYZzhiMGNnEAE",
+      "name": "thedawgdaniel",
+      "score": 1.0,
+      "comment": "They don’t respect appointment times. Went in for a 4 o’clock appointment for my wife and we waited for one hour until we got fed up and left. If they don’t respect your time, don’t give them a chance. So many other great dentists and practices around Kilimani."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURQNmFiLXVRRRAB",
+      "name": "Mendi Mary",
+      "score": 5.0,
+      "comment": "Dr.Sonali has been the best dentist ever.I have been listened to and we'll taken care of since I started my Teeth health journey with them.\nWorth it 💯"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNQX2ZIWHhRRRAB",
+      "name": "Margaret Mumbi Kisienya",
+      "score": 5.0,
+      "comment": "For your dental service I recommend Emerald dental surgery.Great customer service,Great patient care. Thank you so much Dr Sunali, your services are good. I am so happy 😊."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQ5aXRPV1lBEAE",
+      "name": "Miss Kithinji",
+      "score": 5.0,
+      "comment": "Very great service here at Emerald Dental Surgery. I loved every step of my dental journey."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR6X0oyR01REAE",
+      "name": "Lucy Wamuyu",
+      "score": 5.0,
+      "comment": "Of all the times I have been to a dentist, the best experience ever was with Dr.Sonali. She was so gentle, patient and explained every step..checking every now and then if I’m ok. I felt absolutely no pain and was a very satisfied patient at the end of the appointment."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTUR3aFBHYVNBEAE",
+      "name": "Shivam Kesharia",
+      "score": 5.0,
+      "comment": "Dr Sonali is amazing , helped me and explained to me what was being done . All thanks to her"
+    }
+  ]
+}

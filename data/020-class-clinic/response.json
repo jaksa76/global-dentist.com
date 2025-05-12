@@ -1,0 +1,1152 @@
+[
+  {
+    "position": 1,
+    "title": "Özel Class Polikliniği",
+    "place_id": "ChIJ_zAvMGKjyhQR8uFKjMPPQXQ",
+    "data_id": "0x14caa362302f30ff:0x7441cfc38c4ae1f2",
+    "data_cid": "8377205220665123314",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa362302f30ff%3A0x7441cfc38c4ae1f2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa362302f30ff%3A0x7441cfc38c4ae1f2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.994899,
+      "longitude": 28.795607999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_zAvMGKjyhQR8uFKjMPPQXQ",
+    "provider_id": "/g/11khthj674",
+    "rating": 4.6,
+    "reviews": 104,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic",
+      "Dental clinic",
+      "Skin care clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic",
+      "dental_clinic",
+      "skin_care_clinic"
+    ],
+    "address": "Beşyol, Çimen Sk. No:21, 34295 Küçükçekmece/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 501 753 86 23",
+    "website": "https://www.ozelclasspoliklinigi.com.tr/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      }
+    ],
+    "user_review": "\"... thank you class clinic\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO9jmPutHP47_Xj-8tp82xeVGhBNcANkhATi20t=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/8SsIiXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngb5mVG1Ba4hFgYh4fkaVrUVJgYVSRGuae4eSX7OiXneEYkmlkUGJbbmhsoZthaaSbrZuXDwChciD4"
+  },
+  {
+    "position": 2,
+    "title": "Class Suit Hotel - Küçükçekmece",
+    "place_id": "ChIJgfhM9JWjyhQRyRkHKSCnt5g",
+    "data_id": "0x14caa395f44cf881:0x98b7a720290719c9",
+    "data_cid": "11004447971072219593",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa395f44cf881%3A0x98b7a720290719c9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa395f44cf881%3A0x98b7a720290719c9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9861329,
+      "longitude": 28.784664499999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJgfhM9JWjyhQRyRkHKSCnt5g",
+    "provider_id": "/g/11d_v92r7s",
+    "rating": 4,
+    "reviews": 1282,
+    "type": "Hotel",
+    "types": [
+      "Hotel"
+    ],
+    "type_id": "hotel",
+    "type_ids": [
+      "hotel"
+    ],
+    "address": "Yeşilova, Kahramanlar Cd. No:4, 34290 Küçükçekmece/İstanbul, Türkiye",
+    "phone": "+90 212 905 11 11",
+    "website": "https://www.classsuithotel.com/",
+    "description": "Relaxed hotel offering a restaurant. Warm rooms in an informal hotel featuring a restaurant with a terrace, plus breakfast.",
+    "amenities": [
+      "Free Wi-Fi",
+      "Free breakfast"
+    ],
+    "user_review": "\"It is a very clean environment and the staff are very experienced.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-proxy/ALd4DhGui3QeGwQN07EZ0d_lOdCX73LKmVzJ9pCyhXhn-lDg67z01RnRFNTGdN8VpUDGNv392IbNT2Kn3jIlVMvNJgfwIC6lhMvXtOel935GMLix7IFYiv_gmttfyuauhdrpCwX6SUU7LU6HA-GxJ9akzJ8MYotWTrVoBCSAOwcjHYVo4beDXieTjvUU=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/CRrCgXicBcFLcoIwAADQE0WQWD6d6YJCjSDgqIRCN45CTMBAGAjfm_YiXfe93z8mZdu_KwpncEOFoJwMPely0UjSyE0uaoW2PWg7MS-KHRQ7l6GhhGeCpnOkGl8_anHjp8JJDRgc62T1rdZZWMoawF2qG6u6vTSXfRSjIjKTFrsoGqGleY8o1o4NrDyehGPk0-fkOTpn4ZjKE-EWfENhUM6Gt8_K8UZrKZ_LcB9Y0bXOlOpXjI0A6wcboNm37q_VN8NMyO-4S8Snc7VPU14dskTsHsRNSxJXI8Yf0xaagFkaeIFG_APCyVWY"
+  },
+  {
+    "position": 3,
+    "title": "Class Clinic",
+    "place_id": "ChIJPVRmOACjyhQRz5XRpQ9mHr4",
+    "data_id": "0x14caa3003866543d:0xbe1e660fa5d195cf",
+    "data_cid": "13699499333900146127",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa3003866543d%3A0xbe1e660fa5d195cf&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa3003866543d%3A0xbe1e660fa5d195cf&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9948698,
+      "longitude": 28.795736599999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJPVRmOACjyhQRz5XRpQ9mHr4",
+    "provider_id": "/g/11mdhc_wz3",
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Beşyol, Çimen Sk. No:21, 34295 Küçükçekmece/İstanbul, Türkiye",
+    "phone": "+90 533 386 54 30",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=IXf8GSOwY0PTU_TqbAcK3A&cb_client=search.gws-prod.gps&w=80&h=92&yaw=232.21779&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/4gW2jXicHc1RDoIgGADg2_AWID6obf-aT671UFu21ZNDRGBDISGp23StblPrAt_3eesYfdgSEuIiZVyNTN48pQ0bz7FyTlnJvQlYuImsGYn6MfUzN3bn-ezMAPvrWDbnY7rRU3vp2ntfi0NeI9F3who5RwiSL0JjlX7i4gasfEAJSoo0VAy9eAKWM8yyoqiQN1FooOi_jG6FjNIvUoA5Ew"
+  },
+  {
+    "position": 4,
+    "title": "Class hair hospital",
+    "place_id": "ChIJbZrJh3SlyhQRVEMBLkGsbS4",
+    "data_id": "0x14caa57487c99a6d:0x2e6dac412e014354",
+    "data_cid": "3345519494150832980",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa57487c99a6d%3A0x2e6dac412e014354&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa57487c99a6d%3A0x2e6dac412e014354&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.030342999999995,
+      "longitude": 28.838334
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbZrJh3SlyhQRVEMBLkGsbS4",
+    "provider_id": "/g/11j20y194t",
+    "rating": 2,
+    "reviews": 4,
+    "type": "Hospital",
+    "types": [
+      "Hospital"
+    ],
+    "type_id": "hospital",
+    "type_ids": [
+      "hospital"
+    ],
+    "address": "Barbaros, Hoca Ahmet Yesevi Cd. No:149, 34203 Bağcılar/İstanbul, Türkiye",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=LEVMd9xQzMEeWUt5QGbY6w&cb_client=search.gws-prod.gps&w=80&h=92&yaw=104.90624&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/asI7J3icHc0xDoIwFIDh23SzLQSJmDROxEUGBjVOppRn26TQhj4pehqv5W0kzn_y_d-PQQxxz1jECQBnCynYBVzcBEm199qBDDZS5Qc2ZwzNc-hGad0hyNHbXpzqS9NXS_tuariecdseu1uZiOruylkYUUSQkzJUp1WcfE91iCSJHSdGVDl5ySQyXtCKl3lBgkVlBCf_y8PPa-I_bW85Yg"
+  },
+  {
+    "position": 5,
+    "title": "Clinic and Turkey",
+    "place_id": "ChIJfbkzFgilyhQRFt71gc-Njgk",
+    "data_id": "0x14caa5081633b97d:0x98e8dcf81f5de16",
+    "data_cid": "688643715412385302",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa5081633b97d%3A0x98e8dcf81f5de16&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa5081633b97d%3A0x98e8dcf81f5de16&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.991678199999996,
+      "longitude": 28.835240799999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJfbkzFgilyhQRFt71gc-Njgk",
+    "provider_id": "/g/11lg3c5t7_",
+    "rating": 4.9,
+    "reviews": 113,
+    "type": "Medical office",
+    "types": [
+      "Medical office"
+    ],
+    "type_id": "medical_office",
+    "type_ids": [
+      "medical_office"
+    ],
+    "address": "E-5 yan yol Ataköy 7-8-9-10. kısım Mahalleesi Nef 22, B Blok no:327, 34209 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 543 889 87 80",
+    "website": "https://www.clinicandturkey.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      }
+    ],
+    "user_review": "\"My treatment was worth the money and time I spent.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7KegqyHnQj_7zaDjt1zYvU3kv8VhuIzxgYLyC=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FsDMIXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngZ-6dml5Y6ZEXmBVvXpXoklViWBVZFmqcXWYRllHqWVWRHulT6WxbbmhsoZthaaSbrZuXDwDKLiJZ"
+  },
+  {
+    "position": 6,
+    "title": "BlueCare Clinic",
+    "place_id": "ChIJz6oiKCFftRQRUQ6LThEUIsg",
+    "data_id": "0x14b55f212822aacf:0xc82214114e8b0e51",
+    "data_cid": "14421111021358485073",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14b55f212822aacf%3A0xc82214114e8b0e51&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14b55f212822aacf%3A0xc82214114e8b0e51&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0044618,
+      "longitude": 28.8092893
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJz6oiKCFftRQRUQ6LThEUIsg",
+    "provider_id": "/g/11k74mpc7j",
+    "rating": 4.6,
+    "reviews": 409,
+    "type": "Medical clinic",
+    "types": [
+      "Medical clinic"
+    ],
+    "type_id": "medical_clinic",
+    "type_ids": [
+      "medical_clinic"
+    ],
+    "address": "Babacan Port Royal, Kartaltepe, Malazgirt Cd., 34153 Küçükçekmece/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "11:30 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 552 500 20 70",
+    "website": "http://bluecareclinic.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Recovery was made extremely easy with their help!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOPRSPY4rJeAUJFVAh7VkWTFsdS_8Kv1Si7_um7=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Te5nHXicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngHxAUHBBpUuSV6hjq5RbmmGEelh0e4lacEhxv4V1mGJxpHl-aa25bbmmkmwHE2bp5-QB6LiC6"
+  },
+  {
+    "position": 7,
+    "title": "KlasKlinik",
+    "place_id": "ChIJH4f5S3WlyhQRislT9Htd3WY",
+    "data_id": "0x14caa5754bf9871f:0x66dd5d7bf453c98a",
+    "data_cid": "7412183348683196810",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa5754bf9871f%3A0x66dd5d7bf453c98a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa5754bf9871f%3A0x66dd5d7bf453c98a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.053646799999996,
+      "longitude": 28.832257799999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJH4f5S3WlyhQRislT9Htd3WY",
+    "provider_id": "/g/11tfm63f9p",
+    "rating": 4.9,
+    "reviews": 131,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental laboratory",
+      "Dental radiology"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_lab",
+      "dental_radiology"
+    ],
+    "address": "Göztepe, Maslak Cd., 34218 Bağcılar/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "10 AM–8 PM",
+      "tuesday": "10 AM–8 PM",
+      "wednesday": "10 AM–8 PM",
+      "thursday": "10 AM–8 PM",
+      "friday": "10 AM–8 PM",
+      "saturday": "10 AM–8 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 554 500 05 55",
+    "website": "http://www.klasklinik.net/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Excellent service and very organized and extremely caring.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPmoZljzFsGW6t0H9ZrjUOoC5ElYfYngqCEO5S-=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fjXzYXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQkJsflZNV5VbsHm5WYuBhGVWUFeqf72zqmhOZFpmXXujs6m8arGtbbmhsrpthaaSbrZuXDwC3aSFh"
+  },
+  {
+    "position": 8,
+    "title": "ClinicPlast",
+    "place_id": "ChIJv7oVTAy3yhQRcJx398KrLGA",
+    "data_id": "0x14cab70c4c15babf:0x602cabc2f7779c70",
+    "data_cid": "6930102780480167024",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab70c4c15babf%3A0x602cabc2f7779c70&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab70c4c15babf%3A0x602cabc2f7779c70&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.991816,
+      "longitude": 28.833757199999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv7oVTAy3yhQRcJx398KrLGA",
+    "provider_id": "/g/11gbxz6h8k",
+    "rating": 4.8,
+    "reviews": 122,
+    "type": "Plastic surgery clinic",
+    "types": [
+      "Plastic surgery clinic"
+    ],
+    "type_id": "plastic_surgery_clinic",
+    "type_ids": [
+      "plastic_surgery_clinic"
+    ],
+    "address": "İÇ KAPI, ATAKÖY 7-8-9-10. KISIM MAH ÇOBANÇEŞME E-5 YAN YOL CAD A-B BLOK NO: 18/1, NO: 161, 34158 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM",
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 212 233 44 44",
+    "website": "http://www.clinicplast.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"I was well looked after and treated with a lot of care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOfPaPV2V4VYXViYuPgBbZB9fUaHJNTlpFjOqQ=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MRyT7nicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngnxaQGBBmFGYSFhkRlhlZGpDulBTlZJkWmujh5ReSU-CW5V8YaFtuaGasm2FppJutm5cPAIRdIPQ"
+  },
+  {
+    "position": 9,
+    "title": "Vivid Clinic | Cosmetic Surgery Istanbul, Turkey",
+    "place_id": "ChIJzffHkDStWqMR-IaLoxTdy78",
+    "data_id": "0xa35aad3490c7f7cd:0xbfcbdd14a38b86f8",
+    "data_cid": "13820382962229413624",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0xa35aad3490c7f7cd%3A0xbfcbdd14a38b86f8&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0xa35aad3490c7f7cd%3A0xbfcbdd14a38b86f8&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.992139,
+      "longitude": 28.833059
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzffHkDStWqMR-IaLoxTdy78",
+    "provider_id": "/g/11w8ynxjb_",
+    "rating": 5,
+    "reviews": 121,
+    "type": "Plastic surgery clinic",
+    "types": [
+      "Plastic surgery clinic",
+      "Cosmetic dentist",
+      "Cosmetic surgeon",
+      "Dental clinic",
+      "Surgical center"
+    ],
+    "type_id": "plastic_surgery_clinic",
+    "type_ids": [
+      "plastic_surgery_clinic",
+      "cosmetic_dentist",
+      "cosmetic_surgeon",
+      "dental_clinic",
+      "surgical_center"
+    ],
+    "address": "A Residence No:8/1 K:2 D:14. Europe Residence & Office Atakoy 7 8 9 10 Mah, Çobançeşme, Yan Yol, 34158 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 7 PM",
+    "hours": "Open ⋅ Closes 7 PM",
+    "operating_hours": {
+      "monday": "8 AM–7 PM",
+      "tuesday": "8 AM–7 PM",
+      "wednesday": "8 AM–7 PM",
+      "thursday": "8 AM–7 PM",
+      "friday": "8 AM–7 PM",
+      "saturday": "8 AM–5 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 545 742 35 65",
+    "website": "https://vividclinic.net/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "parking": [
+          "On-site parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNr5ggV2FZa-fwzbqp_G5DumGaJ0CP1zoD2r19-=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/OHuxN3icuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngV2Sanh5m5BaVqJtWXpVUWBDvbupSmuue6GXgHGBYle9iVGRoqWtbbmmkmwHE2bp5-QCGQSCu"
+  },
+  {
+    "position": 10,
+    "title": "Pyramids Clinic Turkey",
+    "place_id": "ChIJk3gj-hq7yhQRsTZwE2PYIA0",
+    "data_id": "0x14cabb1afa237893:0xd20d863137036b1",
+    "data_cid": "945993841787287217",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cabb1afa237893%3A0xd20d863137036b1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cabb1afa237893%3A0xd20d863137036b1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9811371,
+      "longitude": 28.7936193
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJk3gj-hq7yhQRsTZwE2PYIA0",
+    "provider_id": "/g/11sczqf07z",
+    "rating": 5,
+    "reviews": 33,
+    "type": "Community health centre",
+    "types": [
+      "Community health centre"
+    ],
+    "type_id": "community_health_center",
+    "type_ids": [
+      "community_health_center"
+    ],
+    "address": "Şenlikköy, Florya Cd., 34153 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 501 041 56 84",
+    "website": "https://www.pyramidsclinic.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Assistive hearing loop",
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking"
+        ]
+      }
+    ],
+    "user_review": "\"Amazing center, amazing care and wonderful experience!\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNESy1tXSawLLHXzMQX35n_fFRajuiNDdH4WS5p=w184-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/0yp3RnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng5xpcaVgSEZxY7uPjEVHlGxhhbJoXn-YWlJhVmunnkuJhEh5sWmBbbmhhopthaaSbrZuXDwCsOCFL"
+  },
+  {
+    "position": 11,
+    "title": "Clinicexpert",
+    "place_id": "ChIJzU3VL_y2yhQRER2_v-_duhQ",
+    "data_id": "0x14cab6fc2fd54dcd:0x14baddefbfbf1d11",
+    "data_cid": "1493750248210636049",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab6fc2fd54dcd%3A0x14baddefbfbf1d11&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab6fc2fd54dcd%3A0x14baddefbfbf1d11&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0126226,
+      "longitude": 28.8142411
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzU3VL_y2yhQRER2_v-_duhQ",
+    "provider_id": "/g/12jst03cy",
+    "rating": 4.5,
+    "reviews": 4392,
+    "type": "Plastic surgery clinic",
+    "types": [
+      "Plastic surgery clinic",
+      "Hair transplantation clinic"
+    ],
+    "type_id": "plastic_surgery_clinic",
+    "type_ids": [
+      "plastic_surgery_clinic",
+      "hair_transplantation_clinic"
+    ],
+    "address": "Basın Ekspres Yolu, Yenibosna Merkez, Kavak Sk. No:3, 34197 Bahçelievler/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 539 336 74 74",
+    "website": "https://clinicexpert.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      }
+    ],
+    "user_review": "\"Recommended, skilled practitioner who listens to your needs.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMhDOyUp1nKlaI_jdYF8RnznYgDzOQfvNkODaCD=w176-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/FWnAInicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngm-HiXxlaYJjnnZPoGZ-VEulmEZRXlReZ7lLlH5hW5pft75Lo7GJbbmhuppthaaSbrZuXDwC_byHg"
+  },
+  {
+    "position": 12,
+    "title": "Fizyonef Fizik Tedavi & Reformer Pilates Merkezi",
+    "place_id": "ChIJ9cR4KtGjyhQRUmZPj6rB3oI",
+    "data_id": "0x14caa3d12a78c4f5:0x82dec1aa8f4f6652",
+    "data_cid": "9430187608053343826",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa3d12a78c4f5%3A0x82dec1aa8f4f6652&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa3d12a78c4f5%3A0x82dec1aa8f4f6652&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.992058899999996,
+      "longitude": 28.8331047
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ9cR4KtGjyhQRUmZPj6rB3oI",
+    "provider_id": "/g/11vc207p6w",
+    "rating": 5,
+    "reviews": 8,
+    "type": "Physical therapy clinic",
+    "types": [
+      "Physical therapy clinic"
+    ],
+    "type_id": "physiotherapy_center",
+    "type_ids": [
+      "physiotherapy_center"
+    ],
+    "address": "Ataköy 7-8-9-10. Kısım Mah. Çobançeşme, E-5, Yan Yol No:22/1 A Blok, 34158 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–9 PM",
+      "wednesday": "9 AM–9 PM",
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–5 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 530 599 31 13",
+    "website": "https://www.fizyonef.com/?utm_source=google&utm_medium=wix_google_business_profile&utm_campaign=11033860074670592805",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNmAu0NPWSlYYSTUJwXD9a06QkubnGJZPtUJCEq=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/49E3n3icuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngl-tYauAXEB6cExkZHBLqVR7hYploYBaYXZqU5-4VFVAS6uXsWmhbbmGgm2FoYKabrZuXDwCkgiEe"
+  },
+  {
+    "position": 13,
+    "title": "Piya Health Care",
+    "place_id": "ChIJu7GWTdejyhQRorWEC9jLi8E",
+    "data_id": "0x14caa3d74d96b1bb:0xc18bcbd80b84b5a2",
+    "data_cid": "13946464799849493922",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa3d74d96b1bb%3A0xc18bcbd80b84b5a2&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa3d74d96b1bb%3A0xc18bcbd80b84b5a2&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9930118,
+      "longitude": 28.837305599999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJu7GWTdejyhQRorWEC9jLi8E",
+    "provider_id": "/g/11w3g7rxwt",
+    "rating": 4.9,
+    "reviews": 31,
+    "type": "Health and beauty shop",
+    "types": [
+      "Health and beauty shop"
+    ],
+    "type_id": "health_and_beauty_shop",
+    "type_ids": [
+      "health_and_beauty_shop"
+    ],
+    "address": "Adapark Plaza, Zafer, Çınar Sk. No:1 Kat:2 D:6A, 34194 Bahçelievler/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 549 127 20 24",
+    "website": "https://www.piyahealthcare.com/",
+    "extensions": [
+      {
+        "payments": [
+          "Credit cards"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "Paid parking garage",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "user_review": "\"I felt well-informed and supported at every step.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npmuYmVP9TEzhQDZUFTsKlIut3B3Jq9hMloNuCvJ-VJRT5Ds5A5X7cWtqRpwcbPTpRLamQqDvkFuTReC9HOu4yL01dqJVfwrdkIA56QHqoRrtZq6-xt1mtLuOw9X121832YXhhH=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/fjA59XicBcFbcoIwFADQFUWICDWd8QOhDlJ8kEkR_dNIyQyEJORGWvfXRbibnvP6EwDavnteL4JZq1TbN842I1cDNAPMuJJeqy3iFlkvTohYDFq6s6yOhH08RZlevjbMfvZbB8E6yA0Ru17tXfLIUZVTFqY2jMP6jZ_AUD3x25FpWlxladJHt3GMNgnJDm7xW_j4bvLqexrv3TYOozIzio5wMRH6ASyhcIeJ1HiOl8H8XAuRraaljwT2I9ShQf0D-5NEmQ"
+  },
+  {
+    "position": 14,
+    "title": "Aisha Hair | Injerto Capilar Turquía | Hair Transplant Turkey",
+    "place_id": "ChIJlTfQtXyjyhQRi2qS1FjHWtA",
+    "data_id": "0x14caa37cb5d03795:0xd05ac758d4926a8b",
+    "data_cid": "15013531492130384523",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa37cb5d03795%3A0xd05ac758d4926a8b&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa37cb5d03795%3A0xd05ac758d4926a8b&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9913747,
+      "longitude": 28.8354601
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlTfQtXyjyhQRi2qS1FjHWtA",
+    "provider_id": "/g/11g8wcnv38",
+    "rating": 4.9,
+    "reviews": 224,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic"
+    ],
+    "address": "Ataköy 7-8-9-10. Kısım Mahallesi Çobançeşme E-5 Yanyol 22/2, D:187, 34156 Bakırköy, Türkiye",
+    "open_state": "Open ⋅ Closes 8:30 PM",
+    "hours": "Open ⋅ Closes 8:30 PM",
+    "operating_hours": {
+      "monday": "7:30 AM–8:30 PM",
+      "tuesday": "7:30 AM–8:30 PM",
+      "wednesday": "7:30 AM–8:30 PM",
+      "thursday": "7:30 AM–8:30 PM",
+      "friday": "7:30 AM–8:30 PM",
+      "saturday": "7:30 AM–8:30 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 553 017 67 67",
+    "website": "https://www.aishahair.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Great experience and wonderful results\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNzWd5IHdiCSLsX3WCs8cdI5ajQ58qdrVDtDrwq=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/WBaJynicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngVxWeYurpkZLpHOxTHGEc7lxskZziaZqYFWhqUZhSFOZS4lJUXmhbbmmkmwHE2bp5-QCJLiFI"
+  },
+  {
+    "position": 15,
+    "title": "Adem Köse - Hair Transplant Turkey",
+    "place_id": "ChIJ8enqACuJUEMRwLp5HL4J2rA",
+    "data_id": "0x4350892b00eae9f1:0xb0da09be1c79bac0",
+    "data_cid": "12743508807724415680",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x4350892b00eae9f1%3A0xb0da09be1c79bac0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x4350892b00eae9f1%3A0xb0da09be1c79bac0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9995342,
+      "longitude": 28.799179
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ8enqACuJUEMRwLp5HL4J2rA",
+    "provider_id": "/g/11trk74wy6",
+    "rating": 4.9,
+    "reviews": 319,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic"
+    ],
+    "address": "Torkam E5, Kartaltepe, Süvari Cd. D:1 Blok Kat 3 Daire 57, 34295 Küçükçekmece/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "8 AM–6 PM",
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "8 AM–6 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 506 986 28 28",
+    "website": "http://ademkose.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      },
+      {
+        "children": [
+          "Good for kids"
+        ]
+      }
+    ],
+    "user_review": "\"The professionalism, expertise, and care they provide are outstanding.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPoCHv1XI_vj0iOUIYoKcN8zY-cMwTUgr83FsDd=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/umbK53icuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQkO_sUWYY4RlflmWQ6R_qGZnvnexnURWpm-xbHhKaXmRh7FbskmJbbmmkmwHE2bp5-QCJgiEU"
+  },
+  {
+    "position": 16,
+    "title": "Long Hair Center Istanbul (LHC CLINIC)",
+    "place_id": "ChIJL1QY482jyhQR3m1SY-expf8",
+    "data_id": "0x14caa3cde318542f:0xffa5b1e763526dde",
+    "data_cid": "18421325458190790110",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa3cde318542f%3A0xffa5b1e763526dde&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa3cde318542f%3A0xffa5b1e763526dde&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.002421999999996,
+      "longitude": 28.822398
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJL1QY482jyhQR3m1SY-expf8",
+    "provider_id": "/g/11hd_kfw41",
+    "rating": 4.9,
+    "reviews": 408,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic"
+    ],
+    "address": "Çobançeşme, Sanayi Cd. No:60 İç Kapı No:57, 34180, 34180 Bahçelievler/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 5:30 PM",
+    "hours": "Open ⋅ Closes 5:30 PM",
+    "operating_hours": {
+      "monday": "8:30 AM–5:30 PM",
+      "tuesday": "8:30 AM–5:30 PM",
+      "wednesday": "8:30 AM–5:30 PM",
+      "thursday": "8:30 AM–5:30 PM",
+      "friday": "8:30 AM–5:30 PM",
+      "saturday": "8:30 AM–5:30 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 534 704 61 42",
+    "website": "https://www.longhaircenter.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "user_review": "\"They have relatively great communication and they have competent staff.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPHfgCwoAk5O-yTssXDmdyq85Mom17sLNzEKahY=w163-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/SwN5WXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQ4JGW7lye75ht6q9bGVJcHOGSm1JZaGHqm59raF7s41fl6p2YEWlbbmhmrJthaaSbrZuXDwC3YCGo"
+  },
+  {
+    "position": 17,
+    "title": "Natural Clinic",
+    "place_id": "ChIJvc4tFwS7yhQRem14182G20g",
+    "data_id": "0x14cabb04172dcebd:0x48db86cdd7786d7a",
+    "data_cid": "5249938009271856506",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cabb04172dcebd%3A0x48db86cdd7786d7a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cabb04172dcebd%3A0x48db86cdd7786d7a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9919613,
+      "longitude": 28.827277199999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJvc4tFwS7yhQRem14182G20g",
+    "provider_id": "/g/11b6rzkg8v",
+    "rating": 4.5,
+    "reviews": 2664,
+    "type": "Hospital",
+    "types": [
+      "Hospital",
+      "Dental clinic",
+      "Hair transplantation clinic",
+      "Plastic surgery clinic"
+    ],
+    "type_id": "hospital",
+    "type_ids": [
+      "hospital",
+      "dental_clinic",
+      "hair_transplantation_clinic",
+      "plastic_surgery_clinic"
+    ],
+    "address": "ATAKÖY 7-8-9-10.MAH, Çobançeşme, Yan Yol NO: 8, 34158 Bakırköy/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 212 919 05 55",
+    "website": "https://natural.clinic/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free parking lot",
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipORisqcoSleX5cm2HfJGJddF1W3cTIpAWPwniwk=w99-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/Ztd60HicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngH5RZXJicH5yTGmGanGvkkebl7pWS4mYYbpwc4lngGB5QnpdZnm1bbmmpm2FppJutm5cPAJn8IaA"
+  },
+  {
+    "position": 18,
+    "title": "Elegancia Clinic",
+    "place_id": "ChIJ59OTgFijyhQRxqj9IJ3UhDA",
+    "data_id": "0x14caa3588093d3e7:0x3084d49d20fda8c6",
+    "data_cid": "3496152982074796230",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa3588093d3e7%3A0x3084d49d20fda8c6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa3588093d3e7%3A0x3084d49d20fda8c6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 40.9994343,
+      "longitude": 28.7990924
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ59OTgFijyhQRxqj9IJ3UhDA",
+    "provider_id": "/g/11s18kxdh8",
+    "rating": 4.7,
+    "reviews": 156,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic",
+      "Dental hygienist",
+      "Plastic surgery clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic",
+      "dental_hygienist",
+      "plastic_surgery_clinic"
+    ],
+    "address": "Kartaltepe, Süvari Cd. NO :10, 34295 Küçükçekmece/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 531 084 68 64",
+    "website": "https://eleganciaclinic.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"They follow all the health and safety procedures.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipPWqH2wyOb0s2KGpgak4VChdtjskztmZQa_YvY=w134-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/bsPheXicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFkQEF7oYVRe6Z9kUGzk7V6QnphtEuackVKSVZxdVZIbFZgYH1kWaVtuaGyim2FppJutm5cPAKElIfk"
+  },
+  {
+    "position": 19,
+    "title": "Forever Clinica",
+    "place_id": "ChIJq6rqq_WkyhQR2y8xh1P2A4c",
+    "data_id": "0x14caa4f5abeaaaab:0x8703f65387312fdb",
+    "data_cid": "9728890458661269467",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa4f5abeaaaab%3A0x8703f65387312fdb&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa4f5abeaaaab%3A0x8703f65387312fdb&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.020145299999996,
+      "longitude": 28.822892999999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJq6rqq_WkyhQR2y8xh1P2A4c",
+    "provider_id": "/g/11hzms_pzt",
+    "rating": 4.8,
+    "reviews": 19,
+    "unclaimed_listing": true,
+    "type": "Plastic surgery clinic",
+    "types": [
+      "Plastic surgery clinic"
+    ],
+    "type_id": "plastic_surgery_clinic",
+    "type_ids": [
+      "plastic_surgery_clinic"
+    ],
+    "address": "Bağlar Mahallesi, Güneşli, Yalçın Koreş Cd. H Blok No. 14 İç Kapı No: B/47, 34197 Bağcılar/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "9 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 212 803 00 72",
+    "website": "https://www.foreverclinica.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      }
+    ],
+    "user_review": "\"Now I feel great, I loose 35 kg and my health is better now.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqAtkPSgbTSCRvhqXlSE1r8J5-KUBeybEpHn_Kk2QUxxbLJIHsrlTMdFNBYFK3u_VvfMe9Ht5am1mSsn6D-MF6IjlOfszwP_1amOMnPhSvqNFJtUstVZuunTMVH43KzRK00hWm8=w80-h106-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/KaOUf3icBcFbcoIwFADQFUVAlEFn_FCUQdIoGqC1P4zQSKbkAdyAj_25iO6m5_y9uTEtLC1LcHdSa10LNgDrK60MU2ZSaWnVLaAKEFjrYMFnqlubJqF1mdLgPPLuS9Cd0_vxHOFsw57lro1UgZvpKXs8yo94H0EvUvITHjaXELtDkY83whaRmV-lIykob4tI6O1_xfEGr3tSOFd5JCrhdOwOYWwyMPn3MKiU5NHMxa8ztm3-Kf3V3bcRd2wPNUjpfwbfRRw"
+  },
+  {
+    "position": 20,
+    "title": "Natural beauty Turkey",
+    "place_id": "ChIJuT2znCdftRQRoQhfhgjSAGc",
+    "data_id": "0x14b55f279cb33db9:0x6700d208865f08a1",
+    "data_cid": "7422163119962523809",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14b55f279cb33db9%3A0x6700d208865f08a1&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14b55f279cb33db9%3A0x6700d208865f08a1&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0023702,
+      "longitude": 28.7885226
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJuT2znCdftRQRoQhfhgjSAGc",
+    "provider_id": "/g/11gy7x4pcp",
+    "rating": 4.6,
+    "reviews": 463,
+    "type": "Medical clinic",
+    "types": [
+      "Medical clinic"
+    ],
+    "type_id": "medical_clinic",
+    "type_ids": [
+      "medical_clinic"
+    ],
+    "address": "Sultan Murat Mahallesi Sultan Murat Caddesi No:113-1 Sefaköy 34295, 34015 Küçükçekmece/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 10 PM",
+    "hours": "Open ⋅ Closes 10 PM",
+    "operating_hours": {
+      "monday": "8 AM–10 PM",
+      "tuesday": "8 AM–10 PM",
+      "wednesday": "8 AM–10 PM",
+      "thursday": "8 AM–10 PM",
+      "friday": "8 AM–10 PM",
+      "saturday": "8 AM–6 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 541 947 50 94",
+    "website": "http://naturalbeautyturkey.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Their attention to detail, expertise, and patient care are truly top-notch.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMAA1FmdGkDzAuX5umQSNmTr8opB9jwu6Fbmovg=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/DjNEanicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng6-ho6Jab4p7tUuVYGmFamhsY7JcbUmSRX-BkmVVeauaWlJtflm5bbmhsoZthaaSbrZuXDwCwIiHO"
+  }
+]

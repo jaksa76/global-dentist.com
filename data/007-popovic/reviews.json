@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Dental Clinic \"Dr Popović\"",
+    "address": "Bregalnička 6, Beograd 11000, Serbia",
+    "rating": 4.7,
+    "reviews": 98,
+    "type": "Dentist"
+  },
+  "reviews": [
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTUNnMThhSzV3RRAB",
+      "name": "CONNECT",
+      "score": 5.0,
+      "comment": "After a long journey, I have finally arrived at my destination, Sunshine Coast, QLD, Australia. Reflecting on my experience at Dental Clinic \"Dr Popović,\" I am beyond grateful for the unmatched care and dedication of the entire team—especially Nemanja, Ana, and Tamara. Their expertise, professionalism, and kindness made every moment at the clinic truly exceptional.\n\nAna and Tamara provided outstanding and intensive dental care, and I already miss my appointments with them. Ana suggested a follow-up in six months, but I may need a bit more time before returning. Regardless, I eagerly look forward to my next visit.\n\nMy experience at Dental Clinic \"Dr Popović\" was nothing short of extraordinary. From the luxurious environment to the outstanding service, every aspect of my visit was flawless. I deeply cherished every moment spent at the clinic and would highly recommend it to anyone seeking a professional, brilliant, and truly rewarding dental experience.\n\nThank you!"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURfN3U2WkZnEAE",
+      "name": "Val Vr",
+      "score": 5.0,
+      "comment": "Best dental practice you can ask for in Belgrade at very convenient prices. I'm utterly happy with the final results (implant) and the way my dental issues have been handled from start to finish.\nDr. Popovic and his team's dental expertise and client care are second to none. Strongly reccomend it for anyone looking for a top-notch dentist in Belgrade."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUMzcFpiUWZ3EAE",
+      "name": "Sharae",
+      "score": 5.0,
+      "comment": "I would like to express my sincere gratitude and appreciation to Dr. Ivan and his team at the dental clinic in Belgrade. They treated my teeth, which were in a nearly destroyed state, and provided exceptional care. Dr. Ivan has remarkable skill and professionalism, attending to every detail, no matter how small, during the treatment, which made me feel safe and comfortable. The accompanying staff were also very kind and supportive, providing all the assistance I needed. I truly appreciate their patience and dedication to their work, and I extend my heartfelt thanks to them."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTURnMWEtbURBEAE",
+      "name": "Daisy Bullock",
+      "score": 5.0,
+      "comment": "Dr. Popovic's dental clinic is amazing. Dr. Popovic, along with his wife and the entire team, provided excellent care, treating both my parents and me with the utmost kindness and expertise. We were all impressed by how welcoming and professional everyone was. The efficiency of the treatment was top-notch, and we felt completely at ease throughout the process. It's rare to find such a dedicated and skilled team, and I highly recommend them to anyone looking for a dental clinic. Thank you, Dr. Popovic and team, for being so attentive and making our visit so pleasant!"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTURBbXIyTGRBEAE",
+      "name": "Erdem Ölçer",
+      "score": 5.0,
+      "comment": "Dr. Majda, you are a wonderful doctor. Your sense of aesthetics is also excellent, you approach every problem related to your teeth with dedication and you look much better than you imagined. Reception Jelena, head nurse Tamara, I'm grateful to you too. This clinic literally gives you confidence and comfort."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNQbGFMeEV3EAE",
+      "name": "Vojislav Sredovic",
+      "score": 5.0,
+      "comment": "Rare dental clinic where you solve all your problems with teeth. All doctors are excellent, but I need to address special compliments to dr Nemanja, dr Ivan and dr Tijana. Receptionist Jelena is one of a kind, always smiling, kind and polite. All recommendations for this clinic."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUQzakpTM1VBEAE",
+      "name": "Marija Ristic",
+      "score": 5.0,
+      "comment": "Doctor Popovic and his colleagues are very professional, dedicated, kind. The office is bright, clean and has a very pleasant atmosphere. Positive energy radiates from every part."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNyNVBDYV9nRRAB",
+      "name": "andrew bullock",
+      "score": 5.0,
+      "comment": "This excellent Dental Clinic was recommended to me by a friend. So, after visiting last month, I can also wholeheartedly recommend it. The reasons are primarily because of the clarity of the professional advice and caring treatment from Dr Popovic and his colleagues.\nTheir website sums up the wonderful facilities at the practice and all that I can add is that Belgrade is a really interesting and historic city with great restaurants and bars.\nIt is not very often that you can say that I am looking forward to going to the dentist, but I can now say that and I will coming back with my family in autumn.\nThank you everyone."
+    }
+  ]
+}

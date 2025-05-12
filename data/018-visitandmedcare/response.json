@@ -1,0 +1,336 @@
+[
+  {
+    "position": 1,
+    "title": "Visitandmedcare",
+    "place_id": "ChIJHb81yMu3yhQRGjn4_DylNC4",
+    "data_id": "0x14cab7cbc835bf1d:0x2e34a53cfcf8391a",
+    "data_cid": "3329467705894385946",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab7cbc835bf1d%3A0x2e34a53cfcf8391a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab7cbc835bf1d%3A0x2e34a53cfcf8391a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0546362,
+      "longitude": 28.9988434
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJHb81yMu3yhQRGjn4_DylNC4",
+    "provider_id": "/g/11fvw79bw3",
+    "rating": 4.8,
+    "reviews": 74,
+    "type": "Community health centre",
+    "types": [
+      "Community health centre"
+    ],
+    "type_id": "community_health_center",
+    "type_ids": [
+      "community_health_center"
+    ],
+    "address": "TERRACE FULYA CENTER, Teşvikiye Mah. Hakkı Yeten Cad, Fulya Sk. No: 11, 34365 Şişli/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 5:30 PM",
+    "hours": "Open ⋅ Closes 5:30 PM",
+    "operating_hours": {
+      "monday": "8 AM–5:30 PM",
+      "tuesday": "8 AM–5:30 PM",
+      "wednesday": "8 AM–5:30 PM",
+      "thursday": "8 AM–5:30 PM",
+      "friday": "8 AM–5:30 PM",
+      "saturday": "8 AM–5:30 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 552 935 23 70",
+    "website": "https://visitandmedcare.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "user_review": "\"From the moment I walked through the doors, I knew I was in good hands.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipO989D0G7OUuosY2g2jVlx3Em7MunSQawXa_Tt0=w297-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/YNqkUHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngb2lh6WLgbu4fWppfHGmUbpQVllNh7Jpr7luaFxyYWB6RGB9SYmBbbmRprpthaaSbrZuXDwCUoiEK"
+  },
+  {
+    "position": 2,
+    "title": "MebaDent Şişli Ağız Ve Diş Sağlığı Polikliniği",
+    "place_id": "ChIJpeeTYbS1yhQR6nzef8rQACs",
+    "data_id": "0x14cab5b46193e7a5:0x2b00d0ca7fde7cea",
+    "data_cid": "3098706111778159850",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab5b46193e7a5%3A0x2b00d0ca7fde7cea&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab5b46193e7a5%3A0x2b00d0ca7fde7cea&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.066386,
+      "longitude": 28.996900099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJpeeTYbS1yhQR6nzef8rQACs",
+    "provider_id": "/g/11s8jxfh5s",
+    "rating": 4.9,
+    "reviews": 507,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Endodontist",
+      "Orthodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "endodontist",
+      "orthodontist"
+    ],
+    "address": "Somer Apt, Fulya, Büyükdere Cd. No:64C, 34453 Şişli/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 9 PM",
+    "hours": "Open ⋅ Closes 9 PM",
+    "operating_hours": {
+      "monday": "10 AM–9 PM",
+      "tuesday": "10 AM–9 PM",
+      "wednesday": "10 AM–9 PM",
+      "thursday": "10 AM–9 PM",
+      "friday": "10 AM–9 PM",
+      "saturday": "10 AM–9 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 507 318 66 00",
+    "website": "https://www.mebadent.com/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Gender-neutral restroom",
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipORc9HZmdOqKfmPGwIQ3i9XICzQUrnNNU7wjJ0T=w138-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xpoLCnicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngH5Rs6RGVm-Jf6J2WG-Be7hlonGkZ4elcFRhalOfnF2penuVlEGJbbmhsoZthaaSbrZuXDwCrSiFE"
+  },
+  {
+    "position": 3,
+    "title": "Istanbul Dental Center",
+    "place_id": "ChIJLcU03xG3yhQRSu2pKeu6mT0",
+    "data_id": "0x14cab711df34c52d:0x3d99baeb29a9ed4a",
+    "data_cid": "4438784426929417546",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab711df34c52d%3A0x3d99baeb29a9ed4a&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab711df34c52d%3A0x3d99baeb29a9ed4a&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0535405,
+      "longitude": 28.987648099999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJLcU03xG3yhQRSu2pKeu6mT0",
+    "provider_id": "/g/11bw4dz5zl",
+    "rating": 4.9,
+    "reviews": 1030,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dental implants periodontist",
+      "Dentist",
+      "Endodontist",
+      "Orthodontist",
+      "Pediatric dentist",
+      "Periodontist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dental_implants_periodontist",
+      "dentist",
+      "endodontist",
+      "orthodontist",
+      "pediatric_dentist",
+      "periodontist"
+    ],
+    "address": "Rumeli Caddesi No:71 4th Floor, 34371 Şişli/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 7 PM",
+    "hours": "Open ⋅ Closes 7 PM",
+    "operating_hours": {
+      "monday": "10 AM–7 PM",
+      "tuesday": "10 AM–7 PM",
+      "wednesday": "10 AM–7 PM",
+      "thursday": "10 AM–7 PM",
+      "friday": "10 AM–7 PM",
+      "saturday": "11 AM–3 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 212 246 02 38",
+    "website": "http://www.istanbuldentalcenter.com/",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"The results exceeded my expectations – my teeth look and feel fantastic.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMitvIlG8rIOVDS6BDKvFTJv1oigbZakRnrUWxp=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/rRzIFXicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngm1lS5pnjblHk6R_mEmzm5OJd5hbiVWaYn5meFJWYHZRXFBpeUWBbbmhsrpthaaSbrZuXDwC1gyHd"
+  },
+  {
+    "position": 4,
+    "title": "Prettiva Clinic",
+    "place_id": "ChIJlVNdCTu3yhQRcKZ_zXwDIEM",
+    "data_id": "0x14cab73b095d5395:0x4320037ccd7fa670",
+    "data_cid": "4836869834354435696",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab73b095d5395%3A0x4320037ccd7fa670&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab73b095d5395%3A0x4320037ccd7fa670&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.063178,
+      "longitude": 28.987521299999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJlVNdCTu3yhQRcKZ_zXwDIEM",
+    "provider_id": "/g/11n05m5gmb",
+    "rating": 4.8,
+    "reviews": 55,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Dentist",
+      "Plastic surgeon"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "dentist",
+      "plastic_surgeon"
+    ],
+    "address": "Merkez, Abide-i Hürriyet Cd Melis Apt No 181-B, 34360 Şişli/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 9 PM",
+    "hours": "Open ⋅ Closes 9 PM",
+    "operating_hours": {
+      "monday": "8 AM–9 PM",
+      "tuesday": "8 AM–9 PM",
+      "wednesday": "8 AM–9 PM",
+      "thursday": "8 AM–9 PM",
+      "friday": "8 AM–9 PM",
+      "saturday": "8 AM–9 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 505 091 23 74",
+    "website": "https://www.prettiva.com/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible restroom",
+          "Wheelchair accessible seating"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOslVWF5Ben6Y-PxhgUYwE8d8rScV1K9eVkZ5QC=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xVDYCnicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngX5wTFu5m6pSaZxapG1CRkR4aWe5qkWJRFJwcZuhtmRqWHWUa6GxbbmmkmwHE2bp5-QCDjSDE"
+  },
+  {
+    "position": 5,
+    "title": "Medspa Clinic - Dental Implants, Hollywood smile, Dental clinic in Turkey",
+    "place_id": "ChIJR222EjGxyhQRZ-770EjIevc",
+    "data_id": "0x14cab13112b66d47:0xf77ac848d0fbee67",
+    "data_cid": "17832785889596272231",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab13112b66d47%3A0xf77ac848d0fbee67&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab13112b66d47%3A0xf77ac848d0fbee67&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0376298,
+      "longitude": 28.9878657
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJR222EjGxyhQRZ-770EjIevc",
+    "provider_id": "/g/11v5b4vb8v",
+    "rating": 5,
+    "reviews": 94,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "Gümüşsuyu, Ayanoğlu Han, Mete Cd. Taksim Beyoğlu, 34437 Taksim, 34437 Beyoğlu/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 544 555 56 74",
+    "website": "https://www.medspatr.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Nice staff, excellent work and high professionalism\nI highly recommend\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipOw5t7D4uwRsFR-vvT7qSSPTGQTVwGjQxI99Fhl=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/jaJEOnicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngX25aYu5iUloeVOwWpFtWFmJeGBwcEOIeGBJW7p4VWOFpaemWkWNbbmmkmwHE2bp5-QCKASEa"
+  }
+]

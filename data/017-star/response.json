@@ -1,0 +1,213 @@
+[
+  {
+    "position": 1,
+    "title": "star clinic istanbul",
+    "place_id": "ChIJUQSxQRpsJwIR1hAYTdwdJMg",
+    "data_id": "0x2276c1a41b10451:0xc8241ddc4d1810d6",
+    "data_cid": "14421684738770604246",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x2276c1a41b10451%3A0xc8241ddc4d1810d6&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x2276c1a41b10451%3A0xc8241ddc4d1810d6&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.060784999999996,
+      "longitude": 28.9917576
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJUQSxQRpsJwIR1hAYTdwdJMg",
+    "provider_id": "/g/11w8ngmkjn",
+    "rating": 5,
+    "reviews": 8,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic",
+      "Community health centre"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic",
+      "community_health_center"
+    ],
+    "address": "19 Mayis Caddesi Dr. Hüsnü ismet Öztürk Sokak Sisli Plaza, Cevahir Avm Arkasi, 34360 Şişli/İstanbul, Türkiye",
+    "phone": "+90 531 268 58 80",
+    "website": "https://starclinicistanbul.com/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Dr. Demit and her entire team were incredibly professional and skilled.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMNXvLQ083YqgWzND-pcLPMHWyvb6GULkAqcQah=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/93p5v3icuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFng6xdR5hNoYGEcWZgeXuXnoluQ7BPg6xFeWZZk5h7qk-1YmByYmGFbbmmkmwHE2bp5-QCCkCES"
+  },
+  {
+    "position": 2,
+    "title": "Stars Aesthetic",
+    "place_id": "ChIJb2thGna3yhQR0HBKTeM2cVQ",
+    "data_id": "0x14cab7761a616b6f:0x547136e34d4a70d0",
+    "data_cid": "6084704921436451024",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab7761a616b6f%3A0x547136e34d4a70d0&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab7761a616b6f%3A0x547136e34d4a70d0&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.065533599999995,
+      "longitude": 28.998369
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJb2thGna3yhQR0HBKTeM2cVQ",
+    "provider_id": "/g/11vszcjjq7",
+    "rating": 5,
+    "reviews": 11,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic"
+    ],
+    "address": "Fulya, Fulya Mh. Buyukdere Cd, Akıncı Bayırı Sk. No: 74, 34394 Şişli/İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "9 AM–6 PM",
+      "tuesday": "9 AM–6 PM",
+      "wednesday": "9 AM–6 PM",
+      "thursday": "9 AM–6 PM",
+      "friday": "9 AM–6 PM",
+      "saturday": "9 AM–6 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 544 785 54 98",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Professionals, quick response, great care.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipN7RqHhT3WaI3y16jjJ3kCNYoKu3OhYckVoLuoH=w92-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/MTByzXicuxmbUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngZx5U6JERYhye6GlcaWiWleVlnO3sF5nvXWrsnxGZnB2W71Oa72FbbmmkmwHE2bp5-QB9YSEC"
+  },
+  {
+    "position": 3,
+    "title": "Star Hair Transplant",
+    "place_id": "ChIJv1B7Iai3yhQR-Qgi48EdgqM",
+    "data_id": "0x14cab7a8217b50bf:0xa3821dc1e32208f9",
+    "data_cid": "11782012293731191033",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14cab7a8217b50bf%3A0xa3821dc1e32208f9&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14cab7a8217b50bf%3A0xa3821dc1e32208f9&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0653906,
+      "longitude": 28.998367799999997
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJv1B7Iai3yhQR-Qgi48EdgqM",
+    "provider_id": "/g/1tcvfdrg",
+    "rating": 4.4,
+    "reviews": 15,
+    "type": "Hair transplantation clinic",
+    "types": [
+      "Hair transplantation clinic",
+      "Plastic surgery clinic"
+    ],
+    "type_id": "hair_transplantation_clinic",
+    "type_ids": [
+      "hair_transplantation_clinic",
+      "plastic_surgery_clinic"
+    ],
+    "address": "Torun center Eski Ali Sami Yen stadyumu, Mecidiyeköy, 34387 İstanbul, Türkiye",
+    "open_state": "Open ⋅ Closes 6 PM",
+    "hours": "Open ⋅ Closes 6 PM",
+    "operating_hours": {
+      "monday": "8 AM–6 PM",
+      "tuesday": "8 AM–6 PM",
+      "wednesday": "8 AM–6 PM",
+      "thursday": "8 AM–6 PM",
+      "friday": "8 AM–6 PM",
+      "saturday": "8 AM–1 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+90 541 487 55 20",
+    "website": "http://www.starhair.com.tr/",
+    "extensions": [
+      {
+        "from_the_business": [
+          "Identifies as women-owned"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required"
+        ]
+      }
+    ],
+    "user_review": "\"The doctor is very professional, and knows exactly what she is doing.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipMusYyf7sNDHTylU8UH-VfqtMvYvJ1Bdn6KjYGL=w137-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/l20WyHicuxmXUVJSUGylr5-TYayXnp-fnpNaWpxalJyfV5KaV6KXnJ-rX6Dv6GYYmFngW1ocWZlmXuzn4hFSmRNqEeqhG5ZWWOJbFlnmZeiUkmfmnRXp7mNbbmhsrpthaaSbrZuXDwC7DSGX"
+  },
+  {
+    "position": 4,
+    "title": "Star Clinic",
+    "place_id": "ChIJmcBsSXGlyhQRkVLjPgN8V7w",
+    "data_id": "0x14caa571496cc099:0xbc577c033ee35291",
+    "data_cid": "13571452355486110353",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x14caa571496cc099%3A0xbc577c033ee35291&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x14caa571496cc099%3A0xbc577c033ee35291&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.0125332,
+      "longitude": 28.817743
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJmcBsSXGlyhQRkVLjPgN8V7w",
+    "provider_id": "/g/11krymg3lm",
+    "rating": 5,
+    "reviews": 10,
+    "type": "Medical clinic",
+    "types": [
+      "Medical clinic"
+    ],
+    "type_id": "medical_clinic",
+    "type_ids": [
+      "medical_clinic"
+    ],
+    "address": "Yenibosna Merkez, 29 Ekim Cd., 34180 Bahçelievler/İstanbul, Türkiye",
+    "open_state": "Open 24 hours",
+    "hours": "Open 24 hours",
+    "operating_hours": {
+      "monday": "Open 24 hours",
+      "tuesday": "Open 24 hours",
+      "wednesday": "Open 24 hours",
+      "thursday": "Open 24 hours",
+      "friday": "Open 24 hours",
+      "saturday": "Open 24 hours",
+      "sunday": "Open 24 hours"
+    },
+    "phone": "+90 534 041 64 18",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nrKcjUEeYrkbKsiFa06_bt0b5S8hbM0yW4xHcVr0mmSQfOvTaIuKPikv8xfs3_PQBoeMKeS0M7wVe2PMTRYqQx6R8Y7lDhDHOD_sCV-KAANk-gleIgnrBK6E6bHDzbGjW4Uie2U=w131-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/xHxwSHicDc7hEoEwAADgJ5qmkrjzI4rcLkrK9atru2mpNrYh3s9DeBu-J_i-H6b1Vc0No2PWqBai7uhdUUkE15TrERG9UV8VIAoow1vNmM0lIpcsoIVsMVLNuoJOiTXEk9RlOIKvkz2EJJew79PkvH8cq-0dxU37cIezsso4WQoaIZrCaPrMqRlHx0NxSwbn4BbTzmd-uPdLtcoB8rxdC_6bbc3lEjmBg0P_jTeXk5011MwWz7E1BmxmghZw8QPlckQb"
+  }
+]

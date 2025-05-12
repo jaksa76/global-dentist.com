@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Star Clinic",
+    "address": "Yenibosna Merkez, 29 Ekim Cd., 34180 Bahçelievler/İstanbul, Türkiye",
+    "rating": 5,
+    "reviews": 10,
+    "type": "Medical clinic"
+  },
+  "reviews": [
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUM5MnFlUzF3RRAB",
+      "name": "Mohamed Shabarek",
+      "score": 5.0,
+      "comment": "I have done my surgery with star clinic it was an amazing experience with professional doctor and super helpful stuff, I recommend it to everyone thank you amina , thank you star clinic"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNad0x5Z3J3RRAB",
+      "name": "wesam alhasweh",
+      "score": 5.0,
+      "comment": "İ had been with star clinic for my teeth qnd it was so good experience the clinic doctors everything was more than perfect i recommend it\n\nThank you so much for my new smile and for that good experience"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM5MnE3ekhnEAE",
+      "name": "Ahmed khalid elnaggar",
+      "score": 5.0,
+      "comment": "One of the most professional clinics that i dealt  with the service,translators and the doctors were beyond my expectations 👏🏻"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNaeFBuZk1REAE",
+      "name": "Lilia Kouadria",
+      "score": 5.0,
+      "comment": "Good morning\nIt was a wonderful experience in this clinic in terms of experience, seriousness and above all trust. All the staff were of a high standard. I recommend this clinic because the result of the operation was perfect I am so happy thank you star clinic"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNaNTZTMF93RRAB",
+      "name": "Griswald Junior",
+      "score": 5.0,
+      "comment": "I came from America through the respected Professor Hazem in order to treat my teeth. He provided me with all the services I wanted and I treated my teeth. I advise everyone who wants to come to Turkey for treatment to contact the kind, trustworthy and trustworthy Professor Hazem Hazem. Thank God, the treatment was completed using the best modern scientific methods. Many thanks to Dr. Ozlem did the best work to treat my teeth without any pain or discomfort, and I am very satisfied and happy with the amazing results. Thank you. Thank you, Professor Hazem, for all the advice and consultations that he taught us. This center is one of the best, cheapest, and best medical centers in Türkiye."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURWMWJMQ09REAE",
+      "name": "Mohamad Shnar",
+      "score": 5.0,
+      "comment": "Correct appointments, sophistication, and the most important thing is a “wow” result\nHollywood Smile and Hair Transplantation We advise, without hesitation, that you contact Star Clinic without discussing the rest of the clinics.\nThank you Star Clinic"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM5dXRHX1pnEAE",
+      "name": "belhedi dhia",
+      "score": 5.0,
+      "comment": "I had my dental treatment, the doctor was very patient, I thank all the staff for my new smile"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNaMTZtXzlBRRAB",
+      "name": "Ahmed Shakir",
+      "score": 5.0,
+      "comment": "I traveled from my country for dental and cosmetic treatment. It was an excellent experience. The results of the treatment are good with the availability of services and the interest of everyone. Thank you, Star Clinic. I advise everyone to go through the experience."
+    }
+  ]
+}

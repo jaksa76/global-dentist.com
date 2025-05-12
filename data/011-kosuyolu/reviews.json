@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Kosuyolu Park",
+    "address": "Koşuyolu, 34718 Kadıköy/İstanbul, Türkiye",
+    "rating": 4.6,
+    "reviews": 1761,
+    "type": "Park"
+  },
+  "reviews": [
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR6cjUyckdnEAE",
+      "name": "Elena Jusenlijska",
+      "score": 5.0,
+      "comment": "Nice little park nestled between a street full of restaurants."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURIbW9xZ3p3RRAB",
+      "name": "Efe Kocasaraç",
+      "score": 4.0,
+      "comment": "Good park to sit in camping chairs."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURPdWJ6RG5nRRAB",
+      "name": "Vasily Gurin",
+      "score": 5.0,
+      "comment": "Very nice little park in the middle of the district. Bunch of coffee shops nearby and a small off-leash dog area :)"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNwMmFPYzZRRRAB",
+      "name": "Hussain Al Hashemi",
+      "score": 5.0,
+      "comment": "Nice Park for kids. They had a lot of fun"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMwdWNHN3pBRRAB",
+      "name": "Saygın Karabay",
+      "score": 5.0,
+      "comment": "Great place to hangout with family and lots of cosy restaurants and cafes around the park."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURxd09pMFpREAE",
+      "name": "Daniel “HarleyDan”",
+      "score": 5.0,
+      "comment": "Nice park to take kids.  Also great park to walk around."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNVbmZyS3NBRRAB",
+      "name": "Mustafa Sadiq",
+      "score": 5.0,
+      "comment": "nice and quiet park ... all kinds of sports you can do in it with vareity of kids play"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUMwc29tRjZRRRAB",
+      "name": "Burak ARI",
+      "score": 4.0,
+      "comment": "Great park in the middle of a crowded neighborhood. Quiet and peaceful in the early morning, crowded rest of the day."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+[
+  {
+    "position": 1,
+    "title": "Dentisti in Albania-Biodent",
+    "place_id": "ChIJ6dp1kQIxUBMRLoHmD3ygWNc",
+    "data_id": "0x135031029175dae9:0xd758a07c0fe6812e",
+    "data_cid": "15517328970808197422",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x135031029175dae9%3A0xd758a07c0fe6812e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x135031029175dae9%3A0xd758a07c0fe6812e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.3155157,
+      "longitude": 19.808875999999998
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ6dp1kQIxUBMRLoHmD3ygWNc",
+    "provider_id": "/g/11c3k50__v",
+    "rating": 5,
+    "reviews": 867,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic",
+      "Children hall",
+      "Cosmetic dentist",
+      "Dental implants periodontist",
+      "Dental laboratory",
+      "Dental radiology",
+      "Dentist",
+      "Oral surgeon",
+      "Orthodontist",
+      "Pediatric dentist"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic",
+      "children_hall",
+      "cosmetic_dentist",
+      "dental_implants_periodontist",
+      "dental_lab",
+      "dental_radiology",
+      "dentist",
+      "oral_surgeon",
+      "orthodontist",
+      "pediatric_dentist"
+    ],
+    "address": "nr 4, Rruga Ilo Mitkë Qafzezi, Tiranë 1001, Albania",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "9 AM–8 PM",
+      "tuesday": "9 AM–8 PM",
+      "wednesday": "9 AM–8 PM",
+      "thursday": "9 AM–8 PM",
+      "friday": "9 AM–8 PM",
+      "saturday": "9 AM–8 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+355 69 208 1888",
+    "website": "http://www.biodent.al/",
+    "extensions": [
+      {
+        "service_options": [
+          "Onsite services"
+        ]
+      },
+      {
+        "accessibility": [
+          "Wheelchair accessible entrance",
+          "Wheelchair accessible parking lot",
+          "Wheelchair accessible restroom"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "crowd": [
+          "LGBTQ+ friendly",
+          "Transgender safespace"
+        ]
+      },
+      {
+        "planning": [
+          "Appointment required",
+          "Appointments recommended"
+        ]
+      },
+      {
+        "children": [
+          "Nursing room"
+        ]
+      },
+      {
+        "parking": [
+          "Free street parking",
+          "On-site parking",
+          "Paid parking garage",
+          "Paid street parking"
+        ]
+      }
+    ],
+    "service_options": {
+      "onsite_services": true
+    },
+    "thumbnail": "https://lh3.googleusercontent.com/p/AF1QipNd18NkkHVUAuIFf0dDLf229jDiIrhHnpvKfo3n=w122-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/sPrSunicBcFBDkAwEADAF1V1XZA4SEQIkThwdKFVWrsNxVv9xsw3ae_dlXJudRSsRKuV9yXPmdBL9MFMB3c8L0W_uW4RcWdMNQ75XZcqXIpWASR7sdWnrtA9jaIIs1cAMJ0AMwzpB5qwIRI"
+  },
+  {
+    "position": 2,
+    "title": "Biodent Studio dentistico, Dr. Armand Alushi",
+    "place_id": "ChIJ_2Gbfg0xUBMRDcmBr_pCbCM",
+    "data_id": "0x1350310d7e9b61ff:0x236c42faaf81c90d",
+    "data_cid": "2552488733266004237",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1350310d7e9b61ff%3A0x236c42faaf81c90d&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1350310d7e9b61ff%3A0x236c42faaf81c90d&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.315743499999996,
+      "longitude": 19.8089059
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJ_2Gbfg0xUBMRDcmBr_pCbCM",
+    "provider_id": "/g/11r3dc5lrh",
+    "rating": 5,
+    "reviews": 10,
+    "unclaimed_listing": true,
+    "type": "Dentist",
+    "types": [
+      "Dentist"
+    ],
+    "type_id": "dentist",
+    "type_ids": [
+      "dentist"
+    ],
+    "address": "Rruga Ilo Mitkë Qafzezi 4, Tiranë, Albania",
+    "open_state": "Open now",
+    "phone": "+355 69 208 1888",
+    "website": "https://biodent.al/",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      },
+      {
+        "planning": [
+          "Appointments recommended"
+        ]
+      }
+    ],
+    "user_review": "\"Teeth whitening.\"",
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4npfGTLdTJvqVP51E2z_llhmWzl7nCHAiLgOarofIQmXOSnu3LUecKYnPXCW-xT-mz9_LFxYySYvnPnay6QiyLMMaJGGqbigBlf7-cGIn4oxtBbVkH5Ge5Y7vNp09zVnhpBG-k0_iw=w189-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/aXgmM3icBcFbcoIwFADQFUV8IU1n-iFMGx-x4khRvhhMQ8IQbqKJCGzQNbgbz3k9pXPGfnqekrOR0Foofrf8xjQ4Dm7EdOMJYxGzyHrLCMs5mJIk9D_ZtNc09iff0yFXSjanQQUQrZYVFfvipsv1oTnvj3Cf0T_OthnE5-iEugQ1A87pT5f1x6yFGIp-cah6utsVG0Kul0qEqgwQI2uY686Fl7Re-YT7WdD-mjEeUpAmJKge59Xj6zH5wEjiKaoR6DfRxkZl"
+  },
+  {
+    "position": 3,
+    "title": "Biodent",
+    "place_id": "ChIJbX2IdwAxUBMRnBjjxqAiEgs",
+    "data_id": "0x1350310077887d6d:0xb1222a0c6e3189c",
+    "data_cid": "797738157924882588",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1350310077887d6d%3A0xb1222a0c6e3189c&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1350310077887d6d%3A0xb1222a0c6e3189c&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.320553,
+      "longitude": 19.8092357
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJbX2IdwAxUBMRnBjjxqAiEgs",
+    "provider_id": "/g/11y316z_rr",
+    "unclaimed_listing": true,
+    "type": "Health and beauty shop",
+    "types": [
+      "Health and beauty shop"
+    ],
+    "type_id": "health_and_beauty_shop",
+    "type_ids": [
+      "health_and_beauty_shop"
+    ],
+    "address": "8RC5+6MH, Rruga Komuna e Parisit, Tiranë, Albania",
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=8pK63zSW_9c97CLP9NsEhA&cb_client=search.gws-prod.gps&w=80&h=92&yaw=295.31226&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/m-oyyHicHc1RCsIgGADg2_iWOkdrBhIRPRUR9NDjcM5UcPNnmlan6VrdpugC3_d525QgrgmJadY6ZacLuIf2cQESmxCM1xJcxCqMJFck2fvYT9L5DcgpuEG0cGjq1-XaccVXu-OZn-LebpHqO-WdnpKIWs7KYlN-4hwGbCCiIlqKrOAMPWURjC9xXTHWIHBJWUHRf7mFLCpKvzOOOLg"
+  },
+  {
+    "position": 4,
+    "title": "Bio Dental",
+    "place_id": "ChIJzZKecUAxUBMRPg6U3-RPEbg",
+    "data_id": "0x13503140719e92cd:0xb8114fe4df940e3e",
+    "data_cid": "13263470222004981310",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x13503140719e92cd%3A0xb8114fe4df940e3e&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x13503140719e92cd%3A0xb8114fe4df940e3e&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.317371,
+      "longitude": 19.8078878
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJzZKecUAxUBMRPg6U3-RPEbg",
+    "provider_id": "/g/11mwch06td",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "8R85+W5R, Rruga Osman Myderizi, Tiranë 1019, Albania",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "8 AM–8 PM",
+      "tuesday": "8 AM–8 PM",
+      "wednesday": "8 AM–8 PM",
+      "thursday": "8 AM–8 PM",
+      "friday": "8 AM–8 PM",
+      "saturday": "8 AM–8 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+355 69 675 6710",
+    "extensions": [
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "thumbnail": "https://streetviewpixels-pa.googleapis.com/v1/thumbnail?panoid=ww8SQYxKu49qZekAjIHbbw&cb_client=search.gws-prod.gps&w=80&h=92&yaw=4.9514813&pitch=0&thumbfov=100",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/c2k-lHicHc1LDsIgFADA27CTj9akNSHGncaVcaUbA_gElBYsr6Xexmt5G40XmPm8HWLKK8Yy9gA4eijJTxDyLClqY7QBVPKZmtiyUTB0Q6s75cM6qS76qyylPh5O036omucZHpv7bqt1IUZfTPDQocygeuOoLT-xj1dqUyZF1pw42czJSxVZ0WYpqlosSPJonOTkv9ziKAXnX5hROeU"
+  },
+  {
+    "position": 5,
+    "title": "Bio Dent Clinic",
+    "place_id": "ChIJaw7Ug5czUBMRj-HM8wYUMcU",
+    "data_id": "0x1350339783d40e6b:0xc5311406f3cce18f",
+    "data_cid": "14209160319423275407",
+    "reviews_link": "https://serpapi.com/search.json?data_id=0x1350339783d40e6b%3A0xc5311406f3cce18f&engine=google_maps_reviews&hl=en",
+    "photos_link": "https://serpapi.com/search.json?data_id=0x1350339783d40e6b%3A0xc5311406f3cce18f&engine=google_maps_photos&hl=en",
+    "gps_coordinates": {
+      "latitude": 41.3868949,
+      "longitude": 19.7627304
+    },
+    "place_id_search": "https://serpapi.com/search.json?engine=google_maps&google_domain=google.com&hl=en&place_id=ChIJaw7Ug5czUBMRj-HM8wYUMcU",
+    "provider_id": "/g/11j13ln7td",
+    "rating": 5,
+    "reviews": 1,
+    "unclaimed_listing": true,
+    "type": "Dental clinic",
+    "types": [
+      "Dental clinic"
+    ],
+    "type_id": "dental_clinic",
+    "type_ids": [
+      "dental_clinic"
+    ],
+    "address": "9QP7+Q35, Rruga OSBE, Kamëz, Albania",
+    "open_state": "Open ⋅ Closes 8 PM",
+    "hours": "Open ⋅ Closes 8 PM",
+    "operating_hours": {
+      "monday": "8:30 AM–8 PM",
+      "tuesday": "8:30 AM–8 PM",
+      "wednesday": "8:30 AM–8 PM",
+      "thursday": "8:30 AM–8 PM",
+      "friday": "8:30 AM–8 PM",
+      "saturday": "8:30 AM–8 PM",
+      "sunday": "Closed"
+    },
+    "phone": "+355 69 288 5312",
+    "website": "https://instagram.com/biodent.clinic?igshid=d26kvzhvau72",
+    "extensions": [
+      {
+        "accessibility": [
+          "Wheelchair accessible parking lot"
+        ]
+      },
+      {
+        "amenities": [
+          "Restroom"
+        ]
+      }
+    ],
+    "thumbnail": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4np-XHVFOs_2BnFGnpf3K_vCPmlG17wp69X0lg1pyXLMrJz7BOZcmT3Qq42RV2Ur_wJULH2FZW0G-CbW1kgxMzjy-6pTgzU99oJnWubtYyMTvoLohc_Qj08MC-soA7haOwduZ3Xs=w189-h92-k-no",
+    "serpapi_thumbnail": "https://serpapi.com/images/url/slVSvXicBcFBjoIwFADQE32BYsSazEJJwCCE0YAwbIhWbKPQ36FFBu7nIbzNvPd5C2OU3lhWK9wFR-RtM-imZyhNI82CYWdxpYFp0NbWp2IpFZT7c5DqmuxkEEp1dw_1y__u2tDxRrWipd1yR01lnPTR7O3SinWZe_xdktOZ5H09Rnm8J0FV2CH418J58r9kfkywUhmfc0oxksVwNT9Tkr0wRsHq48NeJz5o3Hriko63oXJL_TU6awqCEniCxH-LcURi"
+  }
+]

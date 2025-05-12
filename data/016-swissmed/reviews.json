@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "SwissmedDental",
+    "address": "Küçükbakkalköy, Fırın Cd. No:29, 34750 Ataşehir/İstanbul, Türkiye",
+    "rating": 4.2,
+    "reviews": 48,
+    "type": "Dental clinic"
+  },
+  "reviews": [
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNMOElIbE1BEAE",
+      "name": "Amir Hossein Karbalaei",
+      "score": 1.0,
+      "comment": "Example of embezzlement, as soon as they saw that I speak English someone came and gave me a unfair price of 50€ for just xray and consultation. Don’t go to this place. In Turkey price of xray and consultation with professionals is 15$ and this place is so bad."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSURDbXB2ZFN3EAE",
+      "name": "METIN Ali",
+      "score": 5.0,
+      "comment": "Excellent job the best service I have done"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSURoc2VuczJnRRAB",
+      "name": "Mukaddes Ertan",
+      "score": 5.0,
+      "comment": "Good morning,\nWe are very satisfied with this clinic where I performed complete implants. I found this place according to my research since my domicile in Belgium.\nThe procedure is inevitably painful but I was looked after in a very professional and reassuring manner throughout the procedure.\nNot only are the staff very welcoming and very kind, but the clinic itself is very chic and very distinguished.\nI was never neglected or uninformed during this procedure, everything was perfectly organized and I felt completely safe.\nI totally recommend the place to anyone who wishes to begin dental (or other) procedures."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUR0aGVDVVR3EAE",
+      "name": "Claudia Barha",
+      "score": 5.0,
+      "comment": "I was there on February 3rd. the first time in the clinic. I was well looked after from the start. I immediately decided to have my treatment at the Swissmed Dental Clinic.  The team is extremely courteous, friendly and will advise you on any questions. I can recommend this dental clinic in Istanbul to everyone."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUN6dUxMNDFnRRAB",
+      "name": "muhammet Demirci",
+      "score": 5.0,
+      "comment": "Thank you for everything. We were very pleased with the dentist Ms. Elif, and the colleagues at the reception were very polite. We would like to thank Mr. Sefa for his interest. A place that can be given 10 out of 10."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNMbTZMbXNBRRAB",
+      "name": "Görkem Dinçoğlu",
+      "score": 5.0,
+      "comment": "I thank Hasancan Bey for his interest.\n\nI left happy with all my transactions. It's a very professional place. You feel this from the first entrance. Very clean and tidy employees.\n\nMy dental treatment was also smooth."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNia3JpSGx3RRAB",
+      "name": "Eren Gürsoy",
+      "score": 5.0,
+      "comment": "I recently came to your clinic for teeth whitening. From the moment I walked in, I encountered a completely different clinic. Everyone was very nice and friendly. I was very pleased with my doctor, Mr. Buğra, and his assistant, Ms. Elif Nazlı. They were very caring. I recommend it to everyone. The result of my treatment was very good."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNKcnIyeXdnRRAB",
+      "name": "Öskan Imren",
+      "score": 5.0,
+      "comment": "It is an excellent dental clinic. You will receive a friendly welcome at the reception and the great team of doctors will look after your needs with care. A big thank you to Mr. Yasin, who was by my side throughout the entire treatment. I had my teeth completely renovated in this clinic. Price-performance ratio very very good. I can recommend this clinic to anyone who wants to have a beautiful smile in the long term."
+    }
+  ]
+}

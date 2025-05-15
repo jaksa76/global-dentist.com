@@ -1,0 +1,62 @@
+{
+  "rooms": [
+    {
+      "name": "Apartments",
+      "size": 65,
+      "description": "The apartments are pleasant and meet the needs of a modern businessman.\r\nAll rooms have windows that open.\r\nWireless internet is free in all rooms and public areas of the hotel.\r\nHotel guests can use the fitness and spa center with indoor pool and sauna free of charge.",
+      "facilities": [
+        "LCD TV 52″",
+        "Minibar",
+        "Direct telephone line",
+        "Free Wi-Fi internet",
+        "Climate",
+        "Hair dryer",
+        "Bathrobe and slippers",
+        "Safe",
+        "Kettler",
+        "Room service Room service"
+      ],
+      "offers": [],
+      "id": "1747225624582-if10s8oul",
+      "images": []
+    },
+    {
+      "name": "Double rooms",
+      "size": 30,
+      "description": "The rooms are pleasant and meet the needs of the modern business man.\r\nAll rooms have windows that open.\r\nWireless internet is free in all rooms and public areas of the hotel.\r\nHotel guests can use the fitness and spa center with indoor pool and sauna free of charge.",
+      "facilities": [
+        "LCD TV 43″",
+        "Mini fridge",
+        "Direct telephone line",
+        "Free Wi-Fi internet",
+        "Climate",
+        "Hair dryer",
+        "Safe",
+        "Bathrobe and slippers (on request)",
+        "Room service"
+      ],
+      "offers": [],
+      "id": "1747225884918-u5rva8l7k",
+      "images": []
+    },
+    {
+      "name": "Single rooms",
+      "size": 25,
+      "description": "The rooms are pleasant and meet the needs of the modern business man.\r\nAll rooms have windows that open.\r\nWireless internet is free in all rooms and public areas of the hotel.\r\nHotel guests can use the fitness and spa center with indoor pool and sauna free of charge.",
+      "facilities": [
+        "LCD TV 43",
+        "Mini fridge",
+        "Direct telephone line",
+        "Free Wi-Fi internet",
+        "Climate",
+        "Hair dryer",
+        "Safe",
+        "Bathrobe and slippers (on request)",
+        "Room service"
+      ],
+      "offers": [],
+      "id": "1747226001754-qi7byoe2b",
+      "images": []
+    }
+  ]
+}

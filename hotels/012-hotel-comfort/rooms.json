@@ -1,0 +1,80 @@
+{
+  "rooms": [
+    {
+      "name": "Budget Twin Room",
+      "size": 16,
+      "description": "",
+      "facilities": [
+        "Slippers",
+        "Work desk",
+        "Wardrobe",
+        "Bathroom",
+        "Bath or shower",
+        "Hair conditioner"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 40,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747210292628-rib97fl49",
+      "images": []
+    },
+    {
+      "name": "Triple Room",
+      "size": 25,
+      "description": "",
+      "facilities": [
+        "Flat-screen TV",
+        "Slippers",
+        "Bath or shower",
+        "Toothbrush",
+        "Linen",
+        "Body soap"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 50,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747210407160-d7brapoj0",
+      "images": []
+    },
+    {
+      "name": "Double Room",
+      "size": 25,
+      "description": "",
+      "facilities": [
+        "Sofa",
+        "Carpeted floor",
+        "Dustbin",
+        "Hair conditioner",
+        "Telephone",
+        "Bidet",
+        "Bath or shower"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 45,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747210665186-ecgc9tc2f",
+      "images": []
+    }
+  ]
+}

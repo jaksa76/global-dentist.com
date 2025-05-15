@@ -1,16 +1,64 @@
 {
   "images": [
-    "2024-05-08.jpg",
-    "Hilton-Garden-Inn-Tirana-Bathroom-with-Tub.jpg",
-    "Hilton-Garden-Inn-Tirana-One-Bedroom-Suite-Living-Room.jpg",
-    "Hilton-Garden-Inn-Tirana-King-Family-Deluxe-Bedroom.jpg",
-    "Hilton-Garden-Inn-Tirana-One-Bedroom-Suite.jpg",
-    "Hilton-Garden-Inn-Tirana-Restaurant.jpg",
-    "Hilton-Garden-Inn-Tirana-Room-Service.jpg",
-    "Hilton-Garden-Inn-Tirana-Standard-King-Guest-Room.jpg",
-    "Hilton-Garden-Inn-Tirana-Standard-King-Room-with-Balcony.jpg",
-    "Hilton-Garden-Inn-Tirana-Twin-Guest-Room-2.jpg",
-    "unnamed (1).jpg",
-    "unnamed.jpg"
+    {
+      "id": "1746716667191-r1va9m203",
+      "filename": "1746716666706-unnamed.jpg",
+      "originalname": "unnamed.jpg"
+    },
+    {
+      "id": "1746716667191-byocnglq0",
+      "filename": "1746716666933-unnamed__1_.jpg",
+      "originalname": "unnamed (1).jpg"
+    },
+    {
+      "id": "1746716667191-ajtbh1ue6",
+      "filename": "1746716667002-Hilton-Garden-Inn-Tirana-Twin-Guest-Room-2.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Twin-Guest-Room-2.jpg"
+    },
+    {
+      "id": "1746716667191-rbr7qz57r",
+      "filename": "1746716667034-Hilton-Garden-Inn-Tirana-Standard-King-Room-with-Balcony.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Standard-King-Room-with-Balcony.jpg"
+    },
+    {
+      "id": "1746716667191-0rbb494dm",
+      "filename": "1746716667080-Hilton-Garden-Inn-Tirana-Standard-King-Guest-Room.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Standard-King-Guest-Room.jpg"
+    },
+    {
+      "id": "1746716667191-5j5mtit7k",
+      "filename": "1746716667091-Hilton-Garden-Inn-Tirana-Room-Service.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Room-Service.jpg"
+    },
+    {
+      "id": "1746716667191-5lb1lh2xk",
+      "filename": "1746716667102-Hilton-Garden-Inn-Tirana-Restaurant.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Restaurant.jpg"
+    },
+    {
+      "id": "1746716667191-h5lthiy5w",
+      "filename": "1746716667175-Hilton-Garden-Inn-Tirana-One-Bedroom-Suite.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-One-Bedroom-Suite.jpg"
+    },
+    {
+      "id": "1746716667191-zjh7t12v1",
+      "filename": "1746716667179-Hilton-Garden-Inn-Tirana-One-Bedroom-Suite-Living-Room.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-One-Bedroom-Suite-Living-Room.jpg"
+    },
+    {
+      "id": "1746716667191-mho29crll",
+      "filename": "1746716667185-Hilton-Garden-Inn-Tirana-King-Family-Deluxe-Bedroom.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-King-Family-Deluxe-Bedroom.jpg"
+    },
+    {
+      "id": "1746716667191-cr99188a6",
+      "filename": "1746716667186-Hilton-Garden-Inn-Tirana-Bathroom-with-Tub.jpg",
+      "originalname": "Hilton-Garden-Inn-Tirana-Bathroom-with-Tub.jpg"
+    },
+    {
+      "id": "1746716667191-2ne5bqerp",
+      "filename": "1746716667187-2024-05-08.jpg",
+      "originalname": "2024-05-08.jpg"
+    }
   ]
 }

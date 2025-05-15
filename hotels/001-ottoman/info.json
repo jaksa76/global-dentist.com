@@ -1,9 +1,24 @@
 {
   "info": {
-    "name": "Ottoman Luxury Hotel",
-    "town": "Istanbul",
-    "country": "Turkey",
-    "facilities": [],
-    "starRating": 3
+    "name": "Hotel Ottoman Luxury",
+    "email": "info@ottomanluxuryhotel.com",
+    "phone": " +90(0212) 526 00 05",
+    "address": "About Hotel Ottoman Luxury\nJust 10 metres from Gülhane Park and Gülhane Tram Station, Hotel Ottoman Luxury is 350 metres from the historical Sultanahmet district. Featuring a terrace with a view, the hotel's accommodation is equipped with modern amenities. Free Wi-Fi is available throughout the hotel. Rooms include a flat-screen satellite TV, air conditioning and a minibar. Each unit also includes tea and coffee making facilities. Private bathrooms with showers, a hairdryer and free toiletries are provided. A seating area and a work desk are also included. A buffet breakfast is served every morning at the hotel's restaurant, and guests can benefit from room service. Located in a lively historical area full of cafes and restaurants, the property offers a sense of the local atmosphere when you venture out. The reception is open 24 hours a day. Other facilities offered to guests include luggage storage, on-site shops and dry cleaning services. The lively Taksim Square is 3 km from the property. A shuttle service to Ataturk Airport, which is 17 km away, can be arranged for an additional fee. Fatih is a great choice for travellers interested in monuments, museums and friendly people. This is our guests' favourite part of Istanbul, according to independent reviews. This property also has one of the best-rated locations in Istanbul! Compared to other properties in this area, guests like its location better. This property also has the best value for money in Istanbul! Compared to other properties in this city, guests get more for their money. We speak your language!",
+    "town": "",
+    "country": "",
+    "starRating": "3",
+    "description": "10-minute walk from Hagia Sophia ",
+    "longDescription": "When you choose Ottoman Luxury Hotel for your stay, you'll be in a great location just a 10-minute walk from Hagia Sophia and the Bosphorus. Free perks include wireless internet and a buffet breakfast served daily between 8:00 and 10:30. The Basilica Cistern and the Spice Bazaar are also within a 10-minute walking distance. Public transportation is easily accessible with Gülhane Station nearby and Sirkeci Station just a 4-minute walk away.",
+    "facilities": [
+      "Internet Free wireless internet is available in all rooms. In-room wireless internet speed: 50+ Mbps Free wireless internet is available in some public areas.",
+      "Parking There is no parking available at the accommodation.",
+      "Breakfast Buffet breakfast included Available daily from 8am to 10.30am",
+      "Pets Pets are not allowed",
+      "Family friendly Soundproofed rooms",
+      "Facilities Offered 24-hour reception Safe deposit box at reception",
+      "Guest services Housekeeping (daily)",
+      "Open spaces Terrace",
+      "Features for the disabled Elevator (80 centimeter wide door)"
+    ]
   }
 }

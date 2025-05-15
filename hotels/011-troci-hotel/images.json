@@ -1,14 +1,54 @@
 {
   "images": [
-    "2024-04-23 (1).jpg",
-    "2024-04-23 (2).jpg",
-    "2024-04-23 (3).jpg",
-    "2024-04-23 (4).jpg",
-    "2024-04-23 (5).jpg",
-    "2024-04-23.jpg",
-    "Galeria-in-the-end-Troci-Hotel-2.webp",
-    "Galeria-in-the-end-Troci-Hotel-4.webp",
-    "Galeria-in-the-end-Troci-Hotel-5.webp",
-    "Galeria-in-the-end-Troci-Hotel-10.webp"
+    {
+      "id": "1746716133582-cng8s7hr6",
+      "filename": "1746716133130-Galeria-in-the-end-Troci-Hotel-5.webp",
+      "originalname": "Galeria-in-the-end-Troci-Hotel-5.webp"
+    },
+    {
+      "id": "1746716133582-jv7kbclip",
+      "filename": "1746716133298-Galeria-in-the-end-Troci-Hotel-4.webp",
+      "originalname": "Galeria-in-the-end-Troci-Hotel-4.webp"
+    },
+    {
+      "id": "1746716133582-vz2hjycyj",
+      "filename": "1746716133336-Galeria-in-the-end-Troci-Hotel-2.webp",
+      "originalname": "Galeria-in-the-end-Troci-Hotel-2.webp"
+    },
+    {
+      "id": "1746716133582-6t6uli18q",
+      "filename": "1746716133356-Galeria-in-the-end-Troci-Hotel-10.webp",
+      "originalname": "Galeria-in-the-end-Troci-Hotel-10.webp"
+    },
+    {
+      "id": "1746716133582-zr0y8zlw5",
+      "filename": "1746716133389-2024-04-23.jpg",
+      "originalname": "2024-04-23.jpg"
+    },
+    {
+      "id": "1746716133582-waxwe17in",
+      "filename": "1746716133445-2024-04-23__5_.jpg",
+      "originalname": "2024-04-23 (5).jpg"
+    },
+    {
+      "id": "1746716133582-amza02jp1",
+      "filename": "1746716133499-2024-04-23__4_.jpg",
+      "originalname": "2024-04-23 (4).jpg"
+    },
+    {
+      "id": "1746716133582-ynv38yhof",
+      "filename": "1746716133528-2024-04-23__3_.jpg",
+      "originalname": "2024-04-23 (3).jpg"
+    },
+    {
+      "id": "1746716133582-ni8s3nizt",
+      "filename": "1746716133575-2024-04-23__2_.jpg",
+      "originalname": "2024-04-23 (2).jpg"
+    },
+    {
+      "id": "1746716133582-z92rex9vd",
+      "filename": "1746716133577-2024-04-23__1_.jpg",
+      "originalname": "2024-04-23 (1).jpg"
+    }
   ]
 }

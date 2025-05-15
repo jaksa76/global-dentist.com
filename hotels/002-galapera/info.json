@@ -1,9 +1,20 @@
 {
   "info": {
     "name": "Galapera Hotel",
+    "email": "info@galaperahotel.com",
+    "phone": "+90 212 255 5537 ",
+    "address": "Emekyemez, yolcuzade iskender caddesi, Nazlı Hanım Sk. no:5, 34420 Beyoğlu/İstanbul",
     "town": "Istanbul",
     "country": "Turkey",
-    "facilities": [],
-    "starRating": 2
+    "starRating": 2,
+    "description": "Galapera Hotel is a charming boutique",
+    "longDescription": "When you choose Galapera Hotel for your stay, you'll be in a great location just a 10-minute walk from Galata Tower and Istiklal Avenue. Complimentary wireless Internet is an additional perk. Guests looking for activities can also enjoy nearby walking and biking trails. Moreover, Taksim Square and the Bosphorus are just a 5-minute drive away. The property is close to public transportation—Şişhane-Zemin Metro Station is a 3-minute walk, and Karaköy Tunnel Station is a 10-minute walk away.\n\nLanguages ​​spoken\nArabic, English, Russian, Turkish",
+    "facilities": [
+      "Internet",
+      "Parking",
+      "ATM",
+      "Hiking/biking trails",
+      "Features for the disabled"
+    ]
   }
 }

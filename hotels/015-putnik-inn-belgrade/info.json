@@ -1,9 +1,17 @@
 {
   "info": {
     "name": "Putnik Inn Belgrade",
-    "city": "Belgrade",
+    "email": "info@putnik.com",
+    "phone": "+381 11 2259999 ",
+    "address": "Palmira Toljatija 9, Novi Beograd, 11070 Belgrade, SerbiaAfter ",
+    "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 3
+    "starRating": 3,
+    "description": "Putnik Inn Belgrade has 84 standard room",
+    "longDescription": "Putnik Inn Belgrade has 84 standard rooms, 19 suites and 1 room for people with special needs. The rooms are pleasant and meet the needs of the modern business man.",
+    "facilities": [
+      "Fitness and Spa",
+      "Restaurant"
+    ]
   }
 }

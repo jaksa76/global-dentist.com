@@ -1,9 +1,21 @@
 {
   "info": {
     "name": "Troci Hotel",
-    "city": "Tirana",
+    "email": "reception@trocihotel.com",
+    "phone": "+355683390333",
+    "address": "Rruga Beslidhja, Bathore-Kamez-Tirane, Tirana, Albania",
+    "town": "Tirana",
     "country": "Albania",
-    "facilities": [],
-    "starRating": 5
+    "starRating": 5,
+    "description": "Welcome to the epitome of hospitality!",
+    "longDescription": "Welcome to the epitome of hospitality! At Troci Hotel, we invite you to discover the perfect sanctuary for your accommodation needs. Our exquisite hotel offers a harmonious blend of luxury, comfort, and unparalleled service.\n\nWhether you’re traveling for business or leisure, our meticulously appointed rooms and suites provide a haven of tranquility where every detail is designed to exceed your expectations. From our world-class amenities to our attentive staff dedicated to ensuring your utmost satisfaction, Troci Hotel promises an unforgettable experience tailored to your every desire. Embrace sophistication, indulge in relaxation, and let us redefine your notion of hospitality. Your perfect stay awaits at Troci Hotel.",
+    "facilities": [
+      "24/7 Service",
+      "Safe & Secure",
+      "Locker Room",
+      "Free Wifi",
+      "Room Cleaning",
+      "Restaurant"
+    ]
   }
 }

@@ -1,14 +1,54 @@
 {
   "images": [
-    "hotel_fermai_5.jpg",
-    "hotel_fermai_10.jpg",
-    "hotel_fermai_11.jpg",
-    "hotel_fermai_12.jpg",
-    "hotel_fermai_13.jpg",
-    "hotel_fermai_15.jpg",
-    "hotel_fermai_16.jpg",
-    "hotel_fermai_22.jpg",
-    "hotel_fermai_49.jpg",
-    "hotel_fermai_71.jpg"
+    {
+      "id": "1746710060789-obusyuevo",
+      "filename": "1746710060265-hotel_fermai_71.jpg",
+      "originalname": "hotel_fermai_71.jpg"
+    },
+    {
+      "id": "1746710060789-rw02blkx7",
+      "filename": "1746710060555-hotel_fermai_5.jpg",
+      "originalname": "hotel_fermai_5.jpg"
+    },
+    {
+      "id": "1746710060789-xd60lmkeg",
+      "filename": "1746710060692-hotel_fermai_49.jpg",
+      "originalname": "hotel_fermai_49.jpg"
+    },
+    {
+      "id": "1746710060789-at2ibvzvn",
+      "filename": "1746710060753-hotel_fermai_22.jpg",
+      "originalname": "hotel_fermai_22.jpg"
+    },
+    {
+      "id": "1746710060789-um2rlb6ho",
+      "filename": "1746710060782-hotel_fermai_16.jpg",
+      "originalname": "hotel_fermai_16.jpg"
+    },
+    {
+      "id": "1746710137216-dkjh9srqf",
+      "filename": "1746710136827-hotel_fermai_15.jpg",
+      "originalname": "hotel_fermai_15.jpg"
+    },
+    {
+      "id": "1746710137216-ajlgq2nho",
+      "filename": "1746710137073-hotel_fermai_13.jpg",
+      "originalname": "hotel_fermai_13.jpg"
+    },
+    {
+      "id": "1746710137216-4ri8hxxvc",
+      "filename": "1746710137152-hotel_fermai_12.jpg",
+      "originalname": "hotel_fermai_12.jpg"
+    },
+    {
+      "id": "1746710137216-m6p4phthi",
+      "filename": "1746710137176-hotel_fermai_11.jpg",
+      "originalname": "hotel_fermai_11.jpg"
+    },
+    {
+      "id": "1746710137216-hers43b57",
+      "filename": "1746710137198-hotel_fermai_10.jpg",
+      "originalname": "hotel_fermai_10.jpg"
+    }
   ]
 }

@@ -1,0 +1,149 @@
+{
+  "rooms": [
+    {
+      "name": "Family Room",
+      "size": 3,
+      "description": "Providing free toiletries, this family room includes a private bathroom with a walk-in shower, a hairdryer and slippers. The spacious air-conditioned this provides a flat-screen TV with cable channels, soundproof walls, a seating area. The unit offers 1 bed.",
+      "facilities": [
+        "TV",
+        "Air Conditioning",
+        "Free Wifi",
+        " Heating",
+        " Refrigerator"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 95,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747115726235-nt2v0k1bd",
+      "images": []
+    },
+    {
+      "name": "Twin Room",
+      "size": 2,
+      "description": "Providing free toiletries, this twin room includes a private bathroom with a walk-in shower, a bidet with warm/cold water and a hairdryer. This twin room is air-conditioned and features a seating area with a flat-screen TV, soundproof walls, a minibar, a tea and coffee maker. The unit offers 2 beds.",
+      "facilities": [
+        "TV",
+        "Air Conditioning",
+        "Hair Dryer",
+        "Hardwood or parquet floors",
+        "Entire unit located on ground floor"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 50,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747115809009-wzs9hfy31",
+      "images": []
+    },
+    {
+      "name": "Deluxe Double Room w/balcony",
+      "size": 123,
+      "description": "he spacious double room provides air conditioning, soundproof walls, as well as a private bathroom featuring a walk-in shower and a hairdryer. The double room features parquet floors, a seating area with a flat-screen TV, a minibar, a tea and coffee maker as well as mountain views. The unit offers 1 bed.",
+      "facilities": [
+        "TV",
+        "Mini Bar",
+        "Cribs upon request",
+        "Desk",
+        "Cable television"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 55,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747115873534-hrmezx8we",
+      "images": []
+    },
+    {
+      "name": "Superior Double Room",
+      "size": 123,
+      "description": "Providing free toiletries, this superior double room, includes a private bathroom with a walk-in shower, a hairdryer and slippers. The spacious air-conditioned superior double room provides a flat-screen TV with cable channels, soundproof walls, a seating area, a dining area as well as garden views. The unit offers 1 bed.",
+      "facilities": [
+        "TV",
+        "Air Conditioning",
+        "Hair Dryer",
+        " Towels",
+        "Heating",
+        "Refrigerator"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747116076928-z9ico8o29",
+      "images": []
+    },
+    {
+      "name": "Superior Suite with Jacuzzi",
+      "size": 213,
+      "description": "Superior Suite with Jacuzzi is one of the best experience you have to try. Providing free toiletries, this superior suite room with jacuzzi includes a private bathroom with a shower, a hairdryer and slippers. The spacious air-conditioned superior room provides a flat-screen TV with cable channels, soundproof walls, a wardrobe and a safe deposit box. The unit offers 1 queen bed.",
+      "facilities": [
+        "TV",
+        "Hair Dryer",
+        "Tea/Coffee maker",
+        "Cribs upon request",
+        "Safety deposit box",
+        "Minibar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 95,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747116208513-rh8zyayrv",
+      "images": []
+    },
+    {
+      "name": "Deluxe Double Room",
+      "size": 221,
+      "description": "This double room includes a private bathroom with a walk-in shower, and free toiletries, a hairdryer, and slippers. This double room is air-conditioned and has a seating area, a flat-screen TV with cable channels, a private entrance, soundproof walls, a minibar, a tea and coffee maker. The unit offers 1 queen bed.",
+      "facilities": [
+        "Tv",
+        "Air conditioning ",
+        "Tv",
+        "Mini bar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 50,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747116362016-shms33hfw",
+      "images": []
+    }
+  ]
+}

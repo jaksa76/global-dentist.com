@@ -1,9 +1,20 @@
 {
   "info": {
     "name": "Hotel Ravi",
-    "city": "Istanbul",
+    "email": "info@hotelravi.com",
+    "phone": "+90 (212) 901 06 62",
+    "address": " Binbirdirek Mh. Terzihane Sk. No:13 34122 Fatih / İstanbul",
+    "town": "Istanbul",
     "country": "Turkey",
-    "facilities": [],
-    "starRating": 3
+    "starRating": 3,
+    "description": "Hotel Ravi is ideally located",
+    "longDescription": "Welcome To Our Hotel\nHotel Ravi has been builded in 2023 July .Brand New Hotel.With a stay at Hotel Ravi, you'll be centrally located in Istanbul.Also within walking distance of one of Istanbul's biggest attractions. Hotel Ravi is ready to help you with your expectations with its friendly staff for you to have a pleasant holiday in Istanbul.\n\nOur hotel, which has an ideal location for transportation to all parts of Istanbul, is also within walking distance of one of Istanbul's biggest attractions, the Grand Bazaar, Blue Mosque, Hagia Sophia and Topkapi Palace.",
+    "facilities": [
+      "Reception",
+      "Free WiFi",
+      "Cleaning everyday",
+      "Breakfast",
+      "Concierge"
+    ]
   }
 }

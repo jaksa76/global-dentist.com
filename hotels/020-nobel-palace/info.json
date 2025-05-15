@@ -1,9 +1,27 @@
 {
   "info": {
     "name": "Nobel Palace",
+    "email": "info.palace@nhg.rs",
+    "phone": "+381668181112",
+    "address": "Ruzveltova 23, Srbija\nSrbija",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Nobel Palace Hotel, your destination",
+    "longDescription": "Welcome to Nobel Palace Hotel, your destination for the ideal combination of comfortable and practical, in Belgrade city center. Our elegant hotel which is a ten minute walk from the historical downtown, is the ideal choice for both business trips and tourist visits.\n\nWith 120 elegant rooms, excellent programs and impeccable service, Nobel Palace Hotel promises an unforgettable stay in one of the fastest-growing European cities.",
+    "facilities": [
+      "Elevator",
+      "Adapted for people with disabilities",
+      "Guarded parking",
+      "Garage",
+      "Congress Center",
+      "Wi-Fi",
+      "Fitness",
+      "Transfer services",
+      "Pets allowed",
+      "Main restaurant",
+      "A la carte restaurant",
+      "Arranged footpaths"
+    ]
   }
 }

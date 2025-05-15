@@ -1,0 +1,147 @@
+{
+  "rooms": [
+    {
+      "name": "Economy",
+      "size": 18,
+      "description": "Economy Double Room (Basement Floor",
+      "facilities": [
+        " Mirror",
+        "\t Shower",
+        " Water Heater",
+        " Internet Connection",
+        " Mini Fridge",
+        " Hair dryer",
+        " Electrical Sockets",
+        "\t Toilet"
+      ],
+      "offers": "[]",
+      "id": "1746781784445-x2asdqajf",
+      "images": []
+    },
+    {
+      "name": "Economy Twin Room",
+      "size": 12,
+      "description": "Economy Twin Room",
+      "facilities": [
+        "\t Television",
+        "Electrical Sockets",
+        "\t Hair dryer",
+        " Special Entry",
+        " Mini Fridge",
+        " Air conditioning"
+      ],
+      "offers": [],
+      "id": "1746781888133-34x3fuqpp",
+      "images": []
+    },
+    {
+      "name": "Standard Room",
+      "size": 18,
+      "description": "Standard Double Room",
+      "facilities": [
+        "\t Shower",
+        " Internet Connection",
+        "\t Air conditioning",
+        " Mini Fridge",
+        " Hair dryer",
+        " Television"
+      ],
+      "offers": "[]",
+      "id": "1746782034837-12qrsrshi",
+      "images": []
+    },
+    {
+      "name": "Standard Double Room",
+      "size": 18,
+      "description": "Standard Double Room With Sea View",
+      "facilities": [
+        "\t Shower",
+        " Internet Connection",
+        "\t Air conditioning",
+        " Mini-bar",
+        "\t Mini Fridge",
+        "\t Hair dryer",
+        " Television",
+        "\t Electrical Sockets"
+      ],
+      "offers": "[]",
+      "id": "1746782421659-wetg4yrr3",
+      "images": []
+    },
+    {
+      "name": "Deluxe",
+      "size": 25,
+      "description": "Deluxe Room With Sea View",
+      "facilities": [
+        " Internet Connection",
+        " Shower",
+        " Air conditioning",
+        " Mini-bar",
+        " Mini Fridge",
+        " Hair dryer",
+        " Soundproofing",
+        " Television"
+      ],
+      "offers": "[]",
+      "id": "1746782637652-dvejr3r3j",
+      "images": []
+    },
+    {
+      "name": "Deluxe Room With Sea View",
+      "size": 25,
+      "description": "Deluxe Room With Sea View  Room Information\r\nRoom Size: 25 m²\r\n\r\nNumber of Rooms: 1\r\n\r\nNumber of Halls: 1\r\n\r\nNumber of Bathrooms: 1\r\n\r\nRoom view\r\nSea",
+      "facilities": [
+        " Internet Connection",
+        "Mini Fridge",
+        " Air conditioning",
+        "\t Mini-bar",
+        "\t Mini Fridge",
+        " Hair dryer",
+        "\t Television",
+        " Toilet"
+      ],
+      "offers": "[]",
+      "id": "1746783016135-etc5ynu0l",
+      "images": []
+    },
+    {
+      "name": "Deluxe",
+      "size": 25,
+      "description": "Deluxe Room With Balcony And Sea View",
+      "facilities": [
+        "Internet Connection",
+        " Shower",
+        "\t Mini Fridge",
+        "Mini-bar",
+        " Air conditioning",
+        " Hair dryer",
+        "Soundproofing",
+        "Television",
+        " Balcony"
+      ],
+      "offers": "[]",
+      "id": "1746783374105-uu6lwqnlv",
+      "images": []
+    },
+    {
+      "name": "Family Room",
+      "size": 25,
+      "description": "Family Room With Side Sea View",
+      "facilities": [
+        " Electrical Sockets",
+        "\t Toilet",
+        " Television",
+        " Soundproofing",
+        " Hair dryer",
+        " Mini Fridge",
+        " Mini-bar",
+        " Air conditioning",
+        " Internet Connection",
+        "\t Shower"
+      ],
+      "offers": "[]",
+      "id": "1746783609879-0eop48ipi",
+      "images": []
+    }
+  ]
+}

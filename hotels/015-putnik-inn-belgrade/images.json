@@ -1,10 +1,34 @@
 {
   "images": [
-    "Sauna.jpg",
-    "Bar.jpg",
-    "Standard room 1.jpg",
-    "Suit 4.jpg",
-    "unnamed (1).jpg",
-    "unnamed.jpg"
+    {
+      "id": "1746715674185-3lcfoj0zy",
+      "filename": "1746715673617-unnamed__1_.jpg",
+      "originalname": "unnamed (1).jpg"
+    },
+    {
+      "id": "1746715674186-nnv6y9s2f",
+      "filename": "1746715673922-unnamed.jpg",
+      "originalname": "unnamed.jpg"
+    },
+    {
+      "id": "1746715674186-dejhtaa8j",
+      "filename": "1746715673997-Suit_4.jpg",
+      "originalname": "Suit 4.jpg"
+    },
+    {
+      "id": "1746715674186-izneq4s3e",
+      "filename": "1746715674046-Standard_room_1.jpg",
+      "originalname": "Standard room 1.jpg"
+    },
+    {
+      "id": "1746715674186-jdduopo5e",
+      "filename": "1746715674084-Sauna.jpg",
+      "originalname": "Sauna.jpg"
+    },
+    {
+      "id": "1746715674186-3xuytzup8",
+      "filename": "1746715674135-Bar.jpg",
+      "originalname": "Bar.jpg"
+    }
   ]
 }

@@ -1,0 +1,74 @@
+{
+  "rooms": [
+    {
+      "name": "Standard Triple Room",
+      "size": 15,
+      "description": "There are total 100 rooms in Grand Ünal Hotel equipped with the most innovated, newest tools and equipment of the advanced technology and where you can feel very comfortable as you were at your home.",
+      "facilities": [
+        "Television",
+        "Freezer",
+        " Daily housekeeping service",
+        "Telephone",
+        "Private bathroom"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 50,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746889635269-5h8xtv89o",
+      "images": []
+    },
+    {
+      "name": "Double Room",
+      "size": 28,
+      "description": "There are total 100 rooms in Grand Ünal Hotel equipped with the most innovated, newest tools and equipment of the advanced technology and where you can feel very comfortable as you were at your home.",
+      "facilities": [
+        "Room service Room service",
+        "Air conditioning Air conditioning",
+        "Restaurant Restaurant",
+        "Outdoor pool",
+        " Laundry"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 60,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746890073662-mwai1ws1e",
+      "images": []
+    },
+    {
+      "name": "Family Room",
+      "size": 35,
+      "description": "There are total 100 rooms in Grand Ünal Hotel equipped with the most innovated, newest tools and equipment of the advanced technology and where you can feel very comfortable as you were at your home.",
+      "facilities": [
+        "Television",
+        " Freezer",
+        "Daily housekeeping service"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 90,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746890173800-9j91lkdx2",
+      "images": []
+    }
+  ]
+}

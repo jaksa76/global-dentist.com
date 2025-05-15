@@ -1,9 +1,24 @@
 {
   "info": {
-    "name": "Heritage Garni Hotel",
-    "city": "Belgrade",
+    "name": "Heritage Hotel",
+    "email": "reservation@heritagebelgrade.com",
+    "phone": "+381 66 / 888 - 4243",
+    "address": "Mije Kovačevića 7a, Palilula, 11060 Belgrade, Serbia After booking, all of the property’s details, including telephone and address, are provided in your booking confirmation and your account.\n",
+    "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Family Heritage hotels group portfolio",
+    "longDescription": "Offering a modern luxurious setting and an on-site à la carte restaurant that serves international and local dishes, Hotel Heritage is a design hotel in Belgrade, and is surrounded with a park and greenery.\n\nFree WiFi access is available, and free private parking is available on site. The air-conditioned rooms boast floor-to-ceiling windows and are decorated with paintings. Each includes a seating area with an LED satellite TV, a safe and a mini bar. The bathrooms come with a shower, a hair dryer and include free toiletries, a bathrobe and slippers. The guests can have a drink or a snack at the Rooftop gastro bar, located on the 9th floor.Featuring a panoramic view of the city, the conference room offers seating for 35 people. There is a 24-hour front desk that also offers currency exchange at all hours. Bicycle and car rental can be arranged there too.\n\nThe property is 800 metres from King Alexander Boulevard which offers many shops and restaurants. The distance to the central district Belgrade Stari Grad is 1.5 km and the bohemian quarter Skadarlija is 2.6 km away. The Nikola Tesla Museum can be reached in 2 km. The nearest bus and tram stop can be found within 100 metres. Belgrade Nikola Tesla Airport is 19 km away. Garage parking is available at a surcharge.",
+    "facilities": [
+      "Free Wi-Fi internet",
+      "Parking",
+      "Garage",
+      "Taxi and transfer from / to airport",
+      "Exchange office",
+      " Dry cleaning and laundry",
+      "Electric vehicle charging station",
+      "Restaurant",
+      "Conference room"
+    ]
   }
 }

@@ -1,9 +1,25 @@
 {
   "info": {
     "name": "Nobel Zira",
+    "email": "reservation@nhg.rs",
+    "phone": "+381666999500",
+    "address": "Ruzveltova 35, Palilula, 11000 Belgrade, Serbia\n",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Our story begins in 2023",
+    "longDescription": "Our story begins in 2023, when we founded the Nobel Hotel Group with passion and vision with the aim of setting new standards in the hotel industry.\n\nAt the heart of our business is a commitment to providing guests with an unforgettable experience, and we achieve this through our unique portfolio of hotels. We currently have three gems in our collection: Nobel Hotel Gallery, Nobel Hotel Palace and Nobel Hotel West. Each of them represents a combination of luxury, sophisticated style and business charm.\n\nNobel Hotel Group prides itself on its consistent pursuit of excellence and continuous improvement of its services. Our dedication to our guests is reflected in the unique atmosphere we create in each of our hotels. With a total of three facilities in our portfolio, we represent the highest standard in the hospitality industry.\n\nOur mission is to follow the needs of the present, modern business and expectations of quality tourist and business services. Nobel Hotel Group is more than accommodation; we provide an experience that leaves lasting memories. Our hotels are places where elegance and comfort come together, creating the perfect ambience for vacations, business meetings or special events.\n\nWe are convinced that our ambitious expansion of the portfolio to new hotels will further enrich the offer and provide guests with even wider choices. Nobel Hotel Group continues to set standards in catering, following world trends and raising the bar of practicality and luxury.\n\nWelcome to the Nobel Hotel Group, where traditional hospitality and modern service come together, and guests become part of a story that is constantly being written. Your comfort and satisfaction is our priority, and we are proud to continue to provide unforgettable experiences that exceed expectations.",
+    "facilities": [
+      "Non-smoking rooms",
+      "Facilities for disabled guests",
+      "Restaurant",
+      "Private parking lot",
+      "Room service",
+      "Free Wi-Fi internet connection",
+      "Airport shuttle",
+      "Family rooms",
+      "Bar",
+      "A good breakfast"
+    ]
   }
 }

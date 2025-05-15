@@ -1,9 +1,21 @@
 {
   "info": {
     "name": "Irini Luxury Rooms",
-    "city": "Split",
+    "email": "irini.rooms@gmail.com",
+    "phone": "+385 91 600 9084",
+    "address": "Sinjkska 3 A,21000 Split",
+    "town": "split",
     "country": "Croatia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Irini Luxury Rooms enjoys a great time",
+    "longDescription": "Irini Luxury Rooms enjoys a great location, just a 5-minute walk from Diocletian's Palace and Split Riva. Guests can grab a bite to eat at the restaurant or enjoy a hot stone massage, aromatherapy or Ayurvedic treatment. Split Port and Split Marina are also a short drive away.",
+    "facilities": [
+      "Airport transfer",
+      "Spa",
+      "Air conditioning",
+      "Free breakfast",
+      "Pet friendly",
+      "Free Wi-Fi"
+    ]
   }
 }

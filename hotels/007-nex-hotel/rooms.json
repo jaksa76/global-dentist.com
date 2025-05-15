@@ -1,0 +1,106 @@
+{
+  "rooms": [
+    {
+      "name": "Superior Room",
+      "size": 20,
+      "description": "",
+      "facilities": [
+        " Double Bed (Paid)",
+        " Wireless Connection",
+        " Iron, ironing board",
+        " Iron, ironing board",
+        " Iron, ironing board",
+        " Satellite Channels",
+        " Split Climate"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 72,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746957727795-1146yw131",
+      "images": []
+    },
+    {
+      "name": "Deluxe Room",
+      "size": 24,
+      "description": "\r\nTwin or double bed\r\nFor 2 Persons\r\n250sq ( 24m2 )\r\nAccessibility for disabled guests",
+      "facilities": [
+        " Double or Twin Beds",
+        " Hair dryer",
+        " Dressing gown",
+        " Netflix",
+        " Split Climate",
+        " Wireless Connection"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 72,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746957995462-4n8jxqfkt",
+      "images": []
+    },
+    {
+      "name": "Executive Room",
+      "size": 27,
+      "description": "\r\nKing size bed\r\nFor 2 Persons\r\n290sq ( 27m2 )\r\nAccessibility for disabled guests",
+      "facilities": [
+        "Bath",
+        "Features for the Disabled",
+        " Air conditioning",
+        "Internet",
+        "Food and drink",
+        " Wardrobe or clothes closet"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 81,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746958252809-9w2lrz4dy",
+      "images": []
+    },
+    {
+      "name": "Family Suite",
+      "size": 40,
+      "description": "Separate seating area\r\nSoundproofed rooms\r\nAir conditioning\r\nHeating\r\nComplimentary crib/cot\r\nLCD television\r\nAll-in-one washing machine and dryer\r\nSofa bed",
+      "facilities": [
+        "Parquet flooring in the room",
+        "Bath",
+        " Air conditioning",
+        " 32 inch LCD TV",
+        " Mini-bar",
+        " Free Wi-Fi",
+        " Safe deposit box suitable for storing laptops"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 90,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746958741989-qiof2dqn1",
+      "images": []
+    }
+  ]
+}

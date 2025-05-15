@@ -1,0 +1,161 @@
+{
+  "rooms": [
+    {
+      "name": "Room Assigned on Arrival",
+      "size": 20,
+      "description": "",
+      "facilities": [
+        "single bed",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 96,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288572735-23l5kpo1k",
+      "images": []
+    },
+    {
+      "name": "Superior Double or Twin Room",
+      "size": 25,
+      "description": "Free Toiletries Safe Deposit Box Toilet Bathtub or Shower Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Telephone Tea/Coffee Maker Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Room-specific air conditioners in the unit",
+      "facilities": [
+        "Free baby cot available on request",
+        "View of the inner courtyard",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 133,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288630851-6j5oo1hvq",
+      "images": []
+    },
+    {
+      "name": "Economy Double or Twin Room",
+      "size": 30,
+      "description": "Free Toiletries Safe Deposit Box Toilet Bathtub or Shower Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk TV Slipper Telephone Tea/Coffee Maker Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Room-specific air conditioners in the unit",
+      "facilities": [
+        "Free baby cot available on request",
+        "View of the inner courtyard",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 119,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288708960-qt18boz80",
+      "images": []
+    },
+    {
+      "name": "Standard Triple Room",
+      "size": 23,
+      "description": "Free Toiletries Safe Deposit Box Toilet Bathtub or Shower Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk TV Slipper Telephone Tea/Coffee Maker Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Room-specific air conditioners in the unit",
+      "facilities": [
+        "View of the inner courtyard",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 126,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288768497-cebgf7ojr",
+      "images": []
+    },
+    {
+      "name": "One Bedroom Apartment",
+      "size": 33,
+      "description": "Free Toiletries Safe Deposit Box Toilet Couch Bathtub or Shower Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Telephone Tea/Coffee Maker Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Sofa bed Room-specific air conditioners in the unit",
+      "facilities": [
+        "The whole apartment",
+        "View of the inner courtyard",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 163,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288830584-bhq9t2t43",
+      "images": []
+    },
+    {
+      "name": "Standard Queen Room",
+      "size": 17,
+      "description": "Free Toiletries Safe Deposit Box Toilet Bathtub or Shower Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk TV Slipper Telephone Tea/Coffee Maker Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Room-specific air conditioners in the unit",
+      "facilities": [
+        "large double bed",
+        "17 square meters",
+        "Balcony",
+        "View of the inner courtyard",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 122,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747288897075-ub7gcyksi",
+      "images": []
+    }
+  ]
+}

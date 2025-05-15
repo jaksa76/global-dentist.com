@@ -1,0 +1,93 @@
+{
+  "rooms": [
+    {
+      "name": "Superior Room",
+      "size": 22,
+      "description": "Our standard rooms, measuring between 20-22 m2, overlook the garden, pool and tram route.\r\n\r\n68 of our rooms are double-bedded (without balcony), 4 of them are double-bedded (with balcony), 108 of them are large-bedded (without balcony), 22 of our rooms are interconnected, and 2 of our rooms are decorated considering the comfort of our disabled guests.\r\n\r\nAll of our rooms, decorated according to standards, have a 28-inch LCD television, wireless internet (free), Pay TV (extra charge), minibar (extra charge), digital electronic safe, hair dryer, central heating and cooling system, telephone and 24-hour room service.",
+      "facilities": [
+        "High Speed ​​Internet Access",
+        " Mini-bar",
+        "Air conditioning",
+        "Electronic Safe",
+        " Soundproofing",
+        "Interactive TV / Movie Channels",
+        "Smoke Detector and Sprinkler System",
+        "Electronic Card Door Lock Systems"
+      ],
+      "offers": "[]",
+      "id": "1746960876647-a1cpptzb1",
+      "images": []
+    },
+    {
+      "name": "Suite",
+      "size": 55,
+      "description": "Suite\r\nOur suite rooms, ranging from 44 to 55 m2, overlook the garden, pool and tram route.\r\n\r\n12 of our suites consist of a single bedroom and a living room (without balcony), 1 consists of a single bedroom and a living room (with balcony), 8 consists of a double bedroom and a living room (without balcony). 6 of our suites have a jacuzzi and the living room and bedroom can be divided with a wooden separator.\r\n\r\nAll of our Suite rooms, decorated according to standards, have a 40-inch LCD television, wireless internet (free), Pay TV (extra charge), mini bar (extra charge), digital electronic safe, hair dryer, central heating and cooling system, telephone and 24-hour room service.",
+      "facilities": [
+        "High Speed ​​Internet Access",
+        " Mini-bar",
+        " Air conditioning",
+        " Sun visor",
+        "Electronic Safe",
+        "Soundproofing",
+        "Interactive TV / Movie Channels",
+        " Alarm Clock",
+        " Modem Connection",
+        "Smoke Detector and Sprinkler System"
+      ],
+      "offers": "[]",
+      "id": "1746961791485-sn3odfcqn",
+      "images": []
+    },
+    {
+      "name": "Connecting Rooms",
+      "size": 22,
+      "description": "Connecting Rooms\r\nOur connecting rooms are 22 m2 in size and all our rooms have large beds.\r\n\r\nAll of our rooms, decorated according to standards, have a 28-inch LCD television, wireless internet (free), Pay TV (paid), minibar (paid), digital electronic safe, hair dryer, central heating and cooling system, telephone and 24-hour room service.",
+      "facilities": [
+        " Modem Connection",
+        "Non-Smoking Rooms, Connecting Rooms Available on Request",
+        "Hair Dryer",
+        "Mini-bar",
+        "Air conditioning"
+      ],
+      "offers": "[]",
+      "id": "1746961859014-62806kv6b",
+      "images": []
+    },
+    {
+      "name": "Disabled Rooms",
+      "size": 28,
+      "description": "Disabled Rooms\r\nOur disabled rooms are 28m2 in size and have large beds.\r\n\r\nAll of our rooms, decorated according to standards for our disabled guests, have a 28-inch LCD television, wireless internet (free), Pay TV (extra charge), alarm device for the hearing impaired, minibar (extra charge), digital electronic safe, hair dryer, central heating and cooling system, telephone and 24-hour room service.",
+      "facilities": [
+        "High Speed ​​Internet Access",
+        " Mini-bar",
+        " Air conditioning",
+        " Duvet",
+        "Illuminated Study Desk",
+        "Electronic Safe",
+        " Soundproofing",
+        " Interactive TV / Movie Channels"
+      ],
+      "offers": "[]",
+      "id": "1746961947650-az1dh9e0u",
+      "images": []
+    },
+    {
+      "name": "Executive Suite Room",
+      "size": 55,
+      "description": "How about enjoying the comfort of our largest (55 m2) executive suite rooms in our hotel, along with extra services and advantages?\r\nAll of our executive suite rooms have a partition to separate the jacuzzi and seating area, and all rooms have pool views.",
+      "facilities": [
+        "110 / 220 Shaver Socket",
+        " Non-Smoking Rooms, Connecting Rooms Available on Request",
+        "Interactive TV / Movie Channels",
+        " Modem Connection",
+        "Soundproofing",
+        " Hair Dryer",
+        " Sun visor",
+        " High Speed ​​Internet Access"
+      ],
+      "offers": "[]",
+      "id": "1746962051637-e8uaznbyj",
+      "images": []
+    }
+  ]
+}

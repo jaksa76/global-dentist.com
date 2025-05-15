@@ -1,10 +1,34 @@
 {
   "images": [
-    "Nobel Gallery double room-min.jpg",
-    "Nobel Gallery double-min.JPG",
-    "Nobel Gallery front-min.png",
-    "Nobel Gallery meeting room-min.JPG",
-    "Nobel Gallery reception-min.JPG",
-    "Nobel Gallery restaurant-min.jpg"
+    {
+      "id": "1746709581900-dk1yiul06",
+      "filename": "1746709581570-Nobel_Gallery_restaurant-min.jpg",
+      "originalname": "Nobel Gallery restaurant-min.jpg"
+    },
+    {
+      "id": "1746709589772-a1ady8zi0",
+      "filename": "1746709589495-Nobel_Gallery_reception-min.JPG",
+      "originalname": "Nobel Gallery reception-min.JPG"
+    },
+    {
+      "id": "1746709597874-qjqk3b49z",
+      "filename": "1746709597812-Nobel_Gallery_meeting_room-min.JPG",
+      "originalname": "Nobel Gallery meeting room-min.JPG"
+    },
+    {
+      "id": "1746709613789-0pptv1wrr",
+      "filename": "1746709613689-Nobel_Gallery_double-min.JPG",
+      "originalname": "Nobel Gallery double-min.JPG"
+    },
+    {
+      "id": "1746709624732-gwfij6zs3",
+      "filename": "1746709624518-Nobel_Gallery_double_room-min.jpg",
+      "originalname": "Nobel Gallery double room-min.jpg"
+    },
+    {
+      "id": "1746709629478-xlpcgaqyp",
+      "filename": "1746709628936-Nobel_Gallery_front-min.png",
+      "originalname": "Nobel Gallery front-min.png"
+    }
   ]
 }

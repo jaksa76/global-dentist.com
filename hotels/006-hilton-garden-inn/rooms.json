@@ -1,0 +1,233 @@
+{
+  "rooms": [
+    {
+      "name": "King Room",
+      "size": 24,
+      "description": "Complimentary WiFi, 40-inch TV, mini-fridge, work desk, ergonomic chair\r\n\r\nRelax in this stylish 24 sq. m. /258 sq. ft. King Room. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the desk with ergonomic chair. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Hand-held shower",
+        "LCD TV",
+        "Iron/ironing board",
+        "Air conditioning",
+        " Mini refrigerator",
+        " 250 thread count sheets",
+        "Hairdryer",
+        " Bathroom amenities"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 60,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746942668276-fpymq4a9j",
+      "images": []
+    },
+    {
+      "name": "King Room with Balcony",
+      "size": 25,
+      "description": "Complimentary WiFi, Balcony, 40-inch TV, mini-fridge, work desk, ergonomic chair\r\n\r\nRelax in this stylish 25 sq. m. /269 sq. ft. King Room with Balcony. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the desk with ergonomic chair. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Sleeps 3",
+        "Hand-held shower",
+        "LCD TV",
+        "Iron/ironing board",
+        "Air conditioning",
+        " Mini refrigerator",
+        " 250 thread count sheets",
+        " Hairdryer",
+        " Bathroom amenities"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746942953080-qdb6rh3pm",
+      "images": []
+    },
+    {
+      "name": "King Deluxe Family Room with Balcony",
+      "size": 28,
+      "description": "Complimentary WiFi, Balcony, Living Area, Sofa bed, mini-fridge, desk, ergonomic chair\r\n\r\nRelax in this spacious and stylish 28 sq. m./302 sq. ft. King Deluxe Family Room with living area and balcony. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the spacious desk with ergonomic chair. This room features a pull-out sofa bed for the convenience of an extra guest. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Sleeps 4",
+        "Hand-held shower",
+        "250 thread count sheets",
+        "Hairdryer",
+        "Bathroom amenities",
+        "Mini refrigerator",
+        " Seating area with sofa sleeper",
+        " LCD TV",
+        " Iron/ironing board",
+        "Air conditioning"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 70,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943055652-j6uzuk01w",
+      "images": []
+    },
+    {
+      "name": "Queen Family Room with Balcony",
+      "size": 25,
+      "description": "Complimentary WiFi, Balcony, 40-inch LCD TV, sofa bed, mini-fridge, desk, ergonomic chair\r\n\r\nRelax in this spacious and stylish 25 sq. m. /269 sq. ft. Queen Family Room with Balcony. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the spacious desk with ergonomic chair. This room features a pull-out sofa bed for the convenience of an extra guest. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Sleeps 4",
+        "Hand-held shower",
+        "250 thread count sheets",
+        "Hairdryer",
+        "Bathroom amenities",
+        " Mini refrigerator",
+        " Sofa bed",
+        " LCD TV",
+        " Iron/ironing board",
+        " Air conditioning"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943167727-7w9cg1xu6",
+      "images": []
+    },
+    {
+      "name": "Queen Family Room",
+      "size": 24,
+      "description": "Queen Family Room\r\nComplimentary WiFi, 40-inch LCD TV, sofa bed, mini-fridge, desk, ergonomic chair\r\n\r\nRelax in this spacious and stylish 24 sq. m. /258 sq. ft. Queen Family Room. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the spacious desk with ergonomic chair. This room features a pull-out sofa bed for the convenience of an extra guest. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.\r\n\r\nRead less",
+      "facilities": [
+        "Sleeps 3",
+        "Hand-held shower",
+        "250 thread count sheets",
+        "Hairdryer",
+        "Bathroom amenities",
+        " Mini refrigerator",
+        " Sofa bed",
+        " LCD TV",
+        "Iron/ironing board",
+        "Air conditioning"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 70,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943393199-p7likwu82",
+      "images": []
+    },
+    {
+      "name": "Twin Room",
+      "size": 24,
+      "description": "Complimentary WiFi, 40-inch TV, mini-fridge, work desk, ergonomic chair\r\n\r\nRelax in this stylish 24 sq. m. /258 sq. ft. Twin Room. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed.\r\n\r\nWork in comfort at the desk with ergonomic chair. Watch a program on the 40-inch LCD TV or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Sleeps 3",
+        "Hand-held shower",
+        "LCD TV",
+        "Iron/ironing board",
+        "Air conditioning",
+        "Mini refrigerator",
+        "250 thread count sheets",
+        " Hairdryer",
+        " Bathroom amenities"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 75,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943545705-6dm37kuiz",
+      "images": []
+    },
+    {
+      "name": "King One Bedroom Suite with Balcony",
+      "size": 39,
+      "description": "Complimentary WiFi, living area, Balcony, 2 LCD TVs, 2 sofa beds, mini-fridge, work desk\r\n\r\nRelax in this stylish 39 sq. m./420 sq. ft. One Bedroom Suite with King Size bed and Balcony. Enjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed. The separate living area features 2 pull-out sofa beds for the convenience of some extra guess.s\r\n\r\nWork in comfort at the spacious desk with ergonomic chair. Enjoy watching a program on one of two 40-inch LCD TVs or surf the web with complimentary WiFi.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home. Stay connected to the office with our 24-hour business center, which provides complimentary printing, fax and copy machines.",
+      "facilities": [
+        "Sleeps 4",
+        "Separate bathtub and shower",
+        "Seating area with sofa sleeper",
+        "LCD TV",
+        "Iron/ironing board",
+        "Air conditioning",
+        " Mini refrigerator",
+        " Hand-held shower",
+        " 250 thread count sheets",
+        "Hairdryer",
+        "Bathroom amenities"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 80,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943781069-2rlkdjjn2",
+      "images": []
+    },
+    {
+      "name": "King Accessible Room",
+      "size": 39,
+      "description": "Complimentary WiFi, mini-fridge, 40-inch LCD TV, work desk, ergonomic chair\r\n\r\nThis King room offers the latest in technology and ergonomic comfort. Connecting doors lead to an adjacent room and a specially fit roll-in bathroom with a raised toilet seat, panic cord and lowered sink make the room extremely practical. Additional features include lowered closet shelves and closet rod.\r\n\r\nEnjoy a restful night's sleep in the luxurious Suite Dreams® by Serta bed. Work in comfort at the spacious desk with ergonomic chair or relax and watch a program on the 40-inch LCD TV. Complimentary WiFi is also available.\r\n\r\nThis room also features a mini-fridge, adjustable air-conditioning, coffee/tea maker and an iron/ironing board to make you feel at home.\r\n\r\nAny corresponding photo may not reflect the specific accessible room type or room type feature.",
+      "facilities": [
+        "Sleeps 3",
+        "Hand-held shower",
+        "250 thread count sheets",
+        "Hairdryer",
+        "Bathroom amenities",
+        "Mini refrigerator",
+        "Roll-in shower",
+        " LCD TV",
+        "Iron/ironing board",
+        " Air conditioning"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 85,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746943905857-1ehikhuul",
+      "images": []
+    }
+  ]
+}

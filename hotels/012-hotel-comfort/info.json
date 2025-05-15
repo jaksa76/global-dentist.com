@@ -1,9 +1,25 @@
 {
   "info": {
     "name": "Hotel Comfort",
-    "city": "Tirana",
+    "email": "info@hotelcomfort.al",
+    "phone": " +355 4 223 3272",
+    "address": "Rruga Fortuzi, 1016 Tirana, Albania\nExcellent location \n",
+    "town": "Tirana",
     "country": "Albania",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "HOTEL COMFORT TIRANA is built in 2007",
+    "longDescription": "Situated nearly a 25-minute walk from Grand Park of Tirana, the comfortable Hotel Comfort Tirana features Wi-Fi throughout the property and private parking on site. Thanks to its prime location, the 4-star modern hotel is at a medium distance from Palace of Culture of Tirana, which guests can visit to explore the history of the area.\n\nYou can choose from one of the 21 air-conditioned rooms with wireless internet and a television, and self-catering amenities like a minibar. They have a bright interior. Offering a separate toilet and a shower, the bathrooms are also appointed with a hairdryer and towels.\n\nTourist Information Office Visitor Center is located only a 6-minute walk from this smoke-free accommodation, and such natural sites as the central public Rinia Park are nearly 20 minutes' walk away. Skanderbeg Monument is quite close to the excellent Comfort, and Tirana International Mother Teresa airport is 20 km away. Pyramid of Tirana is situated nearly a 20-minute walk from the property. Materniteti bus stop is within walking distance of Hotel Comfort.\n\nA continental breakfast is served every morning in the restaurant at this Tirana hotel. Guests can try refreshing drinks in the snack bar where free wireless internet and a piano await them too. The restaurant Kafe Flora is located only a 6-minute walk from the comfortable accommodation.\n\nThe Comfort Tirana includes a business centre equipped with a photocopier and a desk.",
+    "facilities": [
+      "Non-smoking rooms",
+      "Wi-Fi",
+      "No parking",
+      "Safe deposit box",
+      "24-hour reception",
+      "No pets allowed",
+      "Luggage storage",
+      "Locker room",
+      "Currency exchange",
+      "Key access"
+    ]
   }
 }

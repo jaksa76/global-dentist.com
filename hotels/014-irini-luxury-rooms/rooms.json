@@ -1,0 +1,48 @@
+{
+  "rooms": [
+    {
+      "name": "Deluxe King Bed Room",
+      "size": 25,
+      "description": "Separate seating area\r\nSoundproofed rooms\r\nAir conditioning\r\nHeating\r\nMini fridge\r\nSmart TV\r\nLight/noise/heat proof curtains\r\nHydro massage shower head",
+      "facilities": [
+        "Mini fridge",
+        "Separate seating area",
+        "Smart TV",
+        "Light/noise/heat proof curtains"
+      ],
+      "offers": [],
+      "id": "1747214903414-u39b0lghb",
+      "images": []
+    },
+    {
+      "name": "Superior Room",
+      "size": 25,
+      "description": "Separate seating area\r\nSoundproofed rooms\r\nAir conditioning\r\nHeating\r\nMini fridge\r\nSmart TV\r\nLight/noise/heat proof curtains\r\nSeparate bedroom",
+      "facilities": [
+        "Hand held shower head",
+        "Dressing gown",
+        "Shower",
+        "Free Wi-Fi (100+ Mbps (enough for 1-2 people or up to 6 devices))",
+        "Table"
+      ],
+      "offers": [],
+      "id": "1747215013418-h4h91koc1",
+      "images": []
+    },
+    {
+      "name": "Basic King or Twin Room",
+      "size": 20,
+      "description": "Separate seating area\r\nSoundproofed rooms\r\nAir conditioning\r\nHeating\r\nMini fridge\r\nSmart TV\r\nLight/noise/heat proof curtains\r\nHydro massage shower head",
+      "facilities": [
+        "Shampoo",
+        "Air conditioning",
+        "Champagne service",
+        "quality television channels",
+        "Free Wi-Fi (100+ Mbps (enough for 1-2 people or up to 6 devices))"
+      ],
+      "offers": [],
+      "id": "1747215130497-kkvb9pce5",
+      "images": []
+    }
+  ]
+}

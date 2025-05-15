@@ -1,22 +1,94 @@
 {
   "images": [
-    "breakfast area (2).jpg",
-    "breakfast area (5).jpg",
-    "breakfast area (6).jpg",
-    "breakfast area (18).jpg",
-    "breakfast area (26).jpg",
-    "exterior  view (2) - Kopya.jpg",
-    "exterior  view (4).jpg",
-    "lobby (5).jpg",
-    "lobby (17).jpg",
-    "lobby (10).jpg",
-    "std  dbl (3).jpg",
-    "reception (1).jpg",
-    "std  dbl (5).jpg",
-    "std  dbl (6).jpg",
-    "std  dbl (7).jpg",
-    "std  dbl (8).jpg",
-    "std  dbl (10).jpg",
-    "std  dbl (11).jpg"
+    {
+      "id": "1746716219986-ygrbbjj2j",
+      "filename": "1746716219513-std__dbl__8_.jpg",
+      "originalname": "std  dbl (8).jpg"
+    },
+    {
+      "id": "1746716219986-3wntpfv4t",
+      "filename": "1746716219676-std__dbl__7_.jpg",
+      "originalname": "std  dbl (7).jpg"
+    },
+    {
+      "id": "1746716219986-uli37w62t",
+      "filename": "1746716219743-std__dbl__6_.jpg",
+      "originalname": "std  dbl (6).jpg"
+    },
+    {
+      "id": "1746716219986-83jslqkmu",
+      "filename": "1746716219793-std__dbl__5_.jpg",
+      "originalname": "std  dbl (5).jpg"
+    },
+    {
+      "id": "1746716219986-88zn6d1g3",
+      "filename": "1746716219803-std__dbl__3_.jpg",
+      "originalname": "std  dbl (3).jpg"
+    },
+    {
+      "id": "1746716219986-bbia4lzim",
+      "filename": "1746716219828-std__dbl__11_.jpg",
+      "originalname": "std  dbl (11).jpg"
+    },
+    {
+      "id": "1746716219986-enxvcw3ns",
+      "filename": "1746716219848-std__dbl__10_.jpg",
+      "originalname": "std  dbl (10).jpg"
+    },
+    {
+      "id": "1746716219986-7cepkysso",
+      "filename": "1746716219874-reception__1_.jpg",
+      "originalname": "reception (1).jpg"
+    },
+    {
+      "id": "1746716219986-15gq3ckg4",
+      "filename": "1746716219884-lobby__5_.jpg",
+      "originalname": "lobby (5).jpg"
+    },
+    {
+      "id": "1746716219986-ejdg5lk1k",
+      "filename": "1746716219899-lobby__17_.jpg",
+      "originalname": "lobby (17).jpg"
+    },
+    {
+      "id": "1746716219986-oent4rvev",
+      "filename": "1746716219912-lobby__10_.jpg",
+      "originalname": "lobby (10).jpg"
+    },
+    {
+      "id": "1746716219986-saatm595o",
+      "filename": "1746716219921-exterior__view__4_.jpg",
+      "originalname": "exterior  view (4).jpg"
+    },
+    {
+      "id": "1746716219986-xb2cdspun",
+      "filename": "1746716219974-exterior__view__2__-_Kopya.jpg",
+      "originalname": "exterior  view (2) - Kopya.jpg"
+    },
+    {
+      "id": "1746716219986-ssvz9wd3h",
+      "filename": "1746716219975-breakfast_area__6_.jpg",
+      "originalname": "breakfast area (6).jpg"
+    },
+    {
+      "id": "1746716219986-52c1hulwu",
+      "filename": "1746716219975-breakfast_area__5_.jpg",
+      "originalname": "breakfast area (5).jpg"
+    },
+    {
+      "id": "1746716219986-81sl0rhbz",
+      "filename": "1746716219978-breakfast_area__26_.jpg",
+      "originalname": "breakfast area (26).jpg"
+    },
+    {
+      "id": "1746716219986-xjttp4sw0",
+      "filename": "1746716219981-breakfast_area__2_.jpg",
+      "originalname": "breakfast area (2).jpg"
+    },
+    {
+      "id": "1746716219986-8uh40p7no",
+      "filename": "1746716219982-breakfast_area__18_.jpg",
+      "originalname": "breakfast area (18).jpg"
+    }
   ]
 }

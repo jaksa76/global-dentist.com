@@ -1,9 +1,20 @@
 {
   "info": {
     "name": "Nex Hotel",
-    "city": "Istanbul",
+    "email": "nex@nexhotel.com",
+    "phone": " +90 532 223 33 63",
+    "address": "Bozkurt, Dolapdere Cd. No:209, 34375 Şişli/İstanbul",
+    "town": "Istanbul",
     "country": "Turkey",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "NEX Hotel is to host you in Istanbul",
+    "longDescription": "With Nex Hotel SPA center, you can renew yourself every day and be ready for the next day more energetic and comfortable. In the SPA center, which combines water with health to maximize your satisfaction, we provide services to relax you and relieve you of your stress with our different health and beauty services. Meet our SPA center where you can relieve the tiredness of the day in the best way after a pleasant city tour or at the end of different activities such as a meeting or a fair. We care about you and combine our service standards with health for your comfort and renewal. Get ready for a unique accommodation experience with Nex Hotel privileges.",
+    "facilities": [
+      "Spa",
+      "Brasserie",
+      "Guest Services",
+      "Valet",
+      "24/7 Room service"
+    ]
   }
 }

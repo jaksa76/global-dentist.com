@@ -1,0 +1,165 @@
+{
+  "rooms": [
+    {
+      "name": "Deluxe Double Room",
+      "size": 1,
+      "description": "Our Deluxe Double Room offers a harmonious blend of comfort and style, creating the perfect retreat in Istanbul. Featuring a plush double bed with an elegant tufted headboard, soft linens, and pillows, this room is designed for relaxation. Natural light fills the space, complemented by a chic color palette of soft neutrals and warm accents. A charming mural of Istanbul’s iconic Galata Tower adds a unique local touch to the room’s décor.",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "Air conditioning",
+        "tv",
+        "slıppers",
+        "minibar"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 38,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700338022-haoud9axd",
+      "images": []
+    },
+    {
+      "name": "         D1-D2 Family Triple",
+      "size": 2,
+      "description": "Separate dining area\r\nSeparate sitting area\r\nSoundproofed\r\nAir conditioning\r\nKitchen\r\nRefrigerator\r\nSmart TV\r\nHair dryer",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "Air conditioning",
+        "tv",
+        "slıppers",
+        "minibar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 35,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700392524-7pbussnig",
+      "images": []
+    },
+    {
+      "name": "Deluxe Triple Room",
+      "size": 3,
+      "description": "This triple room has air conditioning, flat-screen cable TV, private bathroom and balcony. The unit has 1 bed.\r\nApp. Room Size: 23m2\r\nBeds1 x King",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "Air conditioning",
+        "tv",
+        "slıppers",
+        "minibar"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 114,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700448758-olgraobb9",
+      "images": []
+    },
+    {
+      "name": "Family Room",
+      "size": 4,
+      "description": "Featuring free toiletries, this family room includes a private bathroom with a hairdryer and slippers. The family room has parquet floors, a seating area with a flat-screen TV with cable channels, air conditioning, a minibar, as well as a coffee machine. The unit has 2 beds.\r\nApp. Room Size: 30m2\r\nBeds2 x King",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "tv",
+        "Air conditioning",
+        "slıppers",
+        "minibar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 128,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700506585-bkziuf2n6",
+      "images": []
+    },
+    {
+      "name": "D3-D4 Suite",
+      "size": 5,
+      "description": "Separate dining area\r\nSeparate sitting area\r\nSoundproof\r\nAir conditioning\r\nKitchen\r\nRefrigerator\r\nSmart TV\r\nHair dryer\r\nBeds1 x Queen , 1 x Sofa Bed",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "Air conditioning",
+        " tv",
+        "slıppers",
+        "minibar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 42.5,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700574425-bm5qgxcx8",
+      "images": []
+    },
+    {
+      "name": "           Studio Sea View D5",
+      "size": 6,
+      "description": "Separate dining area\r\nSeparate sitting area\r\nSoundproof\r\nAir conditioning\r\nKitchen\r\nRefrigerator\r\nSmart TV\r\nHair dryer\r\nBeds1 x Queen , 1 x Sofa Bed",
+      "facilities": [
+        "High-Speed Wifi",
+        "free drınks",
+        "Air conditioning",
+        " tv",
+        "slıppers",
+        " minibar"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 136,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746700635736-rgyepc4wx",
+      "images": []
+    },
+    {
+      "name": "Single Room",
+      "size": 7,
+      "description": "Offering free toiletries, this single room includes a private bathroom with a hairdryer and slippers. The single room has parquet floors, a seating area with a flat-screen TV with cable channels, air conditioning, a minibar, as well as a coffee machine.",
+      "facilities": [
+        ""
+      ],
+      "offers": "[]",
+      "id": "1746701153923-lthmarzua",
+      "images": []
+    }
+  ]
+}

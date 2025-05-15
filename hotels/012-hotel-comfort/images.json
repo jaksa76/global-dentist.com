@@ -1,8 +1,24 @@
 {
   "images": [
-    "dopio4 dhoma comfort.jpg",
-    "foto 5 omfort.jpg",
-    "foto 6 comfort.jpg",
-    "treshe4 triple room.jpg"
+    {
+      "id": "1746716092341-mvitrv72y",
+      "filename": "1746716092102-treshe4_triple_room.jpg",
+      "originalname": "treshe4 triple room.jpg"
+    },
+    {
+      "id": "1746716092341-xzr9s9pl8",
+      "filename": "1746716092197-foto_6_comfort.jpg",
+      "originalname": "foto 6 comfort.jpg"
+    },
+    {
+      "id": "1746716092341-instdcdf6",
+      "filename": "1746716092264-foto_5_omfort.jpg",
+      "originalname": "foto 5 omfort.jpg"
+    },
+    {
+      "id": "1746716092341-rs0yqizs3",
+      "filename": "1746716092320-dopio4_dhoma_comfort.jpg",
+      "originalname": "dopio4 dhoma comfort.jpg"
+    }
   ]
 }

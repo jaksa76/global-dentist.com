@@ -1,9 +1,16 @@
 {
   "info": {
     "name": "Hotel Inn Istanbul City",
-    "city": "Istanbul",
+    "email": "info@hiistanbulcity.com.tr",
+    "phone": "+90 212 530 99 00",
+    "address": "Turgut Ozal Cad. (Millet Cad.) 189 Topkapi 34280 Istanbul, Turkey",
+    "town": "Istanbul",
     "country": "Turkey",
-    "facilities": [],
-    "starRating": 5
+    "starRating": 5,
+    "description": "It is located in the very heart ",
+    "longDescription": "Holiday Inn Istanbul City\nIt is located in the very heart of Istanbul, 3 km away from important historical sites such as Topkapi Palace and the Grand Bazaar.\n\nIn addition, tram and bus stops, which provide the city's extensive transportation network, are located right in front of our hotel.\n\nDream City Istanbul;\nA city where Asia and Europe meet with its historical and natural beauties. A great heritage preserved within the walls.",
+    "facilities": [
+      ""
+    ]
   }
 }

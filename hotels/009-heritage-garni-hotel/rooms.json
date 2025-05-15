@@ -1,0 +1,46 @@
+{
+  "rooms": [
+    {
+      "name": "Single room",
+      "size": 18,
+      "description": "All single rooms are modern equipped and adapted for the needs of the most demanding guests. The rooms have a single bed with ergonomic and anti-allergy mattress. Good natural illumination, sound insulation, as well as views of the park will make the guest stay pleasant and comfortable.\r\n\r\nRoom size: 18m2\r\n\r\nContent of the room:\r\n\r\n- Free Wi-Fi Internet\r\n\r\n- LED TV with satellite and local channels\r\n\r\n- Silent  mini bar\r\n\r\n- Direct telephone line\r\n\r\n- Working desk\r\n\r\n- Hairdryer\r\n\r\n- \"Be Eco\" cosmetic set with natural ingredients\r\n\r\n- Electronic safe\r\n\r\n- Air conditioning with individual settings\r\n\r\n- Soundproof windows and doors\r\n\r\n- coffee machine\r\n\r\n \r\n\r\n* Daily room cleaning service and changing towels. Bed linen is changed every three days.",
+      "facilities": [
+        "- Free Wi-Fi Internet",
+        " - LED TV with satellite and local channels",
+        "- Silent  mini bar",
+        "- Direct telephone line",
+        "- Working desk",
+        "- Hairdryer",
+        "- \"Be Eco\" cosmetic set with natural ingredients",
+        "- Electronic safe",
+        "- Air conditioning with individual settings",
+        "- Soundproof windows and doors",
+        "- coffee machine"
+      ],
+      "offers": [],
+      "id": "1747113680725-xgc6dpcp8",
+      "images": []
+    },
+    {
+      "name": "Superior double room",
+      "size": 23,
+      "description": "All 24 rooms are modern and fully adapted to the needs of the most demanding guests. Rooms have one king-size bed with possibility of separation on guest request. Good lighting, soundproofing, and a park view, will make guest's stay enjoyable and comfortable.\r\nRoom size: 23m2\r\nRoom Facilities:\r\n- Free Wi-Fi\r\n- LED TV with satellite and local channels\r\n- Noiseless mini bar\r\n- Direct telephone line\r\n- Office desk\r\n- Hairdryer\r\n- \"Be Eco\" cosmetic set with natural ingredients\r\n- Electronic safe\r\n- Air conditioning with individual settings\r\n- Soundproof windows and doors\r\n- coffee machine\r\n* Daily cleaning of rooms and changing towels. Bed linen is changed every three days",
+      "facilities": [
+        "- Free Wi-Fi",
+        "- LED TV with satellite and local channels",
+        "- Noiseless mini bar",
+        "- Direct telephone line",
+        "- Office desk",
+        "- Hairdryer",
+        "- \"Be Eco\" cosmetic set with natural ingredients",
+        "- Electronic safe",
+        "- Air conditioning with individual settings",
+        "- Soundproof windows and doors",
+        "- coffee machine"
+      ],
+      "offers": [],
+      "id": "1747113798264-28vaumfap",
+      "images": []
+    }
+  ]
+}

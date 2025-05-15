@@ -1,11 +1,39 @@
 {
   "images": [
-    "holiday-inn-istanbul-city-konaklama-baglantili-oda-1.jpg",
-    "holiday-inn-istanbul-city-konaklama-baglantili-oda-2.jpg",
-    "holiday-inn-istanbul-city-konaklama-executive-suite-oda-3.jpg",
-    "holiday-inn-istanbul-city-konaklama-suite-oda-1.jpg",
-    "holiday-inn-istanbul-city-konaklama-suite-oda-4.jpg",
-    "holiday-inn-istanbul-city-konaklama-superior-oda-2.jpg",
-    "holiday-inn-istanbul-city-konaklama-superior-oda-3.jpg"
+    {
+      "id": "1746716406200-vz14srkrq",
+      "filename": "1746716405743-holiday-inn-istanbul-city-konaklama-superior-oda-3.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-superior-oda-3.jpg"
+    },
+    {
+      "id": "1746716406200-vd0aq9859",
+      "filename": "1746716405909-holiday-inn-istanbul-city-konaklama-superior-oda-2.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-superior-oda-2.jpg"
+    },
+    {
+      "id": "1746716406200-gwfiqtop1",
+      "filename": "1746716406025-holiday-inn-istanbul-city-konaklama-suite-oda-4.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-suite-oda-4.jpg"
+    },
+    {
+      "id": "1746716406200-jwwcvmwx2",
+      "filename": "1746716406078-holiday-inn-istanbul-city-konaklama-suite-oda-1.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-suite-oda-1.jpg"
+    },
+    {
+      "id": "1746716406200-x4d30svjh",
+      "filename": "1746716406124-holiday-inn-istanbul-city-konaklama-executive-suite-oda-3.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-executive-suite-oda-3.jpg"
+    },
+    {
+      "id": "1746716406200-cfjmbd25k",
+      "filename": "1746716406158-holiday-inn-istanbul-city-konaklama-baglantili-oda-2.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-baglantili-oda-2.jpg"
+    },
+    {
+      "id": "1746716406200-qvwjbkjpr",
+      "filename": "1746716406179-holiday-inn-istanbul-city-konaklama-baglantili-oda-1.jpg",
+      "originalname": "holiday-inn-istanbul-city-konaklama-baglantili-oda-1.jpg"
+    }
   ]
 }

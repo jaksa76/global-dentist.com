@@ -1,0 +1,224 @@
+{
+  "rooms": [
+    {
+      "name": "Double Room With Balcony",
+      "size": 29,
+      "description": "The double room includes a private bathroom, well-fitted with a walk-in shower, a bath, a bidet, a hairdryer and slippers. The spacious air-conditioned double room provides a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit offers 1 bed.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746777751853-zj870v28n",
+      "images": []
+    },
+    {
+      "name": "Double Room",
+      "size": 24,
+      "description": "\r\nThis air-conditioned double room includes a flat-screen TV with streaming services, a private bathroom as well as a balcony with mountain views. The unit offers 1 bed.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746777823777-4ydyel1a3",
+      "images": []
+    },
+    {
+      "name": "Family Room",
+      "size": 54,
+      "description": "The family room includes a private bathroom, well-fitted with a walk-in shower, a bath, a bidet, a hairdryer and slippers. The spacious air-conditioned family room features a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit has 3 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746777858178-e0tkp7dub",
+      "images": []
+    },
+    {
+      "name": "Suite With Bathtub",
+      "size": 50,
+      "description": "This suite offers a hot tub. This spacious suite comprises 1 bedroom, a seating area and 1 bathroom with a walk-in shower and a bath. The air-conditioned suite provides a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit offers 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746777922935-gp08whlxs",
+      "images": []
+    },
+    {
+      "name": "Superior Double Room",
+      "size": 31,
+      "description": "The double room includes a private bathroom, well-fitted with a walk-in shower, a bath, a bidet, a hairdryer and slippers. The spacious air-conditioned double room provides a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit offers 1 bed.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746777976879-6y2in4nw9",
+      "images": []
+    },
+    {
+      "name": "Suite With Jacuzzi",
+      "size": 54,
+      "description": "This spacious suite features 1 bedroom, a seating area and 1 bathroom with a walk-in shower and a bath. The air-conditioned suite features a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit has 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778080282-mukoej1xu",
+      "images": []
+    },
+    {
+      "name": "Triple Room With Balcony",
+      "size": 33,
+      "description": "The triple room includes a private bathroom, well-fitted with a walk-in shower, a bath, a bidet, a hairdryer and slippers. The spacious air-conditioned triple room offers a flat-screen TV with streaming services, soundproof walls, a minibar, a tea and coffee maker as well as mountain views. The unit offers 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778162186-46hayh6ym",
+      "images": []
+    },
+    {
+      "name": "Triple Room",
+      "size": 31,
+      "description": "This air-conditioned triple room includes a flat-screen TV with streaming services, a private bathroom as well as a balcony with mountain views.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778203599-dphyzkhuc",
+      "images": []
+    },
+    {
+      "name": "Twin Room - Disability Access",
+      "size": 65,
+      "description": "This air-conditioned twin room is comprised of a flat-screen TV with streaming services, a private bathroom as well as a balcony with mountain views. The unit has 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778248693-8rkl3qgxa",
+      "images": []
+    },
+    {
+      "name": "Twin Room",
+      "size": 24,
+      "description": "This air-conditioned twin room is comprised of a flat-screen TV with streaming services, a private bathroom as well as a balcony with mountain views. The unit has 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778393033-hk1f7q7ph",
+      "images": []
+    },
+    {
+      "name": "Twin Room with Balcony",
+      "size": 29,
+      "description": "This air-conditioned twin room includes a flat-screen TV with streaming services, a private bathroom as well as a balcony with mountain views. The unit offers 2 beds.",
+      "facilities": [
+        ""
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 65,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746778430914-o0sk3vau0",
+      "images": []
+    }
+  ]
+}

@@ -1,9 +1,23 @@
 {
   "info": {
     "name": "Destiny Hotel & Spa",
+    "email": "info@destiny.al",
+    "phone": "+355 68 406 9696",
+    "address": "Rruga Teodor Keko, Tirana",
     "town": "Tirana",
     "country": "Albania",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Captivating portrayal of Tirana's charm",
+    "longDescription": "Destiny Hotel opens its doors from 12th of February for the season 2024, inviting you to embark on a remarkable journey of luxury and comfort in the heart of Tirana. Our dedicated and qualified staff are committed to ensuring your stay is nothing short of exceptional.\n\nNestled gracefully on the picturesque TeodorKeko Street, Destiny Hotel stands as a beacon of elegance on the prominent Ring of Tirana. Our prime location, right by the highway, not only ensures seamless accessibility from the airport but also unveils a panoramic canvas of the city's vibrant landscape. Positioned strategically, our hotel becomes a gateway to both convenience and a captivating portrayal of Tirana's charm.",
+    "facilities": [
+      "Free Wifi",
+      "Free Parking",
+      "Spa Centre",
+      "Restaurant",
+      "Fitness Centre",
+      "Family Rooms",
+      "Bar",
+      "Breakfast"
+    ]
   }
 }

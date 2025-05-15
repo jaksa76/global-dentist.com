@@ -1,10 +1,34 @@
 {
   "images": [
-    "Nobel West double room-min.JPG",
-    "Nobel West front-min.JPG",
-    "Nobel West lobby-min.JPG",
-    "Nobel West meeting room-min.JPG",
-    "Nobel West reception-min.JPG",
-    "Nobel West restaurant-min.JPG"
+    {
+      "id": "1746705476219-zwbxp7m8r",
+      "filename": "1746705475919-Nobel_West_restaurant-min.JPG",
+      "originalname": "Nobel West restaurant-min.JPG"
+    },
+    {
+      "id": "1746705483309-r9o3s64qk",
+      "filename": "1746705483190-Nobel_West_reception-min.JPG",
+      "originalname": "Nobel West reception-min.JPG"
+    },
+    {
+      "id": "1746705498844-e0f14qvvu",
+      "filename": "1746705498617-Nobel_West_meeting_room-min.JPG",
+      "originalname": "Nobel West meeting room-min.JPG"
+    },
+    {
+      "id": "1746705503310-ei67ni4bz",
+      "filename": "1746705503191-Nobel_West_lobby-min.JPG",
+      "originalname": "Nobel West lobby-min.JPG"
+    },
+    {
+      "id": "1746705523690-tesrxxuxb",
+      "filename": "1746705523611-Nobel_West_front-min.JPG",
+      "originalname": "Nobel West front-min.JPG"
+    },
+    {
+      "id": "1746705528185-jsrly57m2",
+      "filename": "1746705527699-Nobel_West_double_room-min.JPG",
+      "originalname": "Nobel West double room-min.JPG"
+    }
   ]
 }

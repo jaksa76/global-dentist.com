@@ -1,0 +1,154 @@
+{
+  "rooms": [
+    {
+      "name": "Queen Serene ",
+      "size": 16,
+      "description": "Our Queen Serene double room offers ultimate comfort with air conditioning, soundproof walls, and a private bathroom featuring a shower and hairdryer. The room is also equipped with a flat-screen TV, perfect for relaxation. Designed for a restful stay, it includes one cozy bed to ensure your complete comfort.",
+      "facilities": [
+        "Private bathroom",
+        "Towels",
+        "Hairdryer",
+        "Air conditioning",
+        "Safety deposit box",
+        "Linen",
+        "Desk",
+        "Soundproofing",
+        "TV",
+        "Telephone",
+        "Heating",
+        "Flat-screen TV",
+        "Non-smoking"
+      ],
+      "offers": [],
+      "id": "1747213195485-79ffgbs0p",
+      "images": [
+        {
+          "id": "1747228792921-iazvfj0g8",
+          "filename": "1747228792909-Queen.jpg",
+          "originalname": "Queen.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Drama Queen",
+      "size": 18,
+      "description": "The Drama Queen double room is equipped with air conditioning and a private bathroom featuring a shower and hairdryer. For your convenience, the room also offers a flat-screen TV. The unit includes one comfortable bed.",
+      "facilities": [
+        "Private bathroom",
+        "Towels",
+        "Hairdryer",
+        "Air conditioning",
+        "Safety deposit box",
+        "Linen",
+        "Desk",
+        "Soundproofing",
+        "TV",
+        "Telephone",
+        "Heating",
+        "Flat-screen TV",
+        "Upper floors accessible by elevator",
+        "Non-smoking"
+      ],
+      "offers": [],
+      "id": "1747213372187-1xpztbewy",
+      "images": [
+        {
+          "id": "1747228812673-vujlrbilf",
+          "filename": "1747228812672-Drama.jpg",
+          "originalname": "Drama.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Booster Twin Room ",
+      "size": 25,
+      "description": "The Booster Twin room offers air conditioning and soundproof walls, along with a private bathroom featuring a shower and a hairdryer. For added comfort, the room spans 25 m² and includes a flat-screen TV. The unit offers two separate beds, making it ideal for friends or colleagues traveling together.\r\n",
+      "facilities": [
+        "Private bathroom",
+        "Towels",
+        "Hairdryer",
+        "Air conditioning",
+        "Safety deposit box",
+        "Linen",
+        "Desk",
+        "Soundproofing",
+        "TV",
+        "Telephone",
+        "Heating",
+        "Flat-screen TV",
+        "Upper floors accessible by elevator",
+        "Non-smoking"
+      ],
+      "offers": [],
+      "id": "1747213794752-ebkzncmr8",
+      "images": [
+        {
+          "id": "1747228891157-ehyym15fz",
+          "filename": "1747228891156-booster.jpg",
+          "originalname": "booster.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Playful Twin Room",
+      "size": 18,
+      "description": "The Playful Twin room offers air conditioning and soundproof walls, along with a private bathroom featuring a shower and a hairdryer. For added comfort, the room includes a flat-screen TV. The unit offers two separate beds, making it an ideal choice for friends or colleagues traveling together.\r\n\r\n\r\n\r\n\r\n",
+      "facilities": [
+        "Private bathroom",
+        "Towels",
+        "Hairdryer",
+        "Air conditioning",
+        "Safety deposit box",
+        "Linen",
+        "Desk",
+        "Soundproofing",
+        "TV",
+        "Telephone",
+        "Heating",
+        "Flat-screen TV",
+        "Upper floors accessible by elevator",
+        "Non-smoking"
+      ],
+      "offers": [],
+      "id": "1747225393027-o8665yn70",
+      "images": [
+        {
+          "id": "1747228899473-chk8wgaol",
+          "filename": "1747228899472-Twin.jpg",
+          "originalname": "Twin.jpg"
+        }
+      ]
+    },
+    {
+      "name": "Moxy Sweet",
+      "size": 30,
+      "description": "The Moxy Sweet suite offers a perfect blend of comfort and style. This air-conditioned suite features one bedroom and a private bathroom with a shower and a hairdryer. The suite includes one extra-large double bed and one sofa bed. It also offers a seating area with a flat-screen TV and soundproof walls for a peaceful stay, ensuring a comfortable and enjoyable experience.",
+      "facilities": [
+        "Sofa bed",
+        "Private bathroom",
+        "Towels",
+        "Hairdryer",
+        "Air conditioning",
+        "Safety deposit box",
+        "Linen",
+        "Desk",
+        "Soundproofing",
+        "TV",
+        "Telephone",
+        "Heating",
+        "Flat-screen TV",
+        "Upper floors accessible by elevator",
+        "Non-smoking"
+      ],
+      "offers": [],
+      "id": "1747225772178-9ybzt2ox1",
+      "images": [
+        {
+          "id": "1747228914695-x6k79rhl9",
+          "filename": "1747228914694-sweet.jpg",
+          "originalname": "sweet.jpg"
+        }
+      ]
+    }
+  ]
+}

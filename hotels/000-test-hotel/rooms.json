@@ -1,0 +1,51 @@
+{
+  "rooms": [
+    {
+      "name": "Single Room",
+      "size": 20,
+      "description": "This is a room with a single bed",
+      "facilities": [
+        "TV",
+        "Mini Bar"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [
+            "Breakfast",
+            "Free Cancellation"
+          ],
+          "price": {
+            "value": 95,
+            "currency": "EUR"
+          }
+        },
+        {
+          "guests": 1,
+          "included": [
+            "Breakfast"
+          ],
+          "price": {
+            "value": 85,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746172249162-9ylun5imj",
+      "images": [
+        {
+          "id": "1746172249162-yknk2228u",
+          "filename": "1746172249098-1745847713935-Untitled_design__8_.png",
+          "originalname": "1745847713935-Untitled_design__8_.png",
+          "url": "/api/v1/images/MDAwLXRlc3QtaG90ZWw6MTc0NjE3MjI0OTA5OC0xNzQ1ODQ3NzEzOTM1LVVudGl0bGVkX2Rlc2lnbl9fOF8ucG5nOnlvdXItc2VjcmV0LWtleS1oZXJl"
+        },
+        {
+          "id": "1746172249162-iohfp2gtk",
+          "filename": "1746172249138-1745847377658-2.png",
+          "originalname": "1745847377658-2.png",
+          "url": "/api/v1/images/MDAwLXRlc3QtaG90ZWw6MTc0NjE3MjI0OTEzOC0xNzQ1ODQ3Mzc3NjU4LTIucG5nOnlvdXItc2VjcmV0LWtleS1oZXJl"
+        }
+      ]
+    }
+  ]
+}

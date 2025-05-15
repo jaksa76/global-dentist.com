@@ -1,8 +1,24 @@
 {
   "images": [
-    "Nobel Design double-min.JPG",
-    "Nobel Design lobby-min.JPG",
-    "Nobel Design room-min.JPG",
-    "Nobel Design triple-min.JPG"
+    {
+      "id": "1746708750680-vbebfy3sy",
+      "filename": "1746708750567-Nobel_Design_triple-min.JPG",
+      "originalname": "Nobel Design triple-min.JPG"
+    },
+    {
+      "id": "1746708762746-fa404hs10",
+      "filename": "1746708762432-Nobel_Design_room-min.JPG",
+      "originalname": "Nobel Design room-min.JPG"
+    },
+    {
+      "id": "1746708798394-35qsvnfc2",
+      "filename": "1746708798305-Nobel_Design_lobby-min.JPG",
+      "originalname": "Nobel Design lobby-min.JPG"
+    },
+    {
+      "id": "1746708810977-3x773wd55",
+      "filename": "1746708810955-Nobel_Design_double-min.JPG",
+      "originalname": "Nobel Design double-min.JPG"
+    }
   ]
 }

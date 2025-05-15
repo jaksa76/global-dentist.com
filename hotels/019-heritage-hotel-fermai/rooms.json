@@ -1,0 +1,61 @@
+{
+  "rooms": [
+    {
+      "name": "Comfort Twin Room",
+      "size": 20,
+      "description": "Free Toiletries Shower Dressing gown Safe Deposit Box Toilet Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic TV Slipper Telephone Satellite Channels Tea/Coffee Maker Heating Hair dryer Wake-up Service/Alarm Clock Electric Kettle Wardrobe or closet Toilet paper Room-specific air conditioners in the unit Hand sanitizer",
+      "facilities": [
+        "City view",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [],
+      "id": "1747288166792-klayjcv7g",
+      "images": []
+    },
+    {
+      "name": "Superior Room",
+      "size": 23,
+      "description": "Free Toiletries Shower Dressing gown Safe Deposit Box Toilet Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk TV Slipper Telephone Satellite Channels Tea/Coffee Maker Heating Hair dryer Extra Long Beds (> 2 meters) Wake-up Service/Alarm Clock Electric Kettle Wardrobe or closet Toilet paper Room-specific air conditioners in the unit Hand sanitizer",
+      "facilities": [
+        "single beds",
+        "Free baby cot available on request",
+        "City view",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [],
+      "id": "1747288213929-qk94kp16d",
+      "images": []
+    },
+    {
+      "name": "Suite Documentation",
+      "size": 46,
+      "description": "Free Toiletries Shower Dressing gown Safe Deposit Box Toilet Couch Wooden or parquet floor Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Telephone Satellite Channels Heating Hair dryer Wake-up Service/Alarm Clock Electric Kettle Wardrobe or closet Toilet paper Sofa bed Room-specific air conditioners in the unit Hand sanitizer",
+      "facilities": [
+        "Free baby cot available on request",
+        "Balcony",
+        "City view",
+        "Bathtub",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Coffee Machine",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [],
+      "id": "1747288259122-xteboxjen",
+      "images": []
+    }
+  ]
+}

@@ -1,8 +1,24 @@
 {
   "images": [
-    "PALACE FRONT-min.jpg",
-    "PALACE GARDEN-min.jpg",
-    "PALACE ROOM-min.jpg",
-    "PALACE MEETING ROOM-min.jpg"
+    {
+      "id": "1746709838862-7h56hjzbi",
+      "filename": "1746709838486-PALACE_ROOM-min.jpg",
+      "originalname": "PALACE ROOM-min.jpg"
+    },
+    {
+      "id": "1746709838862-efuyyy7zt",
+      "filename": "1746709838734-PALACE_MEETING_ROOM-min.jpg",
+      "originalname": "PALACE MEETING ROOM-min.jpg"
+    },
+    {
+      "id": "1746709838862-u0905gaq2",
+      "filename": "1746709838791-PALACE_GARDEN-min.jpg",
+      "originalname": "PALACE GARDEN-min.jpg"
+    },
+    {
+      "id": "1746709838862-48d3vthwf",
+      "filename": "1746709838838-PALACE_FRONT-min.jpg",
+      "originalname": "PALACE FRONT-min.jpg"
+    }
   ]
 }

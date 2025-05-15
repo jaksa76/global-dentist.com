@@ -1,9 +1,24 @@
 {
   "info": {
-    "name": "Moxy Hotels",
-    "city": "Belgrade",
+    "name": "Moxy Belgrade",
+    "email": "reservations@moxybelgrade.com",
+    "phone": "+381 11 3661 100",
+    "address": "Njegoševa 2",
+    "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 3
+    "starRating": 3,
+    "description": "Lifestyle hotel in Belgrade center.",
+    "longDescription": "Moxy Belgrade, part of the Marriott portfolio, is situated in the center of the city and offers a high-quality stay at a reasonable price. With 131 smart and cozy rooms, a huge and always vibrant community area next to a 24h bar and full-service restaurant featuring international specialties, Moxy stands out from all the other hotels in Belgrade.",
+    "facilities": [
+      "Furiously-fast free Wi-Fi",
+      "Underground garage",
+      "A la carte full-service restaurant",
+      "Plug&Play area with fully equipped open office space available 24/7",
+      "24/7 Bar",
+      "24/7 Gym",
+      "Meeting Rooms",
+      "Shuttle Service",
+      "Ironing Rooms on every floor"
+    ]
   }
 }

@@ -1,9 +1,22 @@
 {
   "info": {
     "name": "Hilton Garden Inn Tirana",
-    "city": "Tirana",
+    "email": "hgitirana@hilton.com",
+    "phone": "+355 4 220 0444",
+    "address": "146 Bulevardi Gjergj Fishta, Tirana, 1001, Albania",
+    "town": "Tirana",
     "country": "Albania",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "We're five minutes' drive from city ",
+    "longDescription": "We're five minutes' drive from city center and the business district. Et'hem Bej Mosque and attractions on Skanderbeg Square are three kilometers from our door, and Tirana Airport is 15 km away. Enjoy cooked-to-order breakfast, meals in our restaurant, and evening room service. Drinks and snacks are available from The Shop. WiFi is free.",
+    "facilities": [
+      "Free parking",
+      "Fitness center",
+      "Meeting rooms",
+      "Free WiFi",
+      "Pet-friendly rooms",
+      "Non-smoking rooms",
+      "Room service"
+    ]
   }
 }

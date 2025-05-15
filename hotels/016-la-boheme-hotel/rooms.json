@@ -1,0 +1,170 @@
+{
+  "rooms": [
+    {
+      "name": "King Studio with Sofa Bed",
+      "size": 27,
+      "description": "King Studio with Sofa Bed\r\nThe most exclusive room we offer is distinct from its relaxing or reading area, where guests may enjoy privacy within their room.",
+      "facilities": [
+        "Mixed Beds"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 105,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239663009-2bdelolog",
+      "images": []
+    },
+    {
+      "name": "Triple Room",
+      "size": 30,
+      "description": "The triple room has a queen and a single bed and has been adapted for accomodating families or groups of three.",
+      "facilities": [
+        "air conditioning",
+        "tv"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 115,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239725179-j1feg7pj8",
+      "images": []
+    },
+    {
+      "name": "Deluxe Double with Balcony",
+      "size": 35,
+      "description": "This premium deluxe room is larger in size, holds a double queen size bed, is fitted with parquet floors, and with a balcony outdoor area.",
+      "facilities": [
+        "mini bar",
+        "tv"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 80,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239771096-ux8sa2r1v",
+      "images": []
+    },
+    {
+      "name": "Double Room with Balcony",
+      "size": 30,
+      "description": "This is our double queen-sized bedroom with a balcony outdoor area. The balcony rooms are larger than the standard rooms.",
+      "facilities": [
+        "air conditioning",
+        "tv",
+        "mini bar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 80,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239839258-62b9d5woe",
+      "images": []
+    },
+    {
+      "name": "Twin Room with Balcony Twin Room with Balcony",
+      "size": 28,
+      "description": "The balcony that overviews one of the most famous streets of Tirana gives character to this room while keeping complete quietness inside.",
+      "facilities": [
+        "tv"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 95,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239902320-m22sfqzgo",
+      "images": []
+    },
+    {
+      "name": "Double Room",
+      "size": 35,
+      "description": "Double Rooms have large and comfortable queen beds for those of you who'd like to share a bed in a more intimate setting.",
+      "facilities": [
+        "air conditioning",
+        "tv"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 80,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747239959753-j1fb2lvpc",
+      "images": []
+    },
+    {
+      "name": "Twin Room",
+      "size": 28,
+      "description": "The Twin Room is our most common room type, holding two comfortable twin single beds to accommodate two.",
+      "facilities": [
+        "air conditioning"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 95,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747240010071-h8vrp5ynp",
+      "images": []
+    },
+    {
+      "name": "Single Economy Room",
+      "size": 28,
+      "description": "For a more economical alternative, the single traveler can comfortably be accommodated in the Single Economy Room.",
+      "facilities": [
+        "tv",
+        "mini bar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 60,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747240055284-9bxa2mfv8",
+      "images": []
+    }
+  ]
+}

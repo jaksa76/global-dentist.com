@@ -1,0 +1,104 @@
+{
+  "rooms": [
+    {
+      "name": "Standard Single Room with King Bed, 1 Double Bed",
+      "size": 20,
+      "description": "",
+      "facilities": [
+        "Soundproof rooms",
+        "Air conditioning",
+        "Complimentary crib/cot",
+        "Hair dryer",
+        "Private bathroom",
+        "Electric kettle"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 45,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746694419135-ht8wlrma4",
+      "images": []
+    },
+    {
+      "name": "Standard Quadruple Room",
+      "size": 25,
+      "description": "For 4 people\r\n2 Single Beds and 1 Double Bed\r\nFree wireless internet",
+      "facilities": [
+        "Food and drink",
+        " Soundproof room",
+        " Air conditioning",
+        "Hair dryer",
+        "Mini-bar",
+        " Electric kettle"
+      ],
+      "offers": [
+        {
+          "guests": 4,
+          "included": [],
+          "price": {
+            "value": 90,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746695496450-bzllsjzma",
+      "images": []
+    },
+    {
+      "name": "Standard King or Twin Room",
+      "size": 1,
+      "description": "For 2 people\r\n1 Double Bed\r\nFree wireless internet",
+      "facilities": [
+        "Soundproof rooms",
+        "Air conditioning",
+        "Hair dryer",
+        "Private bathroom",
+        " Electric kettle",
+        "Mini-bar"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 60,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746695762476-3tjw4knr7",
+      "images": []
+    },
+    {
+      "name": "Standard Triple Room",
+      "size": 2,
+      "description": "Free breakfast\r\n3 person\r\n1 double bed and 1 single bed\r\nFree Wi-Fi",
+      "facilities": [
+        "Soundproof rooms",
+        "Air conditioning",
+        "Hair dryer",
+        "Private bathroom",
+        "Electric kettle",
+        "Mini-bar"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 75,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1746696022407-8znf9d80g",
+      "images": []
+    }
+  ]
+}

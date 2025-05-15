@@ -1,0 +1,184 @@
+{
+  "rooms": [
+    {
+      "name": "Standard Double Room",
+      "size": 22,
+      "description": "Free Toiletries Safe Deposit Box Toilet Bathtub or Shower Towels Bed linen Socket close to bed Desk TV Slipper Radio Heating Hair dryer Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Clothes hanger Toilet paper Room-specific air conditioners in the unit",
+      "facilities": [
+        "1 extra large double bed",
+        "Free baby cot available on request",
+        "City view",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 93,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289283889-r5zgzih6w",
+      "images": []
+    },
+    {
+      "name": "Standard Twin Room",
+      "size": 22,
+      "description": "2 single beds\r\nComfortable beds: 9 (based on 57 reviews)\r\nOffering free toiletries, this twin room includes a private bathroom with a shower, a hairdryer and slippers. The air-conditioned twin room offers a flat-screen TV with cable channels, a minibar, a wardrobe, a safe deposit box as well as city views. The unit offers 2 beds",
+      "facilities": [
+        "Bathtub or Shower",
+        "Slipper",
+        "Hair dryer",
+        "City view",
+        "Air conditioning",
+        "Safe Deposit Box",
+        "Desk",
+        "TV",
+        "Radio",
+        "Heating",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Electric Kettle",
+        "Cable Channels",
+        "Wardrobe or closet",
+        "Room-specific air conditioners in the unit",
+        "No smoking"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 93,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289355082-z2gms9wr7",
+      "images": []
+    },
+    {
+      "name": "Junior King Suite",
+      "size": 45,
+      "description": "Room Size  45 m²\r\n1 extra large double bed\r\nComfortable beds: 9 (based on 57 reviews)\r\nThe air-conditioned suite features 1 bedroom and 1 bathroom with a shower and a bidet. The suite provides a flat-screen TV with cable channels, a minibar, a tea and coffee maker, a wardrobe as well as city views. The unit offers 1 bed.",
+      "facilities": [
+        "Bide",
+        "Bathtub or Shower",
+        "Slipper",
+        "Hair dryer",
+        "Toilet paper",
+        "City view",
+        "Air conditioning",
+        "Safe Deposit Box",
+        "Bed linen",
+        "Socket close to bed",
+        "Desk",
+        "TV",
+        "Tea/Coffee Maker",
+        "Radio",
+        "Heating",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Electric Kettle",
+        "Cable Channels",
+        "Wardrobe or closet",
+        "Upper floors can be accessed by elevator.",
+        "Clothes hanger",
+        "Room-specific air conditioners in the unit"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 125,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289431757-cgw8mn2tm",
+      "images": []
+    },
+    {
+      "name": "Suite",
+      "size": 60,
+      "description": "Room Size  60 m²\r\nBedroom:1 extra large double bed\r\nSitting room:1 sofa bed\r\nComfortable beds: 9 (based on 57 reviews)\r\nThis spacious suite consists of 1 living room, 1 separate bedroom and 1 bathroom with a shower and free toiletries. The air-conditioned suite provides a flat-screen TV with cable channels, a minibar, a tea and coffee maker, a wardrobe as well as city views. The unit offers 2 beds.",
+      "facilities": [
+        "City view",
+        "Air conditioning",
+        "Private bathroom",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 140,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289492318-eavmj0e2c",
+      "images": []
+    },
+    {
+      "name": "Family Room",
+      "size": 60,
+      "description": "Room Size  60 m²\r\n2 single bedsAnd1 extra large double bed\r\nComfortable beds: 9 (based on 57 reviews)\r\nFeaturing free toiletries, this family room includes a private bathroom with a shower, a hairdryer and slippers. The spacious air-conditioned family room features a flat-screen TV with cable channels, a minibar, a wardrobe, a safe deposit box as well as city views. The unit has 3 beds.",
+      "facilities": [
+        "City view",
+        "Air conditioning",
+        "Private bathroom",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 158,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289558318-9b2woh5fl",
+      "images": []
+    },
+    {
+      "name": "Standard Queen Room",
+      "size": 22,
+      "description": "Room Size  22 m²\r\n1 large double bed\r\nComfortable beds: 9 (based on 57 reviews)\r\nFeaturing free toiletries, this double room has a private bathroom with a shower, hairdryer and slippers. Offering city views, the double room also features air conditioning, a flat-screen cable TV, a minibar, a safe and a wardrobe. The unit has 1 bed.",
+      "facilities": [
+        "City view",
+        "Air conditioning",
+        "Private bathroom",
+        "Flat Screen TV",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 86,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747289624092-y4oe4cnla",
+      "images": []
+    }
+  ]
+}

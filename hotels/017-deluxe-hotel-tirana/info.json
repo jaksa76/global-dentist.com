@@ -1,9 +1,25 @@
 {
   "info": {
     "name": "Deluxe Hotel Tirana",
-    "city": "Tirana",
+    "email": "sales@hoteldeluxe.al",
+    "phone": "+355 69 765 3815",
+    "address": "Rruga Teodor Keko, 1001 Tirana, Albania",
+    "town": "Tirana",
     "country": "Albania",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Hotel Deluxe is set in Tirana",
+    "longDescription": "Hotel Deluxe is set in Tirana, 1.6 mi from Skenderberg Square. The 4-star hotel has air-conditioned rooms with a private bathroom and free WiFi. The property has a restaurant and a garden. Sky Tower is 1.6 mi away.\n\nAll rooms at the hotel are fitted with a seating area and a flat-screen TV. The rooms include a desk. A continental breakfast is served every morning at the property.\n\nSpeaking Greek, English and Italian at the 24-hour front desk, staff will be happy to provide guests with practical information on the area.\n\nNational Arts Gallery is 1.6 mi from Hotel Deluxe. The nearest airport is Tirana Airport, 9.9 mi from the property.",
+    "facilities": [
+      "Non-smoking rooms",
+      "Restaurant",
+      "Room service",
+      "Facilities for disabled guests",
+      "Free parking",
+      "Free Wifi",
+      "Airport shuttle",
+      "Family rooms",
+      "Bar",
+      "Very Good Breakfast"
+    ]
   }
 }

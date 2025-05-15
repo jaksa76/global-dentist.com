@@ -1,9 +1,29 @@
 {
   "images": [
-    { "filename": "thumbnail_Zira  dan h_Panorama2.jpg" },
-    { "filename": "zira lobby.jpg" },
-    { "filename": "zira restaurant.jpg" },
-    { "filename": "ZIRA room.jpg" },
-    { "filename": "ZIRA terrace.jpg" }
+    {
+      "id": "1746709741504-gdrdw6r4u",
+      "filename": "1746709741327-zira_restaurant.jpg",
+      "originalname": "zira restaurant.jpg"
+    },
+    {
+      "id": "1746709741504-jwqpt9q3e",
+      "filename": "1746709741345-zira_lobby.jpg",
+      "originalname": "zira lobby.jpg"
+    },
+    {
+      "id": "1746709741504-6trncdo4w",
+      "filename": "1746709741371-thumbnail_Zira__dan_h_Panorama2.jpg",
+      "originalname": "thumbnail_Zira  dan h_Panorama2.jpg"
+    },
+    {
+      "id": "1746709741504-uvr8jur8x",
+      "filename": "1746709741406-ZIRA_terrace.jpg",
+      "originalname": "ZIRA terrace.jpg"
+    },
+    {
+      "id": "1746709741504-kcygqdk0o",
+      "filename": "1746709741437-ZIRA_room.jpg",
+      "originalname": "ZIRA room.jpg"
+    }
   ]
 }

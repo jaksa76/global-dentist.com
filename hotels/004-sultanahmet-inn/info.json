@@ -1,9 +1,24 @@
 {
   "info": {
     "name": "Sultanahmet Inn Hotel",
-    "city": "Istanbul",
+    "email": "info@sultanahmetinn.com",
+    "phone": "\t+90 535 395 59 92",
+    "address": "Kucukayasofya Neighborhood Ak Burcak Street No:23, Istanbul, Turkey 34122",
+    "town": "Istanbul",
     "country": "Turkey",
-    "facilities": [],
-    "starRating": 3
+    "starRating": 3,
+    "description": "Located in the Historic Peninsula ",
+    "longDescription": "Located in the Historic Peninsula district of Istanbul, Sultanahmet Inn Hotel offers rooms with free Wi-Fi. The hotel's terrace overlooks the Marmara Sea and the Blue Mosque. Some rooms have a private balcony.\n\nThe air-conditioned rooms at Hotel Sultanahmet Inn are furnished with parquet floors and dark wood furniture. All rooms include a flat-screen cable TV, a minibar and double-glazed windows.\n\nThe hotel's 24-hour staff can help arrange excursions to Istanbul's main attractions. Sultanahmet Inn Hotel offers car rental, currency exchange and laundry services.\n\nGuests can enjoy a local Turkish breakfast with fresh bread, olives, cheese, tomatoes, cereals and fruits every morning.\n\nIt is a 5-minute walk from Istanbul's major attractions, such as the Basilica Cistern, Hagia Sophia and Topkapi Palace. The Grand Bazaar is a 10-minute walk away. Free parking is available on site.\n\nFatih is a great choice for travellers interested in museums, monuments and friendly people.",
+    "facilities": [
+      " Internet",
+      " Service",
+      " Transport",
+      " Distances",
+      " Disabled",
+      " Payment",
+      " Hygiene",
+      " Common Area",
+      " Food & Beverage"
+    ]
   }
 }

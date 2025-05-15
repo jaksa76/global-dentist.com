@@ -1,0 +1,16 @@
+{
+  "info": {
+    "name": "Test Hotel",
+    "email": "test@gmail.com",
+    "phone": "+2348100000000",
+    "address": "Opposite testing lane",
+    "town": "Ilorin",
+    "country": "Nigeria",
+    "starRating": "5",
+    "description": "Our hotel is a gateway to both convenien",
+    "longDescription": "Long description ",
+    "facilities": [
+      "Free WiFi"
+    ]
+  }
+}

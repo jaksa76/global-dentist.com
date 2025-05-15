@@ -3,56 +3,56 @@
     "title": "DENTAL CENTAR REPIC",
     "address": "Put Dragulina 62F, 21220, Trogir, Croatia",
     "rating": 4.8,
-    "reviews": 183,
+    "reviews": 184,
     "type": "Dental clinic"
   },
   "reviews": [
     {
       "id": "ChZDSUhNMG9nS0VJQ0FnTUNndEx2T093EAE",
       "name": "Linda Krizic",
-      "score": 5.0,
+      "score": 5,
       "comment": "This orthodontist is truly a master of their craft. Their precision, attention to detail, and customized approach ensure the best possible results. My two kids have received top-tier care, with clear explanations and a gentle touch that makes every visit stress-free. Beyond their expertise, they create a welcoming environment where kids feel comfortable and parents feel confident. Highly recommend for anyone seeking expert, professional, and personable orthodontic care!"
-    },
-    {
-      "id": "ChZDSUhNMG9nS0VJQ0FnTURBX3VpeFZnEAE",
-      "name": "Klara Royster",
-      "score": 5.0,
-      "comment": "Dental Centar Repic is the most generous and caring dental clinic I've ever been to. I came to them after breaking a veneer whilst travelling and they offered free consultation and free digital design of mock up veneers at an amazing price compared to what dentist cost in Australia. They did an amazing job with the veneers, Dr Dario was extremely detail oriented and did a great job at improving the shape of my veneers. They went above and beyond to make sure I was comfortable, even providing me with accomodation for the duration of my dental work. And if that wasn't enough they also gifted me teeth whiting and a retainer for future use. I can't recommend this clinic enough, Thank you thank you thank you to Dr Dario, Dr Slavica, Anna and the team at Dental Centar Repic."
     },
     {
       "id": "ChZDSUhNMG9nS0VJQ0FnSUNQMGR2aFVBEAE",
       "name": "Tim Kennedy",
-      "score": 5.0,
+      "score": 5,
       "comment": "My wife and I are American expats living in Croatia for a year. We highly recommend Dental Centar Repic. The staff is warm and friendly and the service is outstanding. Dr. Magdalena and her assistant Ana took great care of us. I wish we had this service back in the States! Highly recommend!!!"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnTURBX3VpeFZnEAE",
+      "name": "Klara Royster",
+      "score": 5,
+      "comment": "Dental Centar Repic is the most generous and caring dental clinic I've ever been to. I came to them after breaking a veneer whilst travelling and they offered free consultation and free digital design of mock up veneers at an amazing price compared to what dentist cost in Australia. They did an amazing job with the veneers, Dr Dario was extremely detail oriented and did a great job at improving the shape of my veneers. They went above and beyond to make sure I was comfortable, even providing me with accomodation for the duration of my dental work. And if that wasn't enough they also gifted me teeth whiting and a retainer for future use. I can't recommend this clinic enough, Thank you thank you thank you to Dr Dario, Dr Slavica, Anna and the team at Dental Centar Repic."
     },
     {
       "id": "ChZDSUhNMG9nS0VJQ0FnSUNqdTYtRkp3EAE",
       "name": "Valerie McClary",
-      "score": 5.0,
+      "score": 5,
       "comment": "I opted to finally tackle some long overdue dental procedures, prompted by my daughter's invitation to accompany her on a trip to Croatia for her own dental needs. Not only did the clinic manage to schedule me in on short notice and complete my treatments within four days, but their pricing was also quite reasonable. They boast advanced technology surpassing that of many in the States, delivering efficient and thorough care. Moreover, the staff was exceptionally friendly, fluent in English, and overall delightful. I enthusiastically endorse this dental office!"
     },
     {
       "id": "ChZDSUhNMG9nS0VJQ0FnSUNyNk9pOU1nEAE",
       "name": "Matinijan Burić",
-      "score": 5.0,
+      "score": 5,
       "comment": "I had an emergency with my braces and the doctor took me in under half an hour, unscheduled and didn't even write me a check. The inside looks nice, service is good and employees are very friendly. The clinic also has free parking upfront and the waiting time is short. All in all I'm very satisfied with the service."
     },
     {
       "id": "ChZDSUhNMG9nS0VJQ0FnSURucEp6QkNnEAE",
       "name": "Steve O'Sullivan",
-      "score": 5.0,
+      "score": 5,
       "comment": "Slavica and her assistant did an amazing job! I had an emergency dental need due to a failed filling. Slavica was able to take me in and help me out. She removed the failed filling and replaced it in less than half an hour. I’m extremely grateful for this team. She deserves a raise! Thank you Slavica!"
     },
     {
       "id": "ChdDSUhNMG9nS0VJQ0FnSURIbnJpRC1nRRAB",
       "name": "Nikki",
-      "score": 5.0,
+      "score": 5,
       "comment": "A very friendly and accommodating dental clinic. I was not able to make an appointment but they still entertained me. I got a problem with my tooth it was so painful and  Dr. Slavica Repic help me with it. I didn’t even realize, that’s how smoothly and fast she removed my tooth because of which I was in pain. Highly recommend her.\nAnd they’re using advanced technology. As a foreign working here, I highly recommend this dental clinic its super the best and i assure you, you’ll never regret from choosing them.  Hands up to the whole team! 🙌 thank you soooo much for your help ❤️❤️"
     },
     {
       "id": "ChdDSUhNMG9nS0VJQ0FnSUN1cHZ5RDZ3RRAB",
       "name": "Eifion Owen",
-      "score": 5.0,
+      "score": 5,
       "comment": "We were on holiday and my daughter smashed her frontbteeth on a SUP paddle. We contacted this clinic via email . I received a phone call that evening and an appointment the following morning. 5 million stars for service and professionalism of the staff and layout of the clinic. They saved our holiday and more importantly my daughters teeth. A very big thank you to this clinic"
     }
   ]

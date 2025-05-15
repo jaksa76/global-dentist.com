@@ -1,9 +1,23 @@
 {
   "info": {
     "name": "La Bohème Hotel",
-    "city": "Belgrade",
+    "email": "info@labohemetirana.com",
+    "phone": "+355694069318",
+    "address": "Rruga \"Abdyl Frasheri\" Vesa Center 10-th Floor, 1001 Tirana, Albania",
+    "town": "Tirana",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Located in the famous Blloku neighbor",
+    "longDescription": "Located in the famous Blloku neighborhood of Tirana,  The rooms are modernly furnished and free Wi-Fi access is provided.\n\nAll accommodations units come with a flat-screen cable TV, a safe and a mini-bar. Each unit comes with high-quality linen and a bathroom fitted with a shower, with a hairdryer, slippers and free toiletries included.\n\nHotel La Bohème runs a 24-hour front desk. Guests can use the Technogym equipped gym area free of charge.\n\nHotel is located in the entertainment district of Blloku, with popular bars and clubs, as well as a number of restaurants in the vicinity. Art Academy, the University of Tirana and the Presidential Palace are all located within a 300-yard radius.\n\nExcursions and guided tours can be organized at the front desk. Free parking is provided in the underground garage on site. The Main Bus Station is 656 feet away. Tirana Airport is 12 mi from the property and airport shuttle can be arranged at a surcharge.",
+    "facilities": [
+      "Non-smoking rooms",
+      " Free parking",
+      "Free WiFi",
+      "Airport shuttle",
+      "Family rooms",
+      "24-hour front desk",
+      " Bar",
+      "Very Good Breakfast"
+    ]
   }
 }

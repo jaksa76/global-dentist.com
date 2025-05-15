@@ -1,9 +1,24 @@
 {
   "info": {
     "name": "Heritage Hotel Fermai",
-    "city": "Split",
+    "email": "welcome@hotelfermai.com",
+    "phone": "+385 21278000",
+    "address": "Livanjska Ul 5, 21000, SPLIT, Croatia\n",
+    "town": "split",
     "country": "Croatia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Heritage Hotel FERMAI, a century-old Art",
+    "longDescription": "Heritage Hotel FERMAI, a century-old Art Nouveau gem by Petar Senjanović, stands in Split's bustling core. Just 500 m from the 1700-year-old Diocletian's Palace, a UNESCO World Heritage site. Explore the lively farmers market or stroll to the ferry port. Each visit promises a meaningful connection to Split’s rich past and vibrant surroundings. Embrace the Mediterranean spirit with local cuisine and a serene atmosphere.",
+    "facilities": [
+      "Private parking lot",
+      "Non-smoking rooms",
+      "Airport shuttle",
+      "Free Wi-Fi internet connection",
+      "24-hour reception",
+      "Air conditioning",
+      "Garden",
+      "Daily housekeeping service",
+      "An extraordinary breakfast"
+    ]
   }
 }

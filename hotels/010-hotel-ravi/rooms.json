@@ -1,0 +1,69 @@
+{
+  "rooms": [
+    {
+      "name": "STANDARD DOUBLE ROOM",
+      "size": 13,
+      "description": "Our rooms with city view are very suitable for business travel and business tourism.\r\nAll the details are considered for your comfort in our comfortable queen beds in ur which decorated with natural colors.\r\n\r\ndescrıptıon\r\nBed Type: Queen size\r\nCapacity: 2-person maximum\r\nSize: 13 Square meters",
+      "facilities": [
+        "Wireless internet",
+        "Hair Dryer",
+        "Minibar",
+        "Led TV",
+        "Air Conditioning",
+        "Shower"
+      ],
+      "offers": [],
+      "id": "1747114878736-udk2v577e",
+      "images": []
+    },
+    {
+      "name": "STANDARD TWIN ROOM",
+      "size": 13,
+      "description": "\r\nOur rooms are very suitable for business travel and business tourism.\r\nAll the details are considered for your comfort in our comfortable 2 single beds in ur which decorated with natural colors.\r\n\r\ndescrıptıon\r\nBed Type: 2 single beds\r\nCapacity: 2-person maximum\r\nSize: 13 Square meters",
+      "facilities": [
+        "Wireless internet",
+        "Hair Dryer",
+        "Minibar",
+        "Led TV",
+        "Telephone",
+        "Safe",
+        "Air Conditioning"
+      ],
+      "offers": [],
+      "id": "1747114959318-p0nbxiwdu",
+      "images": []
+    },
+    {
+      "name": "STANDARD TRIPLE SUITE",
+      "size": 16,
+      "description": "\r\nOur rooms are very suitable for business travel and business tourism.\r\nAll the details are considered for your comfort in our comfortable 3 single beds in ur which decorated with natural colors.\r\n\r\ndescrıptıon\r\nBed Type: 3 single beds\r\nCapacity: 3-person maximum\r\nSize: 16 Square meters",
+      "facilities": [
+        "Wireless internet",
+        "Hair Dryer",
+        "Minibar",
+        "Led TV",
+        "Telephone"
+      ],
+      "offers": [],
+      "id": "1747115195063-j349nqenf",
+      "images": []
+    },
+    {
+      "name": "CONNECTED FAMILY ROOM",
+      "size": 30,
+      "description": "Our rooms are very suitable for business travel and business tourism.\r\nAll the details are considered for your comfort in our comfortable 1 Queen bed + 2 Single beds in ur which decorated with natural colors.\r\n\r\ndescrıptıon\r\nBed Type: 1 Queen bed + 2 Single beds\r\nCapacity: 4-person maximum\r\nSize: 30 Square meters",
+      "facilities": [
+        "Air Conditioning",
+        "Safe",
+        "Telephone",
+        "Led TV",
+        "Minibar",
+        "Hair Dryer",
+        "Wireless internet"
+      ],
+      "offers": [],
+      "id": "1747115301633-i99h5m1cv",
+      "images": []
+    }
+  ]
+}

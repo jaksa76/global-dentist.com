@@ -1,0 +1,12 @@
+{
+  "name": "Hotel Boka",
+  "city": "Rruga Shemsi Haka 4",
+  "country": "Albania",
+  "folder": "hotel-boka",
+  "rating": 4.7,
+  "latLng": [
+    41.32984099999999,
+    19.8248266
+  ],
+  "address": "Avni Rustemi\" Square, Rruga Shemsi Haka 4, Tiranë 1001, Albania"
+}

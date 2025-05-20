@@ -1,0 +1,12 @@
+{
+  "name": "Bristol Hotel Tirana",
+  "city": "Rruga Nikolla Jorga",
+  "country": "Albania",
+  "folder": "bristol-hotel-tirana",
+  "rating": 4,
+  "latLng": [
+    41.3233386,
+    19.80933
+  ],
+  "address": "Rruga Nikolla Jorga, Tiranë 1001, Albania"
+}

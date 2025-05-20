@@ -1,0 +1,13 @@
+{
+  "name": "The Camelot hotel",
+  "city": "Cankurtaran Cd. 26/A",
+  "country": "Türkiye",
+  "folder": "the-camelot-hotel",
+  "starRating": null,
+  "rating": 4.4,
+  "latLng": [
+    41.0049855,
+    28.980995
+  ],
+  "address": "Cankurtaran, Cankurtaran Cd. 26/A, 34122 Fatih/İstanbul, Türkiye"
+}

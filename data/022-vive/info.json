@@ -1,5 +1,12 @@
 {
-  "info": {},
+  "info": {
+    "phone": "+355 69 709 9966",
+    "email": "info@vive.dental",
+    "address": "\nTiranë , Ish Tregu Elektrik Ali Demi, Rruga Petro Nini Luarasi, Shkalla 1 nr.5",
+    "name": "Vive Dental Clinic ",
+    "description": "The Vive dental clinic offers advanced and professional oral care services, ensuring safe, effective treatments with excellent results for every patient.",
+    "longDescription": "We are committed to providing you with the highest quality dental services in a comfortable and professional environment. Our clinic offers a wide range of dental services to meet your needs, from regular check-ups and cleanings to more advanced treatments"
+  },
   "images": [
     {
       "id": "1740747658237-05ftcml9k",

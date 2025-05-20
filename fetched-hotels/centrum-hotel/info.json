@@ -1,0 +1,12 @@
+{
+  "name": "Centrum Hotel",
+  "city": "Rruga Bardhok Biba 23/15",
+  "country": "Albania",
+  "folder": "centrum-hotel",
+  "rating": 4.2,
+  "latLng": [
+    41.3313407,
+    19.818489
+  ],
+  "address": "Rruga Bardhok Biba 23/15, Tiranë 1001, Albania"
+}

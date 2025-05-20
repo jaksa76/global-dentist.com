@@ -1,0 +1,130 @@
+{
+  "users": [
+    {
+      "email": "test@gmail.com",
+      "password":"almwsemli",
+      "hotel":"000-test-hotel"
+    },
+    {
+        "email": "info@ottomanhotelimperial",
+        "hotel": "001-ottoman",
+        "password": "5v9k2b1n"
+    },
+    {
+        "email": "info@galaperahotel.com",
+        "hotel": "002-galapera",
+        "password": "g7n2m8z4"
+    },
+    {
+        "email": "info@destiny.al",
+        "hotel": "003-destiny",
+        "password": "k3b7n2v6"
+    },
+    {
+        "email": "info@sultanahmetinn.com",
+        "hotel": "004-sultanahmet-inn",
+        "password": "n6v2k9m3"
+    },
+    {
+        "email": "info@grandunalhotel.com",
+        "hotel": "005-grand-unal",
+        "password": "z8m5k2n7"
+    },
+    {
+        "email": "hgitirana@hilton.com",
+        "hotel": "006-hilton-garden-inn",
+        "password": "v4n7k3b2"
+    },
+    {
+        "email": "nex@nexhotel.com",
+        "hotel": "007-nex-hotel",
+        "password": "b2k9n6v3"
+    },
+    {
+        "email": "info@hiistanbulcity.com.tr",
+        "hotel": "008-hotel-inn-istanbul-city",
+        "password": "m7z2k8n4"
+    },
+    {
+        "email": "info@heritagebelgrade.com",
+        "hotel": "009-heritage-garni-hotel",
+        "password": "n3v6k7b2"
+    },
+    {
+        "email": "info@hotelravi.com",
+        "hotel": "010-hotel-ravi",
+        "password": "k2b8n5m7"
+    },
+    {
+        "email": "reception@trocihotel.com",
+        "hotel": "011-troci-hotel",
+        "password": "v9n2k4b7"
+    },
+    {
+        "email": "info@hotelcomfort.al",
+        "hotel": "012-hotel-comfort",
+        "password": "b7k3n6v2"
+    },
+    {
+        "email": "reception@moxybelgrade.com",
+        "hotel": "013-moxy-hotels",
+        "password": "z4m8k2n7"
+    },
+    {
+        "email": "irini.rooms@gmail.com",
+        "hotel": "014-irini-luxury-rooms",
+        "password": "n6v3k7b2"
+    },
+    {
+        "email": "info@putnik.com",
+        "hotel": "015-putnik-inn-belgrade",
+        "password": "k9b2n6v3"
+    },
+    {
+        "email": "info@labohemetirana.com",
+        "hotel": "016-la-boheme-hotel",
+        "password": "m2z7k8n4"
+    },
+    {
+        "email": "info@hoteldeluxe.al",
+        "hotel": "017-deluxe-hotel-tirana",
+        "password": "n7v2k3b6"
+    },
+    {
+        "email": "heritage.rooms@makarun.com",
+        "hotel": "018-makarun-hotel",
+        "password": "k8b5n2m7"
+    },
+    {
+        "email": "welcome@hotelfermai.com",
+        "hotel": "019-heritage-hotel-fermai",
+        "password": "v2n7k4b9"
+    },
+    {
+        "email": "info.palace@nhg.rs",
+        "hotel": "020-nobel-palace",
+        "password": "b3k6n7v2"
+    },
+    {
+        "email": "info.zira@nhg.rs",
+        "hotel": "021-nobel-zira",
+        "password": "z7m2k8n4"
+    },
+    {
+        "email": "info.gallery@nhg.rs",
+        "hotel": "022-nobel-gallery",
+        "password": "n2v6k3b7"
+    },
+    {
+        "email": "info.design@nhg.rs",
+        "hotel": "023-nobel-design",
+        "password": "k7b2n9v3"
+    },
+    {
+        "email": "info.west@nhg.rs",
+        "hotel": "024-nobel-west",
+        "password": "m8z4k2n7"
+    }
+  ]
+}
+

@@ -1,0 +1,12 @@
+{
+  "name": "Emily Rooms",
+  "city": "21000",
+  "country": "Croatia",
+  "folder": "emily-rooms",
+  "rating": 4.2,
+  "latLng": [
+    43.50546689999999,
+    16.4464452
+  ],
+  "address": "Pojišanska ul. 12, 21000, Split, Croatia"
+}

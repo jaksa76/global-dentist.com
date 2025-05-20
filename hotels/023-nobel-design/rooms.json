@@ -1,0 +1,178 @@
+{
+  "rooms": [
+    {
+      "name": "Comfort Double Room",
+      "size": 15,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "1 double bed",
+        "Room",
+        "15 m²",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 87,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366902770-rdj10dfqv",
+      "images": []
+    },
+    {
+      "name": "Double Executive Room",
+      "size": 30,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "extra large double bed",
+        "Room",
+        "30 square meters",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 94,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366947591-akmrjfu3u",
+      "images": []
+    },
+    {
+      "name": "Executive Twin Room",
+      "size": 30,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "Room",
+        "30 square meters",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 94,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367031045-1m3fge69b",
+      "images": []
+    },
+    {
+      "name": "Triple Room",
+      "size": 30,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "3 single beds",
+        "Room",
+        "30 square meters",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 108,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367101891-sxjufwxxb",
+      "images": []
+    },
+    {
+      "name": "Vista Double Room with Balcony",
+      "size": 25,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "extra large double bed",
+        "Room",
+        "25 m²",
+        "Balcony",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 178,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367176724-ch8n45qcs",
+      "images": []
+    },
+    {
+      "name": "Suite",
+      "size": 40,
+      "description": "Free Toiletries Shower Safe Deposit Box Toilet Towels Bed linen Socket close to bed Hypoallergenic Desk Sitting Area TV Slipper Heating Hair dryer Extra Long Beds (> 2 meters) Carpeted Floor Electric Kettle Cable Channels Wake Up Service Wardrobe or closet Upper floors can be accessed by elevator. Toilet paper",
+      "facilities": [
+        "1 extra large double bed",
+        "Private suite",
+        "40 square meters",
+        "View",
+        "Air conditioning",
+        "En suite bathroom",
+        "Flat Screen TV",
+        "Soundproofing",
+        "Mini-bar",
+        "Free WiFi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 133,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367245663-zx25onk2f",
+      "images": []
+    }
+  ]
+}

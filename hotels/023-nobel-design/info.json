@@ -1,9 +1,25 @@
 {
   "info": {
     "name": "Nobel Design",
+    "email": "info.design@nhg.rs",
+    "phone": "zcfgsfgs",
+    "address": "Balkanska 18, Stari Grad, 11000 Belgrade, \n",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": "Nobel Design Hotel in Belgrade",
+    "longDescription": "Offering a bar, Nobel Design Hotel is located in the heart of Belgrade, 600 metres from Republic Square Belgrade. Private parking can be arranged at an additional cost. The property offers a 24-hour front desk, airport transfer, concierge service and free WiFi throughout the property. Rooms at Nobel Design Hotel are equipped with air conditioning, a seating area, cable TV (flat-screen), a safe and a private bathroom with a shower, free toiletries and a hairdryer. Certain units at Nobel Design Hotel have a balcony, while a kettle is included in the rooms. Bed linen and towels are available in all rooms at Nobel Design Hotel. Breakfast options include buffet, continental or gluten-free. Popular points of interest near Nobel Design Hotel include St. Sava Cathedral, National Assembly of The Republic of Serbia and Tašmajdan Stadium. Belgrade Nikola Tesla Airport is 14 km away.",
+    "facilities": [
+      "Non-smoking rooms",
+      "Private parking lot",
+      "Free Wi-Fi internet connection",
+      "Airport service",
+      "Family rooms",
+      "24-hour reception",
+      "Heating",
+      "Lift",
+      "Bar",
+      "A good breakfast"
+    ]
   }
 }

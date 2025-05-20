@@ -1,0 +1,12 @@
+{
+  "name": "Hotel Central Tirana",
+  "city": "Rruga Karl Gega",
+  "country": "Albania",
+  "folder": "hotel-central-tirana",
+  "rating": 3.6,
+  "latLng": [
+    41.3373935,
+    19.8169313
+  ],
+  "address": "Rruga Karl Gega, Tiranë 1001, Albania"
+}

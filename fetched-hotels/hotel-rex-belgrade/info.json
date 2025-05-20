@@ -1,0 +1,12 @@
+{
+  "name": "Hotel Rex Belgrade",
+  "city": "Sarajevska 37",
+  "country": "Serbia",
+  "folder": "hotel-rex-belgrade",
+  "rating": 4,
+  "latLng": [
+    44.803042,
+    20.4551169
+  ],
+  "address": "Sarajevska 37, Beograd 11000, Serbia"
+}

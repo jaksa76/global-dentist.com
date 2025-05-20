@@ -1,0 +1,17 @@
+{
+  "doctors": [
+    {
+      "id": "1747628635311-df8ifuab7",
+      "name": "Dr. Mentor Zeqza",
+      "title": "Member of The National Stomatology Order",
+      "licenseNumber": "66434243",
+      "biography": "Expertise\r\nFillings, Cleaning\r\nEducation\r\nWeiss University, Vienna, Austria\r\nTechnical Director of the clinic\r\nMember of The National Stomatology Order",
+      "yearsActive": null,
+      "activeSince": 1997,
+      "specialties": [],
+      "languages": [],
+      "image": null,
+      "createdAt": "2025-05-19T04:23:55.312Z"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Belgrade City Hotel",
+  "city": "Savski trg 7",
+  "country": "Serbia",
+  "folder": "belgrade-city-hotel",
+  "rating": 4.2,
+  "latLng": [
+    44.8084943,
+    20.4575837
+  ],
+  "address": "Savski trg 7, Beograd 110000, Serbia"
+}

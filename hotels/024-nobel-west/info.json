@@ -1,8 +1,26 @@
 {
-    "info": {
-        "name": "Nobel West",
-        "town": "Belgrade",
-        "country": "Serbia",
-        "facilities": []
-    }
+  "info": {
+    "name": "Nobel West",
+    "email": "reservation@nhg.rs",
+    "phone": "+381668091909",
+    "address": "Tošin bunar 168a, Beograd\nSrbija",
+    "town": "Belgrade",
+    "country": "Serbia",
+    "starRating": "4",
+    "description": "Rooms feature air-conditioning",
+    "longDescription": "\nComfortable Accommodations: Rooms feature air-conditioning, private bathrooms, city views, and modern amenities such as free WiFi, flat-screen TVs, and work desks.\n\nExceptional Facilities: Guests enjoy a bar, free WiFi throughout the property, a paid airport shuttle service, elevator, 24-hour front desk, housekeeping, and luggage storage.\n\nDelicious Breakfast: A continental buffet breakfast with vegetarian and gluten-free options includes local specialties, warm dishes, fresh pastries, cheese, fruits, and juice.\n\nPrime Location: Located 4.3 mi from Belgrade Nikola Tesla Airport, near attractions like Belgrade Arena (1.9 mi) and Republic Square (3.7 mi). An ice-skating rink is in the surroundings.",
+    "facilities": [
+      "Elevator",
+      "Guarded parking",
+      "Public parking",
+      "Congress Center",
+      "Wi-Fi",
+      "Fitness",
+      "Massage",
+      "Transfer services",
+      "Pets allowed",
+      "Main restaurant",
+      "A la carte restaurant"
+    ]
+  }
 }

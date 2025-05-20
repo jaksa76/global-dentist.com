@@ -1,0 +1,12 @@
+{
+  "name": "Hilton Garden Inn Tirana",
+  "city": "Bulevardi Gjergj Fishta 146",
+  "country": "Albania",
+  "folder": "hilton-garden-inn-tirana",
+  "rating": 4.6,
+  "latLng": [
+    41.3210708,
+    19.7952311
+  ],
+  "address": "Bulevardi Gjergj Fishta 146, Tiranë, Albania"
+}

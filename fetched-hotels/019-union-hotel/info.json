@@ -1,0 +1,13 @@
+{
+  "name": "Union Hotel",
+  "city": "Çelebi Hamamı Sok No:14",
+  "country": "Türkiye",
+  "folder": "union-hotel",
+  "starRating": null,
+  "rating": 4.9,
+  "latLng": [
+    41.0322492,
+    28.9888078
+  ],
+  "address": "Fındıklı, Çelebi Hamamı Sokak 14, Ömer Avni, Çelebi Hamamı Sok No:14, 34427 Beyoğlu/İstanbul, Türkiye"
+}

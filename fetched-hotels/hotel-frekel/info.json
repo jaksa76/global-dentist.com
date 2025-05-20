@@ -1,0 +1,12 @@
+{
+  "name": "Hotel FREKEL",
+  "city": "Rruga Teodor Keko",
+  "country": "Albania",
+  "folder": "hotel-frekel",
+  "rating": 4.8,
+  "latLng": [
+    41.3304052,
+    19.7845472
+  ],
+  "address": "Rruga Teodor Keko, Tiranë 1051, Albania"
+}

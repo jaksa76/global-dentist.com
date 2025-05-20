@@ -1,0 +1,145 @@
+{
+  "prices": [
+    {
+      "service": "Consultation with maxillofacial surgeon",
+      "price": 30
+    },
+    {
+      "service": "Consultation with orthodontist/aesthetic dentist",
+      "price": 20
+    },
+    {
+      "service": "Filling without nerve removal (1 surface)",
+      "price": 30
+    },
+    {
+      "service": "Filling with 2 surfaces ",
+      "price": 35
+    },
+    {
+      "service": "Filling with 3 surfaces",
+      "price": 41
+    },
+    {
+      "service": "Tooth reconstruction with glass fiber ",
+      "price": 41
+    },
+    {
+      "service": "Nerve removal per canal ",
+      "price": 15
+    },
+    {
+      "service": "Aesthetic filling ",
+      "price": 51
+    },
+    {
+      "service": "Sealant for children (per tooth)",
+      "price": 15
+    },
+    {
+      "service": "Milk tooth filling without nerve removal ",
+      "price": 30
+    },
+    {
+      "service": "Filling with nerve removal for children",
+      "price": 40
+    },
+    {
+      "service": "Treatment of infected tooth ",
+      "price": 81
+    },
+    {
+      "service": "Endodontic retreatment",
+      "price": 81
+    },
+    {
+      "service": "Porcelain crown",
+      "price": 102
+    },
+    {
+      "service": "Monolithic zirconia crown",
+      "price": 204
+    },
+    {
+      "service": "E-max crown",
+      "price": 306
+    },
+    {
+      "service": "E-max veneer ",
+      "price": 357
+    },
+    {
+      "service": "Temporary crown ",
+      "price": 25
+    },
+    {
+      "service": "Full simple denture (upper only) ",
+      "price": 408
+    },
+    {
+      "service": "Simple extraction ",
+      "price": 25
+    },
+    {
+      "service": "Extraction of remaining roots ",
+      "price": 41
+    },
+    {
+      "service": "Surgical extraction",
+      "price": 122
+    },
+    {
+      "service": "Tooth resection ",
+      "price": 153
+    },
+    {
+      "service": "Biopsy lesion Group 1 ",
+      "price": 61
+    },
+    {
+      "service": "Biopsy lesion Group 2 ",
+      "price": 183
+    },
+    {
+      "service": "Biopsy lesion Group 3 ",
+      "price": 367
+    },
+    {
+      "service": "Labial repositioning ",
+      "price": 510
+    },
+    {
+      "service": "Frenuloplasty ",
+      "price": 122
+    },
+    {
+      "service": "Frenulotomy (child)",
+      "price": 61
+    },
+    {
+      "service": "3D Scanner",
+      "price": 81
+    },
+    {
+      "service": "Panoramic X-ray",
+      "price": 20
+    },
+    {
+      "service": "Removable appliance",
+      "price": 510
+    },
+    {
+      "service": "Metal brackets ",
+      "price": 1530
+    },
+    {
+      "service": "Aesthetic brackets",
+      "price": 1734
+    },
+    {
+      "service": "Transparent aligners",
+      "price": 1632
+    }
+  ],
+  "currency": "EUR"
+}

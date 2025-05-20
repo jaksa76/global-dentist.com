@@ -1,0 +1,12 @@
+{
+  "name": "Jupiter Luxury Hotel",
+  "city": "21000",
+  "country": "Croatia",
+  "folder": "jupiter-luxury-hotel",
+  "rating": 3.9,
+  "latLng": [
+    43.5081184,
+    16.4396669
+  ],
+  "address": "Grabovčeva širina 1, 21000, Split, Croatia"
+}

@@ -1,0 +1,105 @@
+{
+  "rooms": [
+    {
+      "name": "Room Assigned on Arrival",
+      "size": 25,
+      "description": "twin bed \r\nFree Wifi",
+      "facilities": [
+        "twin bed",
+        "Free Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 96,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366341603-h8u6q8qh7",
+      "images": []
+    },
+    {
+      "name": "Superior Double or Twin Room",
+      "size": 25,
+      "description": "Free toiletries Safe Toilet Bathtub or shower Hardwood or parquet floors Towels Linens Socket near the bed Hypoallergenic Desk Sitting area TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper Single-room AC for guest accommodation",
+      "facilities": [
+        "Air conditioningAttached bathroomFlat-screen TVSoundproofMinibarFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 129,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366404021-s7xaa7t31",
+      "images": []
+    },
+    {
+      "name": "Economy Double or Twin Room",
+      "size": 25,
+      "description": "Free toiletries Safe Toilet Bathtub or shower Hardwood or parquet floors Towels Linens Socket near the bed Hypoallergenic Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper Single-room AC for guest accommodation",
+      "facilities": [
+        "Air conditioningAttached bathroomFlat-screen TVSoundproofMinibarFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 115,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366472950-iujjtwb4e",
+      "images": []
+    },
+    {
+      "name": "Standard Triple Room",
+      "size": 23,
+      "description": "Free toiletries Safe Toilet Bathtub or shower Hardwood or parquet floors Towels Linens Socket near the bed Hypoallergenic Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper Single-room AC for guest accommodation",
+      "facilities": [
+        "1 room23 m²Inner courtyard viewAir conditioningAttached bathroomFlat-screen TVSoundproofMinibarFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 136,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366531088-58xdminyi",
+      "images": []
+    },
+    {
+      "name": "One-Bedroom Apartment",
+      "size": 33,
+      "description": "Free toiletries Safe Toilet Sofa Bathtub or shower Hardwood or parquet floors Towels Linens Socket near the bed Hypoallergenic Desk Sitting area TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper Sofa bed Single-room AC for guest accommodation",
+      "facilities": [
+        "Entire apartment33 m²Inner courtyard viewAir conditioningAttached bathroomFlat-screen TVSoundproofMinibarFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 178,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747366603837-9bld2qnyp",
+      "images": []
+    }
+  ]
+}

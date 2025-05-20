@@ -1,0 +1,139 @@
+{
+  "rooms": [
+    {
+      "name": "Economy Double Room",
+      "size": 17,
+      "description": "Free toiletries Shower Bathrobe Safe Toilet Towels Linens Socket near the bed Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "king bed",
+        "Free crib available on request",
+        "1 room17 m²City viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 89,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367468448-ohu2parl7",
+      "images": []
+    },
+    {
+      "name": "Superior Double Room",
+      "size": 25,
+      "description": "Free toiletries Shower Bathrobe Safe Toilet Towels Linens Socket near the bed Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "High floor",
+        "1 king bed  and 1 sofa bed",
+        "Free crib available on request",
+        "1 room25 m²City viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 122,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367542900-zewzpc746",
+      "images": []
+    },
+    {
+      "name": "Double Room",
+      "size": 20,
+      "description": "Free toiletries Shower Bathrobe Safe Toilet Towels Linens Socket near the bed Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "High floor",
+        "1 queen bed",
+        "Free crib available on request",
+        "1 room20 m²City viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 100,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367605073-ffxi9ibl6",
+      "images": []
+    },
+    {
+      "name": "Twin Room",
+      "size": 20,
+      "description": "Free toiletries Shower Bathrobe Safe Toilet Towels Linens Socket near the bed Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "High floor",
+        "2 twin beds",
+        "Free crib available on request",
+        "1 room20 m²City viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 2,
+          "included": [],
+          "price": {
+            "value": 107,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367678385-p3wxqxnr9",
+      "images": []
+    },
+    {
+      "name": "Standard Triple Room",
+      "size": 20,
+      "description": "Free toiletries Shower Bathrobe Safe Toilet Towels Linens Socket near the bed Desk TV Slippers Telephone Tea/Coffee maker Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "3 twin beds",
+        "Free crib available on request",
+        "1 room20 m²City viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 3,
+          "included": [],
+          "price": {
+            "value": 118,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367737002-m93ja7r6x",
+      "images": []
+    },
+    {
+      "name": "Economy Single Room",
+      "size": 15,
+      "description": "Free toiletries Shower Bathrobe Toilet Towels Linens Socket near the bed TV Slippers Telephone Heating Hairdryer Electric kettle Cable channels Wake-up service Wardrobe or closet Upper floors accessible by elevator Clothes rack Toilet paper",
+      "facilities": [
+        "1 twin bed",
+        "Free crib available on request",
+        "1 roomCity viewAir conditioningPrivate bathroomFlat-screen TVFree Wifi"
+      ],
+      "offers": [
+        {
+          "guests": 1,
+          "included": [],
+          "price": {
+            "value": 86,
+            "currency": "EUR"
+          }
+        }
+      ],
+      "id": "1747367837431-6kciwvlao",
+      "images": []
+    }
+  ]
+}

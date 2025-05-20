@@ -1,0 +1,145 @@
+{
+  "prices": [
+    {
+      "service": "Specialist examination + Complete clinical documentation (photo, digital scan, status)",
+      "price": 60
+    },
+    {
+      "service": "Smile Design (Wax up) for one jaw + Individual therapy plan",
+      "price": 150
+    },
+    {
+      "service": "Dynamic 4D functional diagnostics by ModJaw",
+      "price": 100
+    },
+    {
+      "service": "Ortopan 2D diagnostics by Instrumentrium",
+      "price": 30
+    },
+    {
+      "service": "CBCT 3D diagnostics by Instrumentarium",
+      "price": 100
+    },
+    {
+      "service": "Implant surgery (Straumann group) and temporary fixed work (Ivoclar) for one jaw",
+      "price": 4680
+    },
+    {
+      "service": "Titanium milled construction Ti5 and Phonares teeth with acrylic (Ivoclar) for one jaw",
+      "price": 2276
+    },
+    {
+      "service": "Straumanngroup zygomatic implant",
+      "price": 3600
+    },
+    {
+      "service": "Neodent GM Helix NeoPoros dental implant by Straumann Group",
+      "price": 790
+    },
+    {
+      "service": "Straumann BLX Roxolid SLActive dental implant by Straumann Group",
+      "price": 990
+    },
+    {
+      "service": "Prosthetic extension – superstructure on the implant",
+      "price": 260
+    },
+    {
+      "service": "Tooth extraction – simple, complicated",
+      "price": 90
+    },
+    {
+      "service": "Alveotomy (wisdom tooth extraction)",
+      "price": 280
+    },
+    {
+      "service": "Apectomy – root tip resection with retrograde filling",
+      "price": 260
+    },
+    {
+      "service": "Sinus lifting – lifting the floor of the maxillary sinus with biomaterial (bone+membrane)",
+      "price": 690
+    },
+    {
+      "service": "Soft tissue graft – SVT free connective graft, SGT free gingival graft",
+      "price": 690
+    },
+    {
+      "service": "Surgical template for implants - scan, design, 3D print",
+      "price": 300
+    },
+    {
+      "service": "Cystectomy – removal of the cyst with root resection",
+      "price": 690
+    },
+    {
+      "service": "GBR – guided bone regeneration with biomaterial by Botiss",
+      "price": 300
+    },
+    {
+      "service": "Dental crown (ceramic/zirconium) by Ivoclar / by Shofu",
+      "price": 360
+    },
+    {
+      "service": "Veneers, Table Top (e.max/empress) by Ivoclar",
+      "price": 360
+    },
+    {
+      "service": "Temporary crown PMMA labor by Ivoclar",
+      "price": 60
+    },
+    {
+      "service": "Teeth whitening ZOOM lamp by Philips ZOOM – one jaw",
+      "price": 270
+    },
+    {
+      "service": "Tooth crown lengthening (guide) by Mectron",
+      "price": 180
+    },
+    {
+      "service": "Metal fixed braces per jaw by Forestadent",
+      "price": 1300
+    },
+    {
+      "service": "Ceramic fixed braces per jaw by Forestadent",
+      "price": 1600
+    },
+    {
+      "service": "Aligners Clear Correct by Straumann group",
+      "price": 1600
+    },
+    {
+      "service": "Composite filling – filling by Ivocar",
+      "price": 90
+    },
+    {
+      "service": "Root canal treatment – ​​endodontics by VDW / by Maillefer",
+      "price": 90
+    },
+    {
+      "service": "Root canal treatment revision by VDW / by Maillefer",
+      "price": 120
+    },
+    {
+      "service": "Dental crown upgrade",
+      "price": 80
+    },
+    {
+      "service": "Cleaning tartar from the jaw",
+      "price": 40
+    },
+    {
+      "service": "Sandblasting (pigmentation removal) on the jaw",
+      "price": 40
+    },
+    {
+      "service": "Initial steam therapy for the jaw",
+      "price": 180
+    },
+    {
+      "service": "Periodontal recall",
+      "price": 100
+    }
+  ],
+  "currency": "EUR"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "Santa Sophia Hotel",
+  "city": "Emin Sinan Hamamı Sk. No:2",
+  "country": "Türkiye",
+  "folder": "santa-sophia-hotel",
+  "starRating": null,
+  "rating": 3.5,
+  "latLng": [
+    41.0071469,
+    28.9706961
+  ],
+  "address": "Emin Sinan, Emin Sinan Hamamı Sk. No:2, 34126 Sultanahmet/Fatih/Fatih/İstanbul, Türkiye"
+}

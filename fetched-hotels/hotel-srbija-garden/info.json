@@ -1,0 +1,12 @@
+{
+  "name": "Hotel Srbija Garden",
+  "city": "Brankova 13-15",
+  "country": "Serbia",
+  "folder": "hotel-srbija-garden",
+  "rating": 4.2,
+  "latLng": [
+    44.8145943,
+    20.4555023
+  ],
+  "address": "Brankova 13-15, Beograd, Serbia"
+}

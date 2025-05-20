@@ -1,0 +1,189 @@
+{
+  "prices": [
+    {
+      "service": "Dental Implants",
+      "price": 362
+    },
+    {
+      "service": "Titanium Implant",
+      "price": 362
+    },
+    {
+      "service": "Titanium Implant  Abutment",
+      "price": 464
+    },
+    {
+      "service": "Titanium Implant + Abutment + Crown",
+      "price": 705
+    },
+    {
+      "service": "Mini Dental Implant+ Abutment",
+      "price": 603
+    },
+    {
+      "service": "All-on-4 Dental Implants+ Fixed Bridge per arch",
+      "price": 4194
+    },
+    {
+      "service": "All-on-6 Dental Implants+ Fixed Bridge per arch",
+      "price": 5697
+    },
+    {
+      "service": "Same-Day Implant+ Crown",
+      "price": 552
+    },
+    {
+      "service": "Bone graft Per quadrant",
+      "price": 320
+    },
+    {
+      "service": "Bone graft Full arch",
+      "price": 469
+    },
+    {
+      "service": "Sinus Lifting",
+      "price": 997
+    },
+    {
+      "service": " Porcelain Bridge  Permanent bridge per jaw",
+      "price": 4528
+    },
+    {
+      "service": "Porcelain emax crown",
+      "price": 292
+    },
+    {
+      "service": "Full Porcelain Crown",
+      "price": 269
+    },
+    {
+      "service": "Ceramic Crown",
+      "price": 241
+    },
+    {
+      "service": "Zirconium Crown",
+      "price": 283
+    },
+    {
+      "service": "Temporary Acrylic Crown",
+      "price": 14
+    },
+    {
+      "service": "Abutment",
+      "price": 102
+    },
+    {
+      "service": "Root Canal Anterior",
+      "price": 19
+    },
+    {
+      "service": "Root Canal Pre molar ",
+      "price": 51
+    },
+    {
+      "service": "Root Canal Molar",
+      "price": 41
+    },
+    {
+      "service": "Root Canal RetreatmentAny tooth",
+      "price": 199
+    },
+    {
+      "service": "Post/Core Build-Up",
+      "price": 93
+    },
+    {
+      "service": "Composite Filling",
+      "price": 148
+    },
+    {
+      "service": "Temporary Filling",
+      "price": 70
+    },
+    {
+      "service": "Extraction Simple",
+      "price": 42
+    },
+    {
+      "service": "Extraction Surgical",
+      "price": 121
+    },
+    {
+      "service": "Wisdom Tooth Extraction Simple",
+      "price": 148
+    },
+    {
+      "service": "Wisdom Tooth Extraction Fully Impacted",
+      "price": 181
+    },
+    {
+      "service": "Snap-on-Denture + 4 implants per arch",
+      "price": 3521
+    },
+    {
+      "service": "Temporary Acrylic Full Denture Immediate",
+      "price": 724
+    },
+    {
+      "service": "Temporary Acrylic Partial Denture Immediate",
+      "price": 139
+    },
+    {
+      "service": "Regular teeth cleaning ",
+      "price": 70
+    },
+    {
+      "service": "Perio - Maintenance Cleaning",
+      "price": 51
+    },
+    {
+      "service": "Perio - Scaling & Root Planing Per quadrant",
+      "price": 51
+    },
+    {
+      "service": "LANAP Per quadrant",
+      "price": 93
+    },
+    {
+      "service": "Laser Teeth Whitening",
+      "price": 148
+    },
+    {
+      "service": "Teeth Whitening In office",
+      "price": 93
+    },
+    {
+      "service": "Fixed Metal Braces + Monthly adjustment fees",
+      "price": 1410
+    },
+    {
+      "service": "Fixed Clear Braces + Monthly adjustment fees",
+      "price": 1809
+    },
+    {
+      "service": "Invisalign Per jaw",
+      "price": 2598
+    },
+    {
+      "service": "Panoramic X-Rays ",
+      "price": 19
+    },
+    {
+      "service": "CT Scan/3D Scan",
+      "price": 19
+    },
+    {
+      "service": "Occlusal Mouth Guard",
+      "price": 102
+    },
+    {
+      "service": "Local Anesthetics",
+      "price": 5
+    },
+    {
+      "service": "Gas Sedation Nitrous oxide",
+      "price": 455
+    }
+  ],
+  "currency": "EUR"
+}

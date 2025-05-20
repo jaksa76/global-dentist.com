@@ -1,9 +1,27 @@
 {
   "info": {
     "name": "Nobel Gallery",
+    "email": "info.gallery@nhg.rs",
+    "phone": "+381666999500",
+    "address": "Višegradska 23, Beograd\nSrbija",
     "town": "Belgrade",
     "country": "Serbia",
-    "facilities": [],
-    "starRating": 4
+    "starRating": 4,
+    "description": " Rooms feature air-conditioning, private",
+    "longDescription": "Rooms feature air-conditioning, private bathrooms, and modern amenities such as free WiFi, mini-bars, and soundproofing. Guests enjoy balconies with inner courtyard views, work desks, and parquet floors.\n\nThe modern restaurant serves international cuisine with vegetarian options. Breakfast includes continental, buffet, and gluten-free selections, featuring local specialties, fresh pastries, and fruits. Additional dining options include brunch, lunch, dinner, high tea, and cocktails.\n\nConvenient Location: Located in Belgrade, the hotel is 7.5 mi from Belgrade Nikola Tesla Airport. Nearby attractions include Temple of Saint Sava (17-minute walk), Belgrade Train Station (1.2 mi), and Belgrade Fair (1.2 mi). Surroundings offer an ice-skating rink and boating.\n\nGuests appreciate the friendly staff, excellent service, and convenient location. Private check-in and check-out, 24-hour front desk, and full-day security ensure a comfortable stay.",
+    "facilities": [
+      "Elevator",
+      "Guarded parking",
+      "Public parking",
+      "Garage",
+      "Congress Center",
+      "Wi-Fi",
+      "Fitness",
+      "Massage",
+      "Transfer services",
+      "Pets allowed",
+      "Main restaurant",
+      "A la carte"
+    ]
   }
 }

@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "1747806773413-0qxcrfb0x",
+      "description": "Orthodontics",
+      "beforeImage": "1747806773276-ortodoncia_family_.png",
+      "afterImage": "1747806773380-ortodoncia_family_.png",
+      "createdAt": "2025-05-21T05:52:53.413Z"
+    },
+    {
+      "id": "1747806783497-21xx603zl",
+      "description": "Orthodontics",
+      "beforeImage": "1747806783403-Screenshot_2025-05-21_085210.png",
+      "afterImage": "1747806783471-Screenshot_2025-05-21_085210.png",
+      "createdAt": "2025-05-21T05:53:03.497Z"
+    }
+  ]
+}

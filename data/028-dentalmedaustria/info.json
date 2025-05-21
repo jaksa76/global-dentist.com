@@ -4,7 +4,29 @@
     "email": "dentalmedaustria@gmail.com",
     "phone": "+355 67 556 2354",
     "address": "Rruga Sami Frasheri\nTirane, Albania",
-    "description": "Operating since 2009",
+    "description": "The Dental Med Travel has been operating in the oral health service since 2009",
     "longDescription": "\nThe Dental Med Austria has been operating since 2009 in Tirana, Albania, with the aim of providing a wide range of dental services to solve various oral health problems.\n\nTheir team of doctors consists of dentists and maxillofacial surgeons who have specialized in the most prestigious universities in Europe and in various branches of dentistry.\n\nThey use high-quality dental products: dental implants, crowns, aesthetic veneers, all made in Germany and equipped with a guarantee, CE certificate and implant passport."
-  }
+  },
+  "images": [
+    {
+      "id": "1747803919105-1l3xrxv40",
+      "filename": "1747803918913-dental_med_4.png",
+      "originalname": "dental med 4.png"
+    },
+    {
+      "id": "1747803919105-zi1ycaxfv",
+      "filename": "1747803919047-dental_med_3.png",
+      "originalname": "dental med 3.png"
+    },
+    {
+      "id": "1747803919105-gmri8631r",
+      "filename": "1747803919076-dental_med2.png",
+      "originalname": "dental med2.png"
+    },
+    {
+      "id": "1747803919105-d06970m46",
+      "filename": "1747803919100-dental_med_1.png",
+      "originalname": "dental med 1.png"
+    }
+  ]
 }

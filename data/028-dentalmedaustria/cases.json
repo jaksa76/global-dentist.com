@@ -1,0 +1,25 @@
+{
+  "cases": [
+    {
+      "id": "1747805327341-x1pj5zgg0",
+      "description": "restauration",
+      "beforeImage": "1747805327275-before_and_after_dental_med.png",
+      "afterImage": "1747805327317-before_and_after_dental_med.png",
+      "createdAt": "2025-05-21T05:28:47.341Z"
+    },
+    {
+      "id": "1747805351758-sd8kcqvs4",
+      "description": "Bleaching",
+      "beforeImage": "1747805351627-dental_med__patient_3.png",
+      "afterImage": "1747805351726-dental_med__patient_3.png",
+      "createdAt": "2025-05-21T05:29:11.758Z"
+    },
+    {
+      "id": "1747805407848-pog6mefdx",
+      "description": "Smile Desing",
+      "beforeImage": "1747805407658-dental_med_5.png",
+      "afterImage": "1747805407811-dental_med_5.png",
+      "createdAt": "2025-05-21T05:30:07.848Z"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "info": {
+    "name": "Neo Dental Clinic ",
+    "email": "Neodentale@gmail.com",
+    "phone": "+355 69 209 0106",
+    "address": "Rruga muzaket, Don bosko, Tirana, Albania",
+    "description": "Neo Dental Clinic is a state-of-the-art dental clinic and laboratory located in Tirana.",
+    "longDescription": "Neo Dental Clinic is a state-of-the-art dental clinic and laboratory located in Tirana. Our clinic specializes in oral implantology, aesthetic dentistry and orthodontics. We have been providing high-quality dental treatments for 10 years with the utmost care for our patients, always using the best quality materials."
+  },
+  "images": [
+    {
+      "id": "1747803536853-7kqpqigdc",
+      "filename": "1747803536750-neo_clinica_2.png",
+      "originalname": "neo clinica 2.png"
+    },
+    {
+      "id": "1747803536853-bvn6cfl5b",
+      "filename": "1747803536827-neo_clinica.png",
+      "originalname": "neo clinica.png"
+    }
+  ]
+}

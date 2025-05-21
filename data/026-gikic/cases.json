@@ -1,0 +1,25 @@
+{
+  "cases": [
+    {
+      "id": "1747805891536-odtqtlhec",
+      "description": "all on 6",
+      "beforeImage": "1747805891435-before_1.png",
+      "afterImage": "1747805891511-after_11.png",
+      "createdAt": "2025-05-21T05:38:11.536Z"
+    },
+    {
+      "id": "1747805911494-bj2h5dibw",
+      "description": "all on 6",
+      "beforeImage": "1747805911392-after_1.png",
+      "afterImage": "1747805911466-after_22.png",
+      "createdAt": "2025-05-21T05:38:31.494Z"
+    },
+    {
+      "id": "1747805932919-jdk8ul567",
+      "description": "all on 6",
+      "beforeImage": "1747805932877-before_2.png",
+      "afterImage": "1747805932888-after_2.png",
+      "createdAt": "2025-05-21T05:38:52.919Z"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "cases": [
+    {
+      "id": "1747803323600-b30q6vefq",
+      "description": "Implants",
+      "beforeImage": "1747803323564-neo_dental.png",
+      "afterImage": "1747803323579-Neo_dental_1.png",
+      "createdAt": "2025-05-21T04:55:23.600Z"
+    },
+    {
+      "id": "1747803347979-dxn9ylxqp",
+      "description": "cleaning",
+      "beforeImage": "1747803347916-neodental_3.png",
+      "afterImage": "1747803347950-neo_dental_4.png",
+      "createdAt": "2025-05-21T04:55:47.979Z"
+    },
+    {
+      "id": "1747803400021-oifp08xao",
+      "description": "Implants",
+      "beforeImage": "1747803399979-neo_dental_5.png",
+      "afterImage": "1747803400000-neodental_6.png",
+      "createdAt": "2025-05-21T04:56:40.021Z"
+    },
+    {
+      "id": "1747803427051-ui6xyn0vo",
+      "description": "implants",
+      "beforeImage": "1747803426964-neodental_7.png",
+      "afterImage": "1747803427013-neodental_8.png",
+      "createdAt": "2025-05-21T04:57:07.051Z"
+    }
+  ]
+}

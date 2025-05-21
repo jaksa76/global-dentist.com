@@ -1,0 +1,53 @@
+{
+  "cases": [
+    {
+      "id": "1747798337879-615zacykd",
+      "description": "Restauration",
+      "beforeImage": "1747798337743-vive_dental_7.png",
+      "afterImage": "1747798337842-vive_dental_7.png",
+      "createdAt": "2025-05-21T03:32:17.879Z"
+    },
+    {
+      "id": "1747798363027-tg9yobs8l",
+      "description": "implant",
+      "beforeImage": "1747798362606-vive_dental_5.png",
+      "afterImage": "1747798362982-vive_dental_5.png",
+      "createdAt": "2025-05-21T03:32:43.027Z"
+    },
+    {
+      "id": "1747798395547-mwdt7k5fb",
+      "description": "Smile Desing",
+      "beforeImage": "1747798395475-vive_dental_6.png",
+      "afterImage": "1747798395483-vive_dental_6.png",
+      "createdAt": "2025-05-21T03:33:15.547Z"
+    },
+    {
+      "id": "1747798424095-576gfzgpn",
+      "description": "Composite",
+      "beforeImage": "1747798423998-vive_dental_4.png",
+      "afterImage": "1747798424064-vive_dental_4.png",
+      "createdAt": "2025-05-21T03:33:44.095Z"
+    },
+    {
+      "id": "1747798452815-gjcpn36gs",
+      "description": "Composite",
+      "beforeImage": "1747798452750-vive_dental__3.png",
+      "afterImage": "1747798452759-vive_dental__3.png",
+      "createdAt": "2025-05-21T03:34:12.815Z"
+    },
+    {
+      "id": "1747798483978-4l32voa90",
+      "description": "Restauration",
+      "beforeImage": "1747798483810-vive_dental_2.png",
+      "afterImage": "1747798483946-vive_dental_2.png",
+      "createdAt": "2025-05-21T03:34:43.978Z"
+    },
+    {
+      "id": "1747798508723-ohnidhwkl",
+      "description": "Zirconio",
+      "beforeImage": "1747798508506-vive_dental.png",
+      "afterImage": "1747798508648-vive_dental.png",
+      "createdAt": "2025-05-21T03:35:08.723Z"
+    }
+  ]
+}

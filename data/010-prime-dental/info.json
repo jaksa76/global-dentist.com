@@ -1,0 +1,47 @@
+{
+  "info": {
+    "name": "Prime Dental Studio",
+    "email": "info@primedental.rs",
+    "phone": "061 1022886",
+    "address": "Bulevar Mihajla Pupina 7, Belgrade, Serbia",
+    "description": "\nWelcome to\nPrime Dental Studio",
+    "longDescription": "\nWelcome to\nPrime Dental Studio"
+  },
+  "images": [
+    {
+      "id": "1748147111132-v2sra2ayn",
+      "filename": "1748147110961-prime_dental_19_.png",
+      "originalname": "prime dental 19 .png"
+    },
+    {
+      "id": "1748147111132-9txge6rkj",
+      "filename": "1748147111055-prime_dentap_16_.png",
+      "originalname": "prime dentap 16 .png"
+    },
+    {
+      "id": "1748147111132-4s72p6gbh",
+      "filename": "1748147111072-prime_dental_13.png",
+      "originalname": "prime dental 13.png"
+    },
+    {
+      "id": "1748147111132-32e6b7bce",
+      "filename": "1748147111128-prime_detnal_12.png",
+      "originalname": "prime detnal 12.png"
+    },
+    {
+      "id": "1748147111132-zd8xxrpwz",
+      "filename": "1748147111128-prime_dental_11.png",
+      "originalname": "prime dental 11.png"
+    },
+    {
+      "id": "1748147111132-nsn119ntz",
+      "filename": "1748147111130-prime_dental_10__.png",
+      "originalname": "prime dental 10  .png"
+    },
+    {
+      "id": "1748147111132-lpva8p7eh",
+      "filename": "1748147111130-prime_dental_9_.png",
+      "originalname": "prime dental 9 .png"
+    }
+  ]
+}

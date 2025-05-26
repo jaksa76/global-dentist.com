@@ -1,0 +1,15 @@
+{
+  "id": "ChIJ-bgLffxdNRMR3O3Paflzwhg",
+  "name": "Dental clinic",
+  "folder": "dental-clinic",
+  "description": "Ul. Antuna Gustava Matoša 2, 21000, Split, Croatia",
+  "longDescription": "",
+  "rating": 3.2,
+  "country": "Croatia",
+  "town": "Split",
+  "latLng": [
+    43.513269,
+    16.4348636
+  ],
+  "address": "Ul. Antuna Gustava Matoša 2, 21000, Split, Croatia"
+}

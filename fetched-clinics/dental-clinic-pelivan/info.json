@@ -1,0 +1,15 @@
+{
+  "id": "ChIJCUqREHFfNRMRnlEdXLKet3o",
+  "name": "Dental Clinic Pelivan",
+  "folder": "dental-clinic-pelivan",
+  "description": "Put Radoševca 34, 21000, Split, Croatia",
+  "longDescription": "",
+  "rating": 4.6,
+  "country": "Croatia",
+  "town": "Split",
+  "latLng": [
+    43.5034757,
+    16.4737025
+  ],
+  "address": "Put Radoševca 34, 21000, Split, Croatia"
+}

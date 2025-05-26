@@ -1,0 +1,15 @@
+{
+  "id": "ChIJw7E54EplWkcRmGR2f6PZRcw",
+  "name": "Dental Plaza",
+  "folder": "dental-plaza",
+  "description": "Skenderbegova 3, Beograd 11000, Serbia",
+  "longDescription": "",
+  "rating": 4.4,
+  "country": "Serbia",
+  "town": "Belgrade",
+  "latLng": [
+    44.82457,
+    20.4598546
+  ],
+  "address": "Skenderbegova 3, Beograd 11000, Serbia"
+}

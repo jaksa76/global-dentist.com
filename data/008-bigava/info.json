@@ -1,11 +1,59 @@
 {
-"info":{
-  "name": "Croatia Dental Care dr Bigava Maršić",
-  "description": "A satisfied and smiling patient is our goal!",
-  "longDescription": "A satisfied and smiling patient is our goal!",
-  "email": "bigava1905@gmail.com",
-  "phone": "00385915209059",
-  "town": "Split",
-  "country": "Croatia"
-}
+  "info": {
+    "name": "Croatia Dental Care dr Bigava Maršić",
+    "description": "A satisfied and smiling patient is our goal!",
+    "longDescription": "We provide our patients with the best dental solutions. Individual approach, oral hygiene education, high-quality materials and a guarantee for all implantology and prosthetic work.\n The office is specialized in the field of aesthetic restorative dental medicine and implantology, which is confirmed by its many years of experience.",
+    "email": "bigava1905@gmail.com",
+    "phone": "00385915209059",
+    "town": "Split",
+    "country": "Croatia",
+    "address": "Croatia Dental Care by Dr. Suzana Bigava Maršić © 2019"
+  },
+  "images": [
+    {
+      "id": "1747892930945-ed6fofgbq",
+      "filename": "1747892930740-bigava_10_.png",
+      "originalname": "bigava 10 .png"
+    },
+    {
+      "id": "1747892930945-h9vg0un91",
+      "filename": "1747892930834-bigava_9.png",
+      "originalname": "bigava 9.png"
+    },
+    {
+      "id": "1747892930945-gvfz1uznq",
+      "filename": "1747892930868-bigava_8.png",
+      "originalname": "bigava 8.png"
+    },
+    {
+      "id": "1747892930945-xkul0qe2h",
+      "filename": "1747892930888-bigava_7_.png",
+      "originalname": "bigava 7 .png"
+    },
+    {
+      "id": "1747892930945-2mmtv8sbh",
+      "filename": "1747892930903-bigava_6_.png",
+      "originalname": "bigava 6 .png"
+    },
+    {
+      "id": "1747892930945-3ip7da8nq",
+      "filename": "1747892930913-bigava_5_.png",
+      "originalname": "bigava 5 .png"
+    },
+    {
+      "id": "1747892930945-697uky3od",
+      "filename": "1747892930925-bigava_3_.png",
+      "originalname": "bigava 3 .png"
+    },
+    {
+      "id": "1747892930945-eiax7zuzo",
+      "filename": "1747892930933-bigava_2.png",
+      "originalname": "bigava 2.png"
+    },
+    {
+      "id": "1747892930945-3ujw4y8ki",
+      "filename": "1747892930939-bigava.png",
+      "originalname": "bigava.png"
+    }
+  ]
 }

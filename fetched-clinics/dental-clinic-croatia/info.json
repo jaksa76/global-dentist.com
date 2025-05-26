@@ -1,0 +1,15 @@
+{
+  "id": "ChIJ1YJjaZHXZUcR1txT58RGXPk",
+  "name": "Dental Clinic Croatia",
+  "folder": "dental-clinic-croatia",
+  "description": "Aleksandra Hondla 2b, 10000, Zagreb, Croatia",
+  "longDescription": "",
+  "rating": 5,
+  "country": "Croatia",
+  "town": "Zagreb",
+  "latLng": [
+    45.8191009,
+    16.0224777
+  ],
+  "address": "Aleksandra Hondla 2b, 10000, Zagreb, Croatia"
+}

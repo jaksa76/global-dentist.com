@@ -1,0 +1,17 @@
+{
+  "doctors": [
+    {
+      "id": "1747892663554-0ff55qbpj",
+      "name": "Maria Pelivan",
+      "title": "Dr",
+      "licenseNumber": "58679707",
+      "biography": "Marija Pelivan was born on July 29, 1988 in Split, where she completed primary school and high school. She completed her studies in dental medicine at the Faculty of Medicine in 2015. After passing the state exam, she worked in a private specialist practice where she gained knowledge in the fields of orthodontics, surgery and prosthetics. She opened her own private practice in 2020. She is a member of the Croatian Dental Chamber. She regularly improves and supplements the knowledge she gained at the faculty at congresses and courses in the country and abroad. Her clinical focus is on orthodontics and interdisciplinary cooperation in more complex cases of implant-prosthetic rehabilitation, pre-surgical and periodontal/orthodontic therapy.",
+      "yearsActive": null,
+      "activeSince": null,
+      "specialties": [],
+      "languages": [],
+      "image": "1747892663485-doctora_pelivan.png",
+      "createdAt": "2025-05-22T05:44:23.554Z"
+    }
+  ]
+}

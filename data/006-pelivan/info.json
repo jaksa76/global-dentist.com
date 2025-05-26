@@ -6,6 +6,34 @@
     "email": "dental.clinic.pelivan@gmail.com",
     "phone": "+385976031149",
     "town": "Split",
-    "country": "Croatia"
-  }
+    "country": "Croatia",
+    "address": "Put Radosevac 34, Split, Croatia"
+  },
+  "images": [
+    {
+      "id": "1747892546312-jbwpk9wpb",
+      "filename": "1747892546145-pelivan_10_.png",
+      "originalname": "pelivan 10 .png"
+    },
+    {
+      "id": "1747892546312-qgfuafqdt",
+      "filename": "1747892546232-pelivan_9.png",
+      "originalname": "pelivan 9.png"
+    },
+    {
+      "id": "1747892546312-24zyu3k0f",
+      "filename": "1747892546266-pelivan_5.png",
+      "originalname": "pelivan 5.png"
+    },
+    {
+      "id": "1747892546312-x5kvddi9m",
+      "filename": "1747892546278-pelivan_4.png",
+      "originalname": "pelivan 4.png"
+    },
+    {
+      "id": "1747892546312-a7gkeviu3",
+      "filename": "1747892546297-pelivan.png",
+      "originalname": "pelivan.png"
+    }
+  ]
 }

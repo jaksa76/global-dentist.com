@@ -1,11 +1,29 @@
 {
   "info": {
     "name": "Biodent",
-    "description": "Dentisti in Albania",
-    "longDescription": "Dentisti in Albania",
+    "description": "Dentists  in Albania at Biodent Dental Clinic  are pioneers in the field of  dental tourism , boasting more than 15 years of experience with patients coming not only from Europe, but also from America.",
+    "longDescription": "Dentists  in Albania at Biodent Dental Clinic  are pioneers in the field of  dental tourism , boasting more than 15 years of experience with patients coming not only from Europe, but also from America.\n\nWe also have several active collaborations with  dental clinics  throughout the country. A calm and friendly environment, composed of the best professionals in the sector who will take care of the patient from his  arrival in Tirana .\n\nWe use state-of-the-art machinery, we meticulously choose our products and we guarantee every service provided through appropriate certification, such as the  implant passport .",
     "email": "info@biodent.al",
     "phone": "+355692081888",
     "town": "Tirana",
-    "country": "Albania"
-  }
+    "country": "Albania",
+    "address": "nr 4, Rruga Ilo Mitkë Qafzezi, Tiranë 1001, Albania"
+  },
+  "images": [
+    {
+      "id": "1747891712475-w5y8f2fxt",
+      "filename": "1747891712434-biodent.png",
+      "originalname": "biodent.png"
+    },
+    {
+      "id": "1747891915892-t1qtu08xb",
+      "filename": "1747891915763-biodent_4.png",
+      "originalname": "biodent 4.png"
+    },
+    {
+      "id": "1748244504683-3p4nkrkbh",
+      "filename": "1748244504619-Dr-Alushi-Drssa-Mamaj-dentisti-in-Albania-1.png",
+      "originalname": "Dr-Alushi-Drssa-Mamaj-dentisti-in-Albania-1.png"
+    }
+  ]
 }

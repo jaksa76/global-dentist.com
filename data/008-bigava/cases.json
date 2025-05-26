@@ -1,0 +1,18 @@
+{
+  "cases": [
+    {
+      "id": "1747893744935-ad8mhhaid",
+      "description": "Implant ",
+      "beforeImage": "1747893744862-implant_bigava_.png",
+      "afterImage": "1747893744903-implant_bigava_2.png",
+      "createdAt": "2025-05-22T06:02:24.935Z"
+    },
+    {
+      "id": "1747893760514-pqfwypnrz",
+      "description": "Implant ",
+      "beforeImage": "1747893760463-implant_bigava_4.png",
+      "afterImage": "1747893760500-implant_bigava_6.png",
+      "createdAt": "2025-05-22T06:02:40.514Z"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "prices": [
+    {
+      "service": "PATIENT EXAMINATION",
+      "price": 20
+    },
+    {
+      "service": "ORTHODONTIC EXAMINATION",
+      "price": 38
+    },
+    {
+      "service": "SINGLE-LAYER COMPOSITE FILLING",
+      "price": 35
+    },
+    {
+      "service": "DOUBLE-SIDED COMPOSITE FILLING",
+      "price": 43
+    },
+    {
+      "service": "TRIPLE-SIDED COMPOSITE FILLING",
+      "price": 52
+    },
+    {
+      "service": "TOOTH UPGRADE",
+      "price": 83
+    },
+    {
+      "service": "AESTHETIC COMPOSITE WALL",
+      "price": 53
+    },
+    {
+      "service": "TREPANATION OF TOOTH",
+      "price": 32
+    },
+    {
+      "service": "INSTRUMENTATION AND ENDODONTIC TREATMENT PER CANAL",
+      "price": 43
+    },
+    {
+      "service": "ENDODONTIC FILLING BY CANAL",
+      "price": 60
+    },
+    {
+      "service": "CHANGE OF INTRACANAL MEDICATION",
+      "price": 31
+    },
+    {
+      "service": "LOCAL ANESTHESIA",
+      "price": 17
+    },
+    {
+      "service": "CONDUCTION ANESTHESIA",
+      "price": 19
+    },
+    {
+      "service": "INTRALIGAMENTARY ANESTHESIA",
+      "price": 18
+    },
+    {
+      "service": "RECIPES",
+      "price": 12
+    },
+    {
+      "service": "VITALITY TEST",
+      "price": 0
+    },
+    {
+      "service": "CURETAGE WITH ANESTHESIA PER TOOTH",
+      "price": 53
+    },
+    {
+      "service": "TOOTH EXTRACTION",
+      "price": 18
+    },
+    {
+      "service": "STOPPING BLEEDING BY SUTURING",
+      "price": 27
+    },
+    {
+      "service": "SUTURE REMOVAL",
+      "price": 12
+    },
+    {
+      "service": "DIFFICULT TEETHING INCISION",
+      "price": 60
+    },
+    {
+      "service": "ABSCESS INCISION",
+      "price": 45
+    },
+    {
+      "service": "TOOTH APICOTOMY",
+      "price": 222
+    },
+    {
+      "service": "SINUS LIFTING",
+      "price": 777
+    },
+    {
+      "service": "FUNCTIONAL ANALYSIS AND DIAGNOSTICS",
+      "price": 99
+    },
+    {
+      "service": "METAL OVERHAUL:",
+      "price": 67
+    },
+    {
+      "service": "ACRYLIC PROSTHESIS",
+      "price": 444
+    },
+    {
+      "service": "ACRYLIC MESH PROSTHESIS",
+      "price": 533
+    },
+    {
+      "service": "ACETAL DENTURE WITH WHITE CLIPS",
+      "price": 888
+    },
+    {
+      "service": "VIRONIT PROSTHESIS",
+      "price": 777
+    },
+    {
+      "service": "DRUKER LINK",
+      "price": 222
+    },
+    {
+      "service": "TELESCOPIC CROWNS",
+      "price": 311
+    },
+    {
+      "service": "BOOT SYSTEM FOR BRACES WITHOUT A HOOK PER PAIR",
+      "price": 193
+    },
+    {
+      "service": "CLEANING AFTER DENTURES",
+      "price": 28
+    },
+    {
+      "service": "PROSTHESIS LAYING",
+      "price": 100
+    },
+    {
+      "service": "FROG.. up to 3 TEETH",
+      "price": 127
+    },
+    {
+      "service": "CERAMIC VENEER REPAIR",
+      "price": 52
+    },
+    {
+      "service": "REPAIR AND TOOTH IN PROSTHESIS",
+      "price": 52
+    },
+    {
+      "service": "TEMPORARY BRIDGE DIRECT/INDIRECT METHOD BY MEMBER",
+      "price": 17
+    },
+    {
+      "service": "ZIRCON UPGRADE:",
+      "price": 82
+    },
+    {
+      "service": "CERAMIC CROWN/WALL EMAX METAL-FREE",
+      "price": 400
+    },
+    {
+      "service": "ZIRCON CERAMIC CROWN WITHOUT METAL",
+      "price": 288
+    },
+    {
+      "service": "INLAY/ONLAY/OVERLAY",
+      "price": 333
+    },
+    {
+      "service": "TEMPORARY PMMA CROWN",
+      "price": 66
+    },
+    {
+      "service": "IMPLANT WITHOUT SUPERSTRUCTURE",
+      "price": 444
+    },
+    {
+      "service": "ALL ON 4",
+      "price": 6000
+    },
+    {
+      "service": "ALL ON 6",
+      "price": 6200
+    },
+    {
+      "service": "IMPLANT ABUTMENT",
+      "price": 333
+    },
+    {
+      "service": "DENTAL JEWELRY",
+      "price": 44
+    },
+    {
+      "service": "HYALURONIC FILLERS",
+      "price": 238
+    }
+  ],
+  "currency": "EUR"
+}

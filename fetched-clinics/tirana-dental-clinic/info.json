@@ -1,0 +1,15 @@
+{
+  "id": "ChIJu4tyRKoxUBMR--m375-bkAQ",
+  "name": "Tirana Dental Clinic",
+  "folder": "tirana-dental-clinic",
+  "description": "Rruga Myslym Shyri, Tiranë 1024, Albania",
+  "longDescription": "",
+  "rating": 5,
+  "country": "Albania",
+  "town": "Tirana",
+  "latLng": [
+    41.323757,
+    19.8050765
+  ],
+  "address": "Rruga Myslym Shyri, Tiranë 1024, Albania"
+}

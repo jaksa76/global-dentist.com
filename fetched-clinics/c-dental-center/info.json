@@ -1,0 +1,15 @@
+{
+  "id": "ChIJ2VLQq5l6WkcRKKmUt7Q2adQ",
+  "name": "C Dental Center",
+  "folder": "c-dental-center",
+  "description": "Cvijićeva 130, Beograd 11000, Serbia",
+  "longDescription": "",
+  "rating": 4.2,
+  "country": "Serbia",
+  "town": "Belgrade",
+  "latLng": [
+    44.8083243,
+    20.4815917
+  ],
+  "address": "Cvijićeva 130, Beograd 11000, Serbia"
+}

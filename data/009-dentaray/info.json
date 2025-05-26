@@ -1,11 +1,29 @@
 {
   "info": {
-  "name": "Dentaray",
-  "description": "Committed To Excellence",
-  "longDescription": "Committed To Excellence",
-  "email": "info@dentarayclinic.com",
-  "phone": "+90 536 774 35 76",
-  "town": "Istanbul",
-  "country": "Turkey"
-}
+    "name": "Dentaray",
+    "description": "Committed To Excellence",
+    "longDescription": "Dentaray clinic in Istanbul, Established in 2016, Is one of the luxurious dental clinics in Turkey who aims to provide high-quality dental services for its patients, Our operations vary from dental implants to aesthetic dentistry.\nOur slogan is “You Smile..We Smile” which is our main value, to make people smile again and forever.",
+    "email": "info@dentarayclinic.com",
+    "phone": "+90 536 774 35 76",
+    "town": "Istanbul",
+    "country": "Turkey",
+    "address": "Dentaray clinic in Istanbul, Established in 2016, Is one of the luxurious dental clinics in Turkey who aims to provide high-quality dental services for its patients, Our operations vary from dental implants to aesthetic dentistry.\nOur slogan is “You Smile..We Smile” which is our main value, to make people smile again and forever."
+  },
+  "images": [
+    {
+      "id": "1748146249034-05hv3vbgv",
+      "filename": "1748146248962-dentaray_3.png",
+      "originalname": "dentaray 3.png"
+    },
+    {
+      "id": "1748146249035-f1ibs1ukw",
+      "filename": "1748146248999-dentara2.png",
+      "originalname": "dentara2.png"
+    },
+    {
+      "id": "1748146249035-uee4stv3u",
+      "filename": "1748146249022-dentaray1.png",
+      "originalname": "dentaray1.png"
+    }
+  ]
 }

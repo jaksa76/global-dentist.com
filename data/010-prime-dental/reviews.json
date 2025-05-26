@@ -1,0 +1,59 @@
+{
+  "place_info": {
+    "title": "Prime Dental Studio",
+    "address": "Bulevar Mihajla Pupina 7, Beograd, Serbia",
+    "rating": 5,
+    "reviews": 57,
+    "type": "Dental clinic"
+  },
+  "reviews": [
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnTURJNGFfdjlnRRAB",
+      "name": "Ilia Vypriazhkin",
+      "score": 5,
+      "comment": "Simply put – amazing dental care. I had root canals done here and got a crown last autumn on a particularly tricky tooth. Honestly, I thought I’d need an implant before coming in, but the doctor saved the tooth! Everyone at the clinic is fantastic – they also speak fluent English, so if you're not a local, it's a great place to take care of any dental issues. I’m actually traveling from abroad now just to get my second crown done – that’s how good they are.\n\nEverything is top-notch, and if you're someone who's nervous about dentist related issues (like I was), there's no pain at all. I wholeheartedly recommend them."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUM5MlBuOUdBEAE",
+      "name": "Lada Kazantseva",
+      "score": 5,
+      "comment": "I recently visited this clinic for a tooth filling and cleaning, and everything went great. They were really friendly and helpful from the moment I scheduled a visit. The dentist was skilled and attentive, ensuring that the procedure was painless and comfortable. Really happy with the results of my visit. I highly recommend this clinic for anyone seeking good dental care in Belgrade"
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUN4enNtR1NnEAE",
+      "name": "DM Traveller",
+      "score": 5,
+      "comment": "I am extremely pleased with the professional work that I had done at the Prime Dental. We travelled from Canada for vacation and visited his clinic for crown procedure. Everything from communications to treatment and follow ups was on highest possible level. Dr. Niketić speaks perfect English, passionate about his work and has amazing manners. His equipment and materials are modern and top of the line. Thank you, Lazar, for quality work at affordable price."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNCNHNHQTBRRRAB",
+      "name": "Воробьева Ольга",
+      "score": 5,
+      "comment": "Very attentive and accurate doctors! I was very afraid of extracting a wisdom tooth, but it all went fast and painless. Lazar speaks both Serbian and English, so the clinic is highly recommended for foreigners looking for cost-effective dental service."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNlOHNHRnVRRRAB",
+      "name": "Mohammed Sabor",
+      "score": 5,
+      "comment": "Prime Dental Studio is the best dental service that you could hope for. I was very fortunate to find their website online and decided to check them out for a minor intervention. I was so pleased with the quality of their care and service that I went ahead to do a major dental treatment that I have been postponing for years. Dr. Lazar is great at making you feel at ease and prepares you for every step while constantly checking on his patients. The atmosphere in his dental clinic is very cheerful, making the painful procedures feel less tense. I cannot recommend him enough; I am so grateful for the amazing work he did for me. Thank you for putting back the huge smile on my face!"
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUNlMnNHdDV3RRAB",
+      "name": "Maya Z.",
+      "score": 5,
+      "comment": "This dentist is by far the most phenomenal dentist I have ever been too! I’ve had some pretty bad experiences and have high anxiety about going to the dentist. Dr. Lazar walked me through every step of the way everything was carefully explained to me while also using state of the art equipment. Dr. Lazar is very kind and attentive while taking care of me the moment I walked through the door. I would highly recommend this dentist to anyone that reads this."
+    },
+    {
+      "id": "ChZDSUhNMG9nS0VJQ0FnSUNlemJTUUt3EAE",
+      "name": "Benny Mathiesen",
+      "score": 5,
+      "comment": "I visited Dr. Lazar's clinic today and got my teeth cleaned, fixed a broken tooth, and also got replaced an old filling. All was done absolutely professional - Furthermore Lazar's passion for his job was a pleasure to experience. I was surprised by his level of English as he talked me through the different aspects of the treatment in a very professional and comforting way.  His passion for his work and interest in his patients wellbeing shined through every moment of the experience, so I would definitely recommend the clinic to both Serbians and forreigners."
+    },
+    {
+      "id": "ChdDSUhNMG9nS0VJQ0FnSUQ5Mjh2cS1BRRAB",
+      "name": "Pavel Vedernikov",
+      "score": 5,
+      "comment": "I have really good experience with this clinic. Equipment seems new and modern. Doctor speaks English really good and he is very polite. There is a possibility to book an appointment online, which is very convenient for me."
+    }
+  ]
+}

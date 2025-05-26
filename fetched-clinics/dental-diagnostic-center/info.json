@@ -1,0 +1,15 @@
+{
+  "id": "ChIJ7a3qLqx6WkcR8Igg8RXmOSM",
+  "name": "Dental Diagnostic Center",
+  "folder": "dental-diagnostic-center",
+  "description": "Kraljice Natalije 36, Beograd, Serbia",
+  "longDescription": "",
+  "rating": 4.9,
+  "country": "Serbia",
+  "town": "Belgrade",
+  "latLng": [
+    44.8118341,
+    20.4588183
+  ],
+  "address": "Kraljice Natalije 36, Beograd, Serbia"
+}

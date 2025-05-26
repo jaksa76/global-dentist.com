@@ -1,0 +1,15 @@
+{
+  "id": "ChIJsSNngPJxWkcRePGem0mdFwA",
+  "name": "JK Dental Clinic",
+  "folder": "jk-dental-clinic",
+  "description": "Hercegovačka 23, Beograd 11000, Serbia",
+  "longDescription": "",
+  "rating": 5,
+  "country": "Serbia",
+  "town": "Belgrade",
+  "latLng": [
+    44.8046809,
+    20.4495367
+  ],
+  "address": "Hercegovačka 23, Beograd 11000, Serbia"
+}

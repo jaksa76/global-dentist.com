@@ -1,0 +1,15 @@
+{
+  "id": "ChIJ60c1zfrWZUcRxN1y9BgjLwI",
+  "name": "Dental Clinic Zagreb",
+  "folder": "dental-clinic-zagreb",
+  "description": "Perkovčeva ul. 3, 10000, Zagreb, Croatia",
+  "longDescription": "",
+  "rating": 3.4,
+  "country": "Croatia",
+  "town": "Zagreb",
+  "latLng": [
+    45.8077027,
+    15.968593
+  ],
+  "address": "Perkovčeva ul. 3, 10000, Zagreb, Croatia"
+}

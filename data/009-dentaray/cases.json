@@ -1,0 +1,39 @@
+{
+  "cases": [
+    {
+      "id": "1748146389106-0xludwr9p",
+      "description": "Implant ",
+      "beforeImage": "1748146389047-dentaray_4.png",
+      "afterImage": "1748146389083-dentaray_4.png",
+      "createdAt": "2025-05-25T04:13:09.106Z"
+    },
+    {
+      "id": "1748146403084-pydjo7ib3",
+      "description": "Implant ",
+      "beforeImage": "1748146402989-dentaray6.png",
+      "afterImage": "1748146403062-dentaray6.png",
+      "createdAt": "2025-05-25T04:13:23.084Z"
+    },
+    {
+      "id": "1748146417270-nzpvbc7kj",
+      "description": "Implant",
+      "beforeImage": "1748146417203-dentaray7.png",
+      "afterImage": "1748146417246-dentaray7.png",
+      "createdAt": "2025-05-25T04:13:37.270Z"
+    },
+    {
+      "id": "1748146429793-v5rfs2ufv",
+      "description": "Implant ",
+      "beforeImage": "1748146429725-dentaray_9__.png",
+      "afterImage": "1748146429783-dentaray_9__.png",
+      "createdAt": "2025-05-25T04:13:49.793Z"
+    },
+    {
+      "id": "1748146442977-e8k92obka",
+      "description": "Implant ",
+      "beforeImage": "1748146442934-dentaray_10_.png",
+      "afterImage": "1748146442966-dentaray_10_.png",
+      "createdAt": "2025-05-25T04:14:02.977Z"
+    }
+  ]
+}

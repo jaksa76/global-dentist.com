@@ -1,0 +1,15 @@
+{
+  "id": "ChIJy9YEP20xUBMRfnfyKhucR40",
+  "name": "Tirana Dental Hospital",
+  "folder": "tirana-dental-hospital",
+  "description": "Rruga: Gjin Bue Shpata, Tiranë 1019, Albania",
+  "longDescription": "",
+  "rating": 5,
+  "country": "Albania",
+  "town": "Tirana",
+  "latLng": [
+    41.320316,
+    19.8122549
+  ],
+  "address": "Rruga: Gjin Bue Shpata, Tiranë 1019, Albania"
+}

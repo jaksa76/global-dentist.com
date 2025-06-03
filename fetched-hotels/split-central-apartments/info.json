@@ -1,12 +1,9 @@
 {
   "name": "Split Central Apartments",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "split-central-apartments",
   "rating": 3.3,
-  "latLng": [
-    43.5098198,
-    16.4357058
-  ],
-  "address": "Ul. Anastasa Popovića 3, 21000, Split, Croatia"
+  "latLng": [43.5098198, 16.4357058],
+  "address": "Ul. Anastasa Popovića 3, Split, Croatia"
 }

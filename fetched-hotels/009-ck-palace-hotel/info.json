@@ -1,13 +1,10 @@
 {
   "name": "Ck palace hotel",
-  "city": "Alişan Sk. No:29",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "ck-palace-hotel",
   "starRating": null,
   "rating": 3.1,
-  "latLng": [
-    41.004618,
-    28.9576313
-  ],
-  "address": "Nişanca, Alişan Sk. No:29, 34130 Fatih/İstanbul, Türkiye"
+  "latLng": [41.004618, 28.9576313],
+  "address": "Nişanca, Alişan Sk. No:29, 34130 Fatih/İstanbul, Turkey"
 }

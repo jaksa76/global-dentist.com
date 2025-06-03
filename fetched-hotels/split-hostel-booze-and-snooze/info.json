@@ -1,12 +1,9 @@
 {
   "name": "Split Hostel Booze and Snooze",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "split-hostel-booze-and-snooze",
   "rating": 4.2,
-  "latLng": [
-    43.50928589999999,
-    16.4383975
-  ],
-  "address": "Narodni trg 8, 21000, Split, Croatia"
+  "latLng": [43.50928589999999, 16.4383975],
+  "address": "Narodni trg 8, Split, Croatia"
 }

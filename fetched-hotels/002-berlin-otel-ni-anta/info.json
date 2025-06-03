@@ -1,13 +1,10 @@
 {
   "name": "Berlin Otel Nişantaşı",
-  "city": "Madalyon Sk. No:10",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "berlin-otel-ni-anta",
   "starRating": null,
   "rating": 3.3,
-  "latLng": [
-    41.0537311,
-    28.9928044
-  ],
-  "address": "Meşrutiyet, Madalyon Sk. No:10, 34363 Şişli/İstanbul, Türkiye"
+  "latLng": [41.0537311, 28.9928044],
+  "address": "Meşrutiyet, Madalyon Sk. No:10, 34363 Şişli/İstanbul, Turkey"
 }

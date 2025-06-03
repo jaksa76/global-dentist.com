@@ -1,12 +1,9 @@
 {
   "name": "Center Boutique Hotel",
-  "city": "Rr. Ded Gjo Luli",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "center-boutique-hotel",
   "rating": 4.2,
-  "latLng": [
-    41.3305083,
-    19.8166322
-  ],
-  "address": "Rr. Ded Gjo Luli, Tiranë 1001, Albania"
+  "latLng": [41.3305083, 19.8166322],
+  "address": "Rr. Ded Gjo Luli, Tirana 1001, Albania"
 }

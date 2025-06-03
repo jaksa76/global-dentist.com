@@ -1,12 +1,9 @@
 {
   "name": "Good People Hostel Belgrade",
-  "city": "Knićaninova 12",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "good-people-hostel-belgrade",
   "rating": 4.7,
-  "latLng": [
-    44.8235646,
-    20.4625582
-  ],
-  "address": "Knićaninova 12, Beograd 11158, Serbia"
+  "latLng": [44.8235646, 20.4625582],
+  "address": "Knićaninova 12, Belgrade 11158, Serbia"
 }

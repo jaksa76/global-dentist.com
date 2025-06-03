@@ -1,12 +1,9 @@
 {
   "name": "Hotel Serbia",
-  "city": "Ustanička 127c Beograd RS",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "hotel-serbia",
   "rating": 4,
-  "latLng": [
-    44.78444,
-    20.4955333
-  ],
-  "address": "Ustanička 127c Beograd RS, 11000, Serbia"
+  "latLng": [44.78444, 20.4955333],
+  "address": "Ustanička 127c, Belgrade 11000, Serbia"
 }

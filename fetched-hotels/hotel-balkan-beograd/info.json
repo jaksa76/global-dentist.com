@@ -1,12 +1,9 @@
 {
   "name": "Hotel Balkan Beograd",
-  "city": "Prizrenska 2",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "hotel-balkan-beograd",
   "rating": 4.1,
-  "latLng": [
-    44.8135587,
-    20.4600277
-  ],
-  "address": "Prizrenska 2, Beograd 11000, Serbia"
+  "latLng": [44.8135587, 20.4600277],
+  "address": "Prizrenska 2, Belgrade 11000, Serbia"
 }

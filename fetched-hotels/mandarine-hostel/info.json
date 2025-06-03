@@ -1,12 +1,9 @@
 {
   "name": "Mandarine Hostel",
-  "city": "Rruga Mustafa Lleshi Vila Mandarine",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "mandarine-hostel",
   "rating": 4.9,
-  "latLng": [
-    41.3238233,
-    19.8259869
-  ],
-  "address": "Rruga Mustafa Lleshi Vila Mandarine, Tiranë 1001, Albania"
+  "latLng": [41.3238233, 19.8259869],
+  "address": "Rruga Mustafa Lleshi Vila Mandarine, Tirana 1001, Albania"
 }

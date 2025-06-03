@@ -1,13 +1,10 @@
 {
   "name": "seyithan palace hotel",
-  "city": "2321. Sokak No:2",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "seyithan-palace-hotel",
   "starRating": null,
   "rating": 3.7,
-  "latLng": [
-    41.0081552,
-    28.7980588
-  ],
-  "address": "Sefaköy, Tevfik Bey, 2321. Sokak No:2, 34283 Küçükçekmece/İstanbul, Türkiye"
+  "latLng": [41.0081552, 28.7980588],
+  "address": "Sefaköy, Tevfik Bey, 2321. Sokak No:2, 34283 Küçükçekmece/İstanbul, Turkey"
 }

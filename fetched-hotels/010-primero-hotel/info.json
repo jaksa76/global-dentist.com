@@ -1,13 +1,10 @@
 {
   "name": "Primero Hotel",
-  "city": "Pertev Paşa Sk. No:25",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "primero-hotel",
   "starRating": null,
   "rating": 4.6,
-  "latLng": [
-    41.0071034,
-    28.9698673
-  ],
-  "address": "Emin Sinan, Pertev Paşa Sk. No:25, 34126 Fatih/İstanbul, Türkiye"
+  "latLng": [41.0071034, 28.9698673],
+  "address": "Emin Sinan, Pertev Paşa Sk. No:25, 34126 Fatih/İstanbul, Turkey"
 }

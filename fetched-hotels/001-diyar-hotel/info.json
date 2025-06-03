@@ -1,13 +1,10 @@
 {
   "name": "Diyar Hotel",
-  "city": "Arap Çeşmesi Sk. No:9",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "diyar-hotel",
   "starRating": null,
   "rating": 3.3,
-  "latLng": [
-    41.0205443,
-    28.9627081
-  ],
-  "address": "Yavuz Sinan, Arap Çeşmesi Sk. No:9, 34083 Fatih/İstanbul, Türkiye"
+  "latLng": [41.0205443, 28.9627081],
+  "address": "Yavuz Sinan, Arap Çeşmesi Sk. No:9, 34083 Fatih/İstanbul, Turkey"
 }

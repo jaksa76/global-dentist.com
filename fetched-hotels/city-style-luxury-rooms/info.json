@@ -1,12 +1,9 @@
 {
   "name": "City & Style Luxury Rooms",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "city-style-luxury-rooms",
   "rating": 5,
-  "latLng": [
-    43.5145221,
-    16.4432384
-  ],
-  "address": "Ul. Domovinskog rata 23, 21000, Split, Croatia"
+  "latLng": [43.5145221, 16.4432384],
+  "address": "Ul. Domovinskog rata 23, Split, Croatia"
 }

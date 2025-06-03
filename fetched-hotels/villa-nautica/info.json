@@ -1,12 +1,9 @@
 {
   "name": "Villa Nautica",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "villa-nautica",
   "rating": 4.7,
-  "latLng": [
-    43.5085304,
-    16.4338138
-  ],
-  "address": "Senjska ul. 20, 21000, Split, Croatia"
+  "latLng": [43.5085304, 16.4338138],
+  "address": "Senjska ul. 20, Split, Croatia"
 }

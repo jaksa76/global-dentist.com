@@ -1,12 +1,9 @@
 {
   "name": "Kalpazo Inn Tirana",
-  "city": "Rruga Xhanfize Keko",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "kalpazo-inn-tirana",
   "rating": 4.6,
-  "latLng": [
-    41.3393614,
-    19.8434398
-  ],
-  "address": "Rruga Xhanfize Keko, Tiranë 1001, Albania"
+  "latLng": [41.3393614, 19.8434398],
+  "address": "Rruga Xhanfize Keko, Tirana 1001, Albania"
 }

@@ -1,12 +1,9 @@
 {
   "name": "Stella Apartments, Belgrade",
-  "city": "Zmaj Jovina 9/1",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "stella-apartments-belgrade",
   "rating": 4.8,
-  "latLng": [
-    44.8170551,
-    20.4574862
-  ],
-  "address": "Zmaj Jovina 9/1, Beograd 11000, Serbia"
+  "latLng": [44.8170551, 20.4574862],
+  "address": "Zmaj Jovina 9/1, Belgrade 11000, Serbia"
 }

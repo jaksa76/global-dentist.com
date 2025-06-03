@@ -1,12 +1,9 @@
 {
   "name": "Belgrade apartments",
-  "city": "Stan 16",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "belgrade-apartments",
   "rating": 4,
-  "latLng": [
-    44.8117949,
-    20.4596022
-  ],
-  "address": "Pajsijeva 1, Sprat 4, Stan 16, Beograd 11000, Serbia"
+  "latLng": [44.8117949, 20.4596022],
+  "address": "Pajsijeva 1, Sprat 4, Stan 16, Belgrade 11000, Serbia"
 }

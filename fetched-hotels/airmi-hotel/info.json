@@ -1,12 +1,9 @@
 {
   "name": "AirMi hotel 米家机场酒店",
-  "city": "Vojvođanska 379",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "airmi-hotel",
   "rating": 4.1,
-  "latLng": [
-    44.79831129999999,
-    20.3168646
-  ],
-  "address": "Vojvođanska 379, Surčin 11271, Serbia"
+  "latLng": [44.79831129999999, 20.3168646],
+  "address": "Vojvođanska 379, Belgrade 11271, Serbia"
 }

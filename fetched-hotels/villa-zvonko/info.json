@@ -1,12 +1,9 @@
 {
   "name": "Villa Zvonko",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "villa-zvonko",
   "rating": 2.8,
-  "latLng": [
-    43.50204799999999,
-    16.4578358
-  ],
-  "address": "Ul. Ivana pl. Zajca 5, 21000, Split, Croatia"
+  "latLng": [43.50204799999999, 16.4578358],
+  "address": "Ul. Ivana pl. Zajca 5, Split, Croatia"
 }

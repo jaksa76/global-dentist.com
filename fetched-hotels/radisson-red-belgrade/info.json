@@ -1,12 +1,9 @@
 {
   "name": "Radisson RED Belgrade",
-  "city": "Takovska 49",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "radisson-red-belgrade",
   "rating": 4.5,
-  "latLng": [
-    44.8158456,
-    20.4756244
-  ],
-  "address": "Takovska 49, Beograd 11000, Serbia"
+  "latLng": [44.8158456, 20.4756244],
+  "address": "Takovska 49, Belgrade 11000, Serbia"
 }

@@ -1,13 +1,10 @@
 {
   "name": "Ottopera hotel",
-  "city": "Feridiye Cd. No:95",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "ottopera-hotel",
   "starRating": null,
   "rating": 4.2,
-  "latLng": [
-    41.0398671,
-    28.9820162
-  ],
-  "address": "Kocatepe, Feridiye Cd. No:95, 34437 Beyoğlu/İstanbul, Türkiye"
+  "latLng": [41.0398671, 28.9820162],
+  "address": "Kocatepe, Feridiye Cd. No:95, 34437 Beyoğlu/İstanbul, Turkey"
 }

@@ -1,12 +1,9 @@
 {
   "name": "Mercure Belgrade Excelsior",
-  "city": "Kneza Miloša 5",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "mercure-belgrade-excelsior",
   "rating": 4.5,
-  "latLng": [
-    44.8098901,
-    20.4655807
-  ],
-  "address": "Kneza Miloša 5, Beograd 11000, Serbia"
+  "latLng": [44.8098901, 20.4655807],
+  "address": "Kneza Miloša 5, Belgrade 11000, Serbia"
 }

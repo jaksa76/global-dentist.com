@@ -1,12 +1,9 @@
 {
   "name": "IN Hotel Belgrade",
-  "city": "Bulevar Arsenija Čarnojevića 56",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "in-hotel-belgrade",
   "rating": 4.5,
-  "latLng": [
-    44.8114813,
-    20.424111
-  ],
-  "address": "Bulevar Arsenija Čarnojevića 56, Novi Beograd 11070, Serbia"
+  "latLng": [44.8114813, 20.424111],
+  "address": "Bulevar Arsenija Čarnojevića 56, Novi Belgrade 11070, Serbia"
 }

@@ -1,13 +1,10 @@
 {
   "name": "The Reina Istanbul",
-  "city": "Dizdariye Ykş. no :16",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "the-reina-istanbul",
   "starRating": null,
   "rating": 3.5,
-  "latLng": [
-    41.0058671,
-    28.9715714
-  ],
-  "address": "Binbirdirek, Dizdariye Ykş. no :16, 34122 Fatih/İstanbul, Türkiye"
+  "latLng": [41.0058671, 28.9715714],
+  "address": "Binbirdirek, Dizdariye Ykş. no :16, 34122 Fatih/İstanbul, Turkey"
 }

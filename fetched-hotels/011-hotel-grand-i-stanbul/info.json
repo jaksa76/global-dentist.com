@@ -1,13 +1,10 @@
 {
   "name": "Hotel Grand İstanbul",
-  "city": "Valide Cami Sk. No:45",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "hotel-grand-i-stanbul",
   "starRating": null,
   "rating": 4.4,
-  "latLng": [
-    41.00740529999999,
-    28.9516635
-  ],
-  "address": "Aksaray, Valide Cami Sk. No:45, 34096 Fatih/İstanbul, Türkiye"
+  "latLng": [41.00740529999999, 28.9516635],
+  "address": "Aksaray, Valide Cami Sk. No:45, 34096 Fatih/İstanbul, Turkey"
 }

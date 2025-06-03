@@ -1,12 +1,9 @@
 {
   "name": "Holiday Inn Belgrade by IHG",
-  "city": "Španskih boraca 74",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "holiday-inn-belgrade-by-ihg",
   "rating": 4.5,
-  "latLng": [
-    44.809746,
-    20.4144476
-  ],
-  "address": "Španskih boraca 74, Beograd 11070, Serbia"
+  "latLng": [44.809746, 20.4144476],
+  "address": "Španskih boraca 74, Belgrade 11070, Serbia"
 }

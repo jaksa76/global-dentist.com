@@ -1,12 +1,9 @@
 {
   "name": "Miss Depolo hostel&apartmants, Belgrade",
-  "city": "Ljubomira Stojanovića 4",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "miss-depolo-hostel-apartmants-belgrade",
   "rating": 4.7,
-  "latLng": [
-    44.8160983,
-    20.4783421
-  ],
-  "address": "Ljubomira Stojanovića 4, Beograd 11060, Serbia"
+  "latLng": [44.8160983, 20.4783421],
+  "address": "Ljubomira Stojanovića 4, Belgrade 11060, Serbia"
 }

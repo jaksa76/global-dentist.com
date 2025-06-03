@@ -1,12 +1,9 @@
 {
   "name": "N HOTEL CITY CENTER BY NOSHI",
-  "city": "Rruga Jeronim De Rada 75",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "n-hotel-city-center-by-noshi",
   "rating": 4.4,
-  "latLng": [
-    41.3273142,
-    19.8251292
-  ],
-  "address": "Rruga Jeronim De Rada 75, Tiranë 1001, Albania"
+  "latLng": [41.3273142, 19.8251292],
+  "address": "Rruga Jeronim De Rada 75, Tirana 1001, Albania"
 }

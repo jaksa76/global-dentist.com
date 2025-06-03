@@ -1,12 +1,9 @@
 {
   "name": "Metropol Palace Hotel Belgrade",
-  "city": "Bulevar kralja Aleksandra 69",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "metropol-palace-hotel-belgrade",
   "rating": 4.5,
-  "latLng": [
-    44.806816,
-    20.4738641
-  ],
-  "address": "Bulevar kralja Aleksandra 69, Beograd 11000, Serbia"
+  "latLng": [44.806816, 20.4738641],
+  "address": "Bulevar kralja Aleksandra 69, Belgrade 11000, Serbia"
 }

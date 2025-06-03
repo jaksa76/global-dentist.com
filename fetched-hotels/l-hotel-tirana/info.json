@@ -1,12 +1,9 @@
 {
-  "name": "L’Hotel Tirana",
-  "city": "Kavaja St",
+  "name": "L'Hotel Tirana",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "l-hotel-tirana",
   "rating": 4,
-  "latLng": [
-    41.3275886,
-    19.8154534
-  ],
-  "address": "Kavaja St, Tiranë 1001, Albania"
+  "latLng": [41.3275886, 19.8154534],
+  "address": "Kavaja St, Tirana 1001, Albania"
 }

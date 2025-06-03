@@ -1,12 +1,9 @@
 {
   "name": "Jupiter Lux Rooms",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "jupiter-lux-rooms",
   "rating": 4,
-  "latLng": [
-    43.5085699,
-    16.4343817
-  ],
-  "address": "Senjska ul. 1, 21000, Split, Croatia"
+  "latLng": [43.5085699, 16.4343817],
+  "address": "Senjska ul. 1, Split, Croatia"
 }

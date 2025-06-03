@@ -1,12 +1,9 @@
 {
   "name": "Edisem Hotel",
-  "city": "9Q2C+2JC",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "edisem-hotel",
   "rating": 4.4,
-  "latLng": [
-    41.3500547,
-    19.7715073
-  ],
-  "address": "9Q2C+2JC, Kashar, Albania"
+  "latLng": [41.3500547, 19.7715073],
+  "address": "9Q2C+2JC, Kashar, Tirana, Albania"
 }

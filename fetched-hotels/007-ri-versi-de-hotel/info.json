@@ -1,13 +1,10 @@
 {
   "name": "RİVERSİDE HOTEL",
-  "city": "Küçük Pazar Cd. no:1 1",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "ri-versi-de-hotel",
   "starRating": null,
   "rating": 4.7,
-  "latLng": [
-    41.0199875,
-    28.9622471
-  ],
-  "address": "Yavuz Sinan, Küçük Pazar Cd. no:1 1, 34134 Fatih/İstanbul, Türkiye"
+  "latLng": [41.0199875, 28.9622471],
+  "address": "Yavuz Sinan, Küçük Pazar Cd. no:1 1, 34134 Fatih/İstanbul, Turkey"
 }

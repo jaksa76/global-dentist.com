@@ -1,12 +1,9 @@
 {
   "name": "Central Rooms Split, Split",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "central-rooms-split-split",
   "rating": 4.3,
-  "latLng": [
-    43.511258,
-    16.4385245
-  ],
-  "address": "Ćirila i Metoda 2, 21000, Split, Croatia"
+  "latLng": [43.511258, 16.4385245],
+  "address": "Ćirila i Metoda 2, Split, Croatia"
 }

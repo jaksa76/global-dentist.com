@@ -1,12 +1,9 @@
 {
   "name": "Hyatt Regency Belgrade",
-  "city": "Milentija Popovića 5",
+  "city": "Belgrade",
   "country": "Serbia",
   "folder": "hyatt-regency-belgrade",
   "rating": 4.6,
-  "latLng": [
-    44.813059,
-    20.4340388
-  ],
-  "address": "Milentija Popovića 5, Beograd 11070, Serbia"
+  "latLng": [44.813059, 20.4340388],
+  "address": "Milentija Popovića 5, Belgrade 11070, Serbia"
 }

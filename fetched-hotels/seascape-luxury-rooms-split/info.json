@@ -1,12 +1,9 @@
 {
   "name": "Seascape Luxury Rooms, Split",
-  "city": "21000",
+  "city": "Split",
   "country": "Croatia",
   "folder": "seascape-luxury-rooms-split",
   "rating": 4.3,
-  "latLng": [
-    43.5060405,
-    16.4456142
-  ],
-  "address": "Ul. kralja Zvonimira 14, 21000, Split, Croatia"
+  "latLng": [43.5060405, 16.4456142],
+  "address": "Ul. kralja Zvonimira 14, Split, Croatia"
 }

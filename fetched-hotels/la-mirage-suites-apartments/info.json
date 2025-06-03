@@ -1,12 +1,9 @@
 {
   "name": "La Mirage Suites & Apartments",
-  "city": "Sheshi Willson",
+  "city": "Tirana",
   "country": "Albania",
   "folder": "la-mirage-suites-apartments",
   "rating": 4.2,
-  "latLng": [
-    41.3187518,
-    19.8141921
-  ],
-  "address": "Sheshi Willson, Tiranë 1019, Albania"
+  "latLng": [41.3187518, 19.8141921],
+  "address": "Sheshi Willson, Tirana 1019, Albania"
 }

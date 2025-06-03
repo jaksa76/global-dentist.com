@@ -1,13 +1,10 @@
 {
   "name": "Grand Armada Hotel",
-  "city": "D-100 Kuzey Yanyolu No:164",
-  "country": "Türkiye",
+  "city": "Istanbul",
+  "country": "Turkey",
   "folder": "grand-armada-hotel",
   "starRating": null,
   "rating": 4.7,
-  "latLng": [
-    40.98048199999999,
-    28.7317491
-  ],
-  "address": "Gümüşpala, D-100 Kuzey Yanyolu No:164, 34320 Avcılar/İstanbul, Türkiye"
+  "latLng": [40.98048199999999, 28.7317491],
+  "address": "Gümüşpala, D-100 Kuzey Yanyolu No:164, 34320 Avcılar/İstanbul, Turkey"
 }
